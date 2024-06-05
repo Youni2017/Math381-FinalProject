@@ -44,7 +44,7 @@ Modeling data:
 - `R1_config2.csv` \- $R_1$’s Menu Item under configuration $a = 2$.
 - `R2_config2.csv` \- $R_2$’s Menu Item under configuration $a = 2$.
 - `R5_config2.csv` \- $R_5$’s Menu Item under configuration $a = 2$.
-- `arrangement_config1` \- One feasible way of arranging items
+- `arrangement_config1.csv` \- One feasible way of arranging items
 
 ### Program File
 
