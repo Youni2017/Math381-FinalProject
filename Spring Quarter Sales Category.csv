@@ -1,0 +1,2302 @@
+Group,Category,Menu Item,Gross,Void Qty,Void Amt,Refund Qty,Refund Amt,Option Amt,Discount,PriceLevelAdj,Approx. Tax,Net Qty,Net Sales
+ACE Sushi,Sushi Counter,ACE California Crunch Roll,3066.96,0,0,0,0,0.75,-3.8,0,309.3,279,3063.16
+,,ACE Combo Big 3,41.97,0,0,0,0,0,0,0,4.24,3,41.97
+,,ACE Poke Bowl Spicy Salmon,545.61,0,0,0,0,0,0,0,55.11,39,545.61
+,,ACE Poke Bowl Spicy Tuna,335.76,0,0,0,0,0,0,0,33.91,24,335.76
+,,ACE Salmon Roll,1197.91,0,0,0,0,0,-2.45,0,120.74,109,1195.46
+,Sushi Counter,---,5188.21,0,0,0,0,0.75,-6.25,0,---,454,5181.96
+ACE Sushi,---,---,5188.21,0,0,0,0,0.75,-6.25,0,---,454,5181.96
+Bakery & Desserts,Dessert,Alki Tiramisu Slice ,347.42,0,0,0,0,0,0,0,35.09,58,347.42
+,,Brownie,131.67,0,0,0,0,0,0,0,13.3,33,131.67
+,,Cookie,88.77,0,0,0,0,0,-0.27,0,8.94,33,88.5
+,,Dessert Bar,283.29,0,0,0,0,0,0,0,28.61,71,283.29
+,,Fruit Tart,730.17,0,0,0,0,0,0,0,73.75,133,730.17
+,,Mini Cheesecake,6.59,0,0,0,0,0,0,0,0.67,1,6.59
+,,Mini Cookie,0,0,0,0,0,0,0,0,0,0,0
+,,Rice Crispy Treat,0,0,0,0,0,0,0,0,0,0,0
+,Dessert,---,1587.91,0,0,0,0,0,-0.27,0,---,329,1587.64
+,Fresh Baked Goods,Biscotti,0,0,0,0,0,0,0,0,0,0,0
+,,Cheesy Bagel,601.12,0,0,0,0,0,-0.29,0,0,208,600.83
+,,Cinnamon Roll,280.46,0,0,0,0,0,0,0,0,74,280.46
+,,Coffee Cake,0,0,0,0,0,0,0,0,0,0,0
+,,Croissant,997.52,0,0,0,0,0.75,-0.38,0,0,263,997.14
+,,Danish,294.48,0,0,0,0,0,0,0,0,72,294.48
+,,Doughnut Bar,359,0,0,0,0,0,0,0,0,100,359
+,,Doughnut Fritter,272.88,0,0,0,0,0,-0.76,0,0,72,272.12
+,,Doughnut Round,350.42,0,0,0,0,1.25,-0.34,0,0,103,350.08
+,,GF Fruit Bar,0,0,0,0,0,0,0,0,0,0,0
+,,GF Muffin,43.92,0,0,0,0,0,0,0,0,8,43.92
+,,Muffin,931.31,0,0,0,0,1.5,-1.44,0,0,259,929.87
+,,Parisian Bar ,0,0,0,0,0,0,0,0,0,0,0
+,,Parisian Cake ,65.9,0,0,0,0,0,0,0,0,10,65.9
+,,Scone,183.09,0,0,0,0,0,0,0,0,51,183.09
+,,Tea Bread Slice,568.56,0,0,0,0,0,-0.93,0,0,184,567.63
+,,Traditional Bagel,481.51,0,0,0,0,0,0,0,0,179,481.51
+,Fresh Baked Goods,---,5430.17,0,0,0,0,3.5,-4.14,0,---,1583,5426.03
+Bakery & Desserts,---,---,7018.08,0,0,0,0,3.5,-4.41,0,---,1912,7013.67
+Cafe Beverages,Coffee,Coffee (Grande),140.35,0,0,0,0,0,-1.1,-13.65,14.06,40,139.25
+,,Coffee (Short),62.5,0,0,0,0,0,-0.25,-21.25,6.29,25,62.25
+,,Coffee (Tall),207.9,0,0,0,0,0,-3.65,-30.15,20.63,69,204.25
+,,Cold Brew Coffee (Grande),128.25,0,0,0,0,2.25,-0.9,-12.6,12.64,28,127.35
+,,Cold Brew Coffee (Short),16.5,0,0,0,0,1.5,0,-2.8,1.51,4,16.5
+,,Cold Brew Coffee (Tall),75,0,0,0,0,3,0,-13.5,7.27,18,75
+,,Nitro Cold Brew (Grande),0,0,0,0,0,0,0,0,0,0,0
+,,Nitro Cold Brew (Short),0,0,0,0,0,0,0,0,0,0,0
+,Coffee,---,630.5,0,0,0,0,6.75,-5.9,-93.95,---,184,624.6
+,Espresso,Americano (Grande),135.5,0,0,0,0,6,-1.33,-49.95,12.95,37,134.17
+,,Americano (Short),63.75,0,0,0,0,0.75,0,-11.7,6.36,18,63.75
+,,Americano (Tall),253.25,0,0,0,0,8.25,-1.98,-52.5,24.55,70,251.27
+,,Cappuccino (Grande),61.25,0,0,0,0,2.75,0,-16.25,5.91,13,61.25
+,,Cappuccino (Short),42,0,0,0,0,0,0,-19.8,4.24,12,42
+,,Cappuccino (Tall),58.5,0,0,0,0,0,-0.7,-9.75,5.84,13,57.8
+,,Espresso (Double),40,0,0,0,0,1.5,-0.35,-2.75,3.85,11,39.65
+,,Espresso Macchiato (Double),8.75,0,0,0,0,0.75,0,0.3,0.81,2,8.75
+,,Latte (Grande),1716.25,0,0,0,0,154.25,-1.5,-70.5,157.61,284,1714.75
+,,Latte (Short),387,0,0,0,0,27,-1.8,-52,36.18,80,385.2
+,,Latte (Tall),2103,0,0,0,0,198,-2.5,-95.25,192.15,381,2100.5
+,,Mocha (Grande),306,0,0,0,0,7,-0.25,11.5,30.17,46,305.75
+,,Mocha (Short),117.5,0,0,0,0,2,0,-1.05,11.67,21,117.5
+,,Mocha (Tall),396,0,0,0,0,12,0,22.4,38.78,64,396
+,,White Chocolate Mocha (Grande),483.5,0,0,0,0,11,-0.93,0,47.63,70,482.57
+,,White Chocolate Mocha (Short),76.25,0,0,0,0,1.5,-0.58,-7.8,7.49,13,75.67
+,,White Chocolate Mocha (Tall),569.5,0,0,0,0,13.25,0,-17.8,56.18,89,569.5
+,Espresso,---,6818,0,0,0,0,446,-11.92,-372.9,---,1224,6806.08
+,Options - Coffee/Espresso Modifiers,Add Espresso Shot,0,0,0,0,0,0,0,0,11.99,0,0
+,,Add Flavor,0,0,0,0,0,0,0,0,47.87,0,0
+,,Breve,0,0,0,0,0,0,0,0,6.59,0,0
+,Options - Coffee/Espresso Modifiers,---,0,0,0,0,0,0,0,0,---,0,0
+,Options - Flavor,Caramel,0,0,0,0,0,0,0,0,0,0,0
+,,Caramel SF,0,0,0,0,0,0,0,0,0,0,0
+,,Cinnamon Dolce,0,0,0,0,0,0,0,0,0,0,0
+,,Cinnamon SF,0,0,0,0,0,0,0,0,0,0,0
+,,Classic Syrup,0,0,0,0,0,0,0,0,0,0,0
+,,Hazelnut,0,0,0,0,0,0,0,0,0,0,0
+,,Mocha,0,0,0,0,0,0,0,0,0,0,0
+,,Peppermint,0,0,0,0,0,0,0,0,0,0,0
+,,Pumpkin Spice,0,0,0,0,0,0,0,0,0,0,0
+,,Raspberry,0,0,0,0,0,0,0,0,0,0,0
+,,Vanilla,0,0,0,0,0,0,0,0,0,0,0
+,,Vanilla SF,0,0,0,0,0,0,0,0,0,0,0
+,,White Chocolate,0,0,0,0,0,0,0,0,0,0,0
+,Options - Flavor,---,0,0,0,0,0,0,0,0,---,0,0
+,Other Beverages,Hot Chocolate (Grande),145.25,0,0,0,0,0.75,0,-20.4,14.59,34,145.25
+,,Hot Chocolate (Short),63.25,0,0,0,0,1.5,0,-20.9,6.24,19,63.25
+,,Hot Chocolate (Tall),231.75,0,0,0,0,3,0,-42.7,23.1,61,231.75
+,Other Beverages,---,440.25,0,0,0,0,5.25,0,-84,---,114,440.25
+,Tea,Brewed Tea (Grande),67.25,0,0,0,0,0.75,-0.35,-18.05,6.68,19,66.9
+,,Brewed Tea (Short),7,0,0,0,0,0,0,-0.7,0.71,2,7
+,,Brewed Tea (Tall),64.5,0,0,0,0,1.5,0,-8.1,6.36,18,64.5
+,,Chai Tea Latte (Grande),925,0,0,0,0,56.75,-0.58,0,87.63,151,924.42
+,,Chai Tea Latte (Short),201,0,0,0,0,6.25,0,-24.6,19.67,41,201
+,,Chai Tea Latte (Tall),1011,0,0,0,0,60.75,0,-36.2,95.98,181,1011
+,,Husky Grind Iced Tea (Grande),44.25,0,0,0,0,2.25,-0.35,0,4.21,12,43.9
+,,Husky Grind Iced Tea (Short),10.75,0,0,0,0,0.75,0,0,1.01,4,10.75
+,,Husky Grind Iced Tea (Tall),53.25,0,0,0,0,5.25,-0.3,0,4.82,16,52.95
+,,Loose Leaf Tea,31.5,0,0,0,0,0,0,0,3.18,9,31.5
+,,Matcha Green Tea Latte (Grande),134.25,0,0,0,0,3,0,10.5,13.26,21,134.25
+,,Matcha Green Tea Latte (Short),26.25,0,0,0,0,0,0,-0.5,2.65,5,26.25
+,,Matcha Green Tea Latte (Tall),250.25,0,0,0,0,3,0,12.6,24.97,43,250.25
+,,Matcha Lemonade (Grande),9.9,0,0,0,0,0,0,0,1,2,9.9
+,,Tea Latte (Grande),128.75,0,0,0,0,2.25,0,-5.75,12.78,23,128.75
+,,Tea Latte (Short),18.75,0,0,0,0,0.75,0,-3.4,1.82,4,18.75
+,,Tea Latte (Tall),111.5,0,0,0,0,1.5,0,-9.45,11.11,22,111.5
+,Tea,---,3095.15,0,0,0,0,144.75,-1.58,-83.65,---,573,3093.57
+Cafe Beverages,---,---,10983.9,0,0,0,0,602.75,-19.4,-634.5,---,2095,10964.5
+Deli,Bagel Sandwich,Mercer Bagel Sandwich,568.83,0,0,0,0,0,0,-33.5,57.45,67,568.83
+Entrees,Breakfast,Oatmeal,1.49,0,0,0,0,0,0,0,0.15,1,1.49
+,,Oatmeal (12oz),23.88,0,0,0,0,0,0,0,2.41,12,23.88
+,,Oatmeal (16oz),9.96,0,0,0,0,0,0,0,1.01,4,9.96
+,,Oatmeal (8oz),40.23,0,0,0,0,0,-0.9,0,3.97,27,39.33
+,Breakfast,---,75.56,0,0,0,0,0,-0.9,0,---,44,74.66
+Entrees,---,---,75.56,0,0,0,0,0,-0.9,0,---,44,74.66
+Food Service,Sandwich and Wrap,Mozzarella and Tomato Baguette,0,0,0,0,0,0,0,0,0,0,0
+Grocery - Bakery,Bread,Basson Pita Bread,35.91,0,0,0,0,0,-0.25,0,0,9,35.66
+,,Basson Pita Bread Wheat,15.96,0,0,0,0,0,0,0,0,4,15.96
+,,"Don Pancho Tortilla Flour 6 16ct""",68,0,0,0,0,0,0,0,0,16,68
+,,EB Bread Fremont Sourdough,39.95,0,0,0,0,0,0,0,0,5,39.95
+,,EB Bread Multi Grain Sliced,35.96,0,0,0,0,0,0,0,0,4,35.96
+,,EB Raisin Pecan Sliced,35.96,0,0,0,0,0,-0.25,0,0,4,35.71
+,,EB Rosemary Sliced,71.92,0,0,0,0,0,0,0,0,8,71.92
+,,EB Rustic Focaccia,59.9,0,0,0,0,0,0,0,0,10,59.9
+,,Franz 4.5in Sesame Bun 8Pk,54.89,0,0,0,0,0,0,0,0,11,54.89
+,,Franz 4in Hamburger Bun 8Pk,54.89,0,0,0,0,0,0,0,0,11,54.89
+,,Franz Bagel Blueberry 6Pk,113.81,0,0,0,0,0,0,0,0,19,113.81
+,,Franz Bagel Cinn Raisin 6Pk,107.82,0,0,0,0,0,0,0,0,18,107.82
+,,Franz Bagel Everything 6Pk,317.47,0,0,0,0,0,-0.25,0,0,53,317.22
+,,Franz Bagel Mini 12CT,95.8,0,0,0,0,0,0,0,0,20,95.8
+,,Franz Bagel Mini Blueberry 12CT,86.22,0,0,0,0,0,-0.25,0,0,18,85.97
+,,Franz Bagel Plain 6CT,467.22,0,0,0,0,0,-0.25,0,0,78,466.97
+,,Franz Bread Bainbridge Cinnamon Swirl,176.54,0,0,0,0,0,-0.25,0,0,26,176.29
+,,Franz Bread Big Horn Valley Wheat,47.61,0,0,0,0,0,-0.25,0,0,9,47.36
+,,Franz Bread Buttermilk,185.15,0,0,0,0,0,0,0,0,35,185.15
+,,Franz Bread Cannon Milk and Honey,63.48,0,0,0,0,0,-0.25,0,0,12,63.23
+,,Franz Bread Hawaiian,106.93,0,0,0,0,0,-0.25,0,0,17,106.68
+,,Franz Bread Keto,105.17,0,0,0,0,0,0,0,0,13,105.17
+,,Franz Bread Lake Chelan Blueberry,34.95,0,0,0,0,0,0,0,0,5,34.95
+,,Franz Bread Lake Washington Honey,63.48,0,0,0,0,0,0,0,0,12,63.48
+,,Franz Bread Limited Edition,55.93,0,0,0,0,0,0,0,0,7,55.93
+,,Franz Bread Mountain White GF,55.93,0,0,0,0,0,0,0,0,7,55.93
+,,Franz Bread Old Town Sourdough,94.35,0,0,0,0,0,0,0,0,15,94.35
+,,Franz Bread Organic 24 Grain,95.88,0,0,0,0,0,-0.8,0,0,12,95.08
+,,Franz Bread Organic Big Horn Wheat,69.9,0,0,0,0,0,0,0,0,10,69.9
+,,Franz Bread Organic Great Seed,48.93,0,0,0,0,0,0,0,0,7,48.93
+,,Franz Bread Organic Rogue 24 Grain,23.97,0,0,0,0,0,0,0,0,3,23.97
+,,Franz Bread Organic Willamette,79.9,0,0,0,0,0,0,0,0,10,79.9
+,,Franz Bread Premium White,73,0,0,0,0,0,-0.5,0,0,20,72.5
+,,Franz Bread San Juan 9 Grain,190.44,0,0,0,0,0,-0.53,0,0,36,189.91
+,,Franz Bread Seattle Sourdough,481.11,0,0,0,0,0,-1.11,0,0,79,480
+,,Franz Bread Seven Grain GF,55.93,0,0,0,0,0,0,0,0,7,55.93
+,,Franz Bread White Pita,40.72,0,0,0,0,0,0,0,0,8,40.72
+,,Franz Bread Whole Grain White,99.75,0,0,0,0,0,0,0,0,21,99.75
+,,Franz Bread Whole Wheat,127.68,0,0,0,0,0,-0.65,0,0,32,127.03
+,,Franz English Muffin Extra Crisp 6CT,31.5,0,0,0,0,0,-0.25,0,0,7,31.25
+,,Franz English Muffin Orig 6CT,53.85,0,0,0,0,0,0,0,0,15,53.85
+,,Franz English Muffin Whole Wheat 6CT,21.54,0,0,0,0,0,0,0,0,6,21.54
+,,Franz Garlic Bread,25.45,0,0,0,0,0,0,0,0,5,25.45
+,,Franz Hawaiian Dinner Rolls 12CT,263.56,0,0,0,0,0,-0.25,0,0,44,263.31
+,,Franz Hot Dog Buns 8CT,38.5,0,0,0,0,0,0,0,0,11,38.5
+,,La Burrita Tortilla Corn Yellow 7.5z/10's,51.8,0,0,0,0,0,0,0,0,20,51.8
+,,Mission Tortilla Flour 10in 8CT,70.02,0,0,0,0,0,-0.64,0,0,18,69.38
+,,Mission Tortilla Flour 8in 10CT,62.82,0,0,0,0,0,0,0,0,18,62.82
+,,Parisian Star Baguette,39.9,0,0,0,0,0,0,0,0,10,39.9
+,,Parisian Star Sourdough,59.9,0,0,0,0,0,-0.6,0,0,10,59.3
+,Bread,---,4757.25,0,0,0,0,0,-7.58,0,---,855,4749.67
+,Packaged Baked Goods,Alki Cookie Ginger Molasses,13.45,0,0,0,0,0,0,0,0,5,13.45
+,,Alki RC Cookie Snickerdoodle,5.38,0,0,0,0,0,0,0,0,2,5.38
+,,Chatham Caesar Croutons,23.03,0,0,0,0,0,0,0,0,7,23.03
+,,Chatham Cheese Garlic Croutons,23.03,0,0,0,0,0,0,0,0,7,23.03
+,,Cougar Chocolate Chunk,419.07,0,0,0,0,0,-0.23,0,0,183,418.84
+,,Cougar Chocolate Chunk Box,257.57,0,0,0,0,0,0,0,0,43,257.57
+,,Cougar Dipped Choc Chunk,312.48,0,0,0,0,0,-1.37,0,0,112,311.11
+,,Cougar Dipped Peanut Butter,103.23,0,0,0,0,0,-0.56,0,0,37,102.67
+,,Cougar Molasses Box,17.97,0,0,0,0,0,0,0,0,3,17.97
+,,Cougar Molasses Ginger,61.83,0,0,0,0,0,0,0,0,27,61.83
+,,Cougar Oatmeal Chocolate Chunk,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Cougar Oatmeal Raisin Box,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Cougar PB Chocolate Chunk Box,29.95,0,0,0,0,0,0,0,0,5,29.95
+,,Cougar Pumpkin Box,59.9,0,0,0,0,0,0,0,0,10,59.9
+,,Cougar Seasonal Cookie,70.99,0,0,0,0,0,-0.23,0,0,31,70.76
+,,Cougar Snickerdoodle,219.84,0,0,0,0,0,-0.23,0,0,96,219.61
+,,Cougar Snickerdoodle Box,59.9,0,0,0,0,0,0,0,0,10,59.9
+,,Cougar Triple Chocolate Walnut,135.11,0,0,0,0,0,0,0,0,59,135.11
+,,Cougar Vegan German Chocolate,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Franz Donuts Chocolate 6CT,68.64,0,0,0,0,0,-1.95,0,0,16,66.69
+,,Franz Donuts Old Fashioned 6CT,124.41,0,0,0,0,0,-0.25,0,0,29,124.16
+,,Franz Donuts Powdered Jelly 6CT,47.19,0,0,0,0,0,0,0,0,11,47.19
+,,Nemo Banana Bread,52.47,0,0,0,0,0,0,0,0,33,52.47
+,,Nemo Banana Cake,27.03,0,0,0,0,0,0,0,0,17,27.03
+,,Nemo Cake Square Birthday,62.37,0,0,0,0,0,0,0,0,33,62.37
+,,Nemo Cake Square Carrot,75.6,0,0,0,0,0,-0.69,0,0,40,74.91
+,,Nemo Cake Square Chocolate,124.74,0,0,0,0,0,-0.19,0,0,66,124.55
+,,Nemo Cake Square Lemon,41.58,0,0,0,0,0,-0.38,0,0,22,41.2
+,,Nemo Cake Square Red Velvet,120.96,0,0,0,0,0,0,0,0,64,120.96
+,,Sugar Bowl Petite Palimiers,213.59,0,0,0,0,0,-0.69,0,0,31,212.9
+,,Wow Brownie Tub GF,76.89,0,0,0,0,0,0,0,0,11,76.89
+,,Wow Chocolate Chip 2.75Z,23.92,0,0,0,0,0,0,0,0,8,23.92
+,,Wow Peanubutter Cookie,10.47,0,0,0,0,0,0,0,0,3,10.47
+,,Wow Snickerdoodle 2.75Z,13.96,0,0,0,0,0,0,0,0,4,13.96
+,Packaged Baked Goods,---,3058.28,0,0,0,0,0,-6.77,0,---,1052,3051.51
+Grocery - Bakery,---,---,7815.53,0,0,0,0,0,-14.35,0,---,1907,7801.18
+Grocery - Breakfast,Breakfast Bars,Cinnamon Toast Crunch Bar,41.79,0,0,0,0,0,0,0,0,21,41.79
+,,Fiber One Oats and Chocolate,112.89,0,0,0,0,0,-0.25,0,0,71,112.64
+,,Golden Grahams Bar Choc Marsh,21.89,0,0,0,0,0,0,0,0,11,21.89
+,,Lucky Charms Treat Bar,33.83,0,0,0,0,0,0,0,0,17,33.83
+,,NutriGrain Apple Cinnamon,31.5,0,0,0,0,0,0,0,0,21,31.5
+,,NutriGrain Blueberry,34.5,0,0,0,0,0,0,0,0,23,34.5
+,,NutriGrain Raspberry,30,0,0,0,0,0,0,0,0,20,30
+,,NutriGrain Strawberry,36,0,0,0,0,0,0,0,0,24,36
+,,Pop-Tarts Blueberry 2Pk,11.55,0,0,0,0,0,0,0,0,7,11.55
+,,Pop-Tarts Blueberry Box,8.98,0,0,0,0,0,0,0,0,2,8.98
+,,Pop-Tarts Brown Sugar 2Pk,9.9,0,0,0,0,0,0,0,0,6,9.9
+,,Pop-Tarts Brown Sugar Box,53.88,0,0,0,0,0,0,0,0,12,53.88
+,,Pop-Tarts Cherry Box,8.98,0,0,0,0,0,0,0,0,2,8.98
+,,Pop-Tarts Choco Chip 2Pk,6.6,0,0,0,0,0,0,0,0,4,6.6
+,,Pop-Tarts Choco Fudge Box,35.92,0,0,0,0,0,-0.25,0,0,8,35.67
+,,Pop-Tarts Hot Fudge 2Pk,9.9,0,0,0,0,0,0,0,0,6,9.9
+,,Pop-Tarts Raspberry Box,26.94,0,0,0,0,0,0,0,0,6,26.94
+,,Pop-Tarts Smores 2Pk,14.85,0,0,0,0,0,0,0,0,9,14.85
+,,Pop-Tarts Smores Box,76.33,0,0,0,0,0,0,0,0,17,76.33
+,,Pop-Tarts Strawberry 2Pk,19.8,0,0,0,0,0,0,0,0,12,19.8
+,,Pop-Tarts Strawberry Box,58.37,0,0,0,0,0,0,0,0,13,58.37
+,Breakfast Bars,---,684.4,0,0,0,0,0,-0.5,0,---,312,683.9
+,Cereal,Cap N Crunch Berries Cereal Cup,32.06,0,0,0,0,0,0,0,0,14,32.06
+,,Cap N Crunch Cereal Cup,9.95,0,0,0,0,0,0,0,0,5,9.95
+,,Cheerios Cup,29.85,0,0,0,0,0,0,0,0,15,29.85
+,,Cheerios Honey Nut Box,113.81,0,0,0,0,0,-0.25,0,0,19,113.56
+,,Cheerios Honey Nut Cup,63.68,0,0,0,0,0,0,0,0,32,63.68
+,,Cheerios Low Cholesterol Box,101.83,0,0,0,0,0,-0.5,0,0,17,101.33
+,,Cheerios Multi Grain Box,59.9,0,0,0,0,0,0,0,0,10,59.9
+,,Cinnamon Toast Crunch Box,203.66,0,0,0,0,0,0,0,0,34,203.66
+,,Cinnamon Toast Crunch Cup,33.83,0,0,0,0,0,0,0,0,17,33.83
+,,Cocoa Krispies Cup,59.54,0,0,0,0,0,0,0,0,26,59.54
+,,Cocoa Puffs Box,40.72,0,0,0,0,0,-0.25,0,0,8,40.47
+,,Corn Flakes Box,69.93,0,0,0,0,0,0,0,0,7,69.93
+,,Field Day Organic Whole Grain Wheat Squares Cereal,28.02,0,0,0,0,0,0,0,0,3,28.02
+,,Froot Loops Cup,32.06,0,0,0,0,0,0,0,0,14,32.06
+,,Frosted Mini Wheats Cup,6.87,0,0,0,0,0,0,0,0,3,6.87
+,,Frosties Cup,61.83,0,0,0,0,0,0,0,0,27,61.83
+,,Fruity Pebbles Box 11z,35.45,0,0,0,0,0,0,0,0,5,35.45
+,,GM Golden Grahams Box,20.36,0,0,0,0,0,0,0,0,4,20.36
+,,Honey Bunches of Oats Almond,92.17,0,0,0,0,0,0,0,0,13,92.17
+,,Honey Bunches of Oats Almond Cup,10.45,0,0,0,0,0,0,0,0,5,10.45
+,,Honey Bunches of Oats Honey Cup,11.56,0,0,0,0,0,0,0,0,4,11.56
+,,Honey Bunches of Oats Honey Roasted ,106.35,0,0,0,0,0,-0.25,0,0,15,106.1
+,,Kellog Special K Berries Box,156.17,0,0,0,0,0,-1.36,0,0,23,154.81
+,,Kellogg Apple Jacks Box,44.95,0,0,0,0,0,0,0,0,5,44.95
+,,Kellogg Apple Jacks Cup,6.87,0,0,0,0,0,0,0,0,3,6.87
+,,Kellogg Corn Pops Box,26.97,0,0,0,0,0,0,0,0,3,26.97
+,,Kellogg Corn Pops Cup,9.16,0,0,0,0,0,0,0,0,4,9.16
+,,Kellogg Froot Loops Box,62.93,0,0,0,0,0,-0.9,0,0,7,62.03
+,,Kellogg Frosted Mini Wheats Box,63.81,0,0,0,0,0,-0.25,0,0,9,63.56
+,,Kellogg Raisin Bran Box,49.63,0,0,0,0,0,-0.71,0,0,7,48.92
+,,Kellogg Rice Krispies Box,79.92,0,0,0,0,0,0,0,0,8,79.92
+,,Kix Box,47.92,0,0,0,0,0,0,0,0,8,47.92
+,,Lucky Charms Box,80.5,0,0,0,0,0,0,0,0,14,80.5
+,,Lucky Charms Cup,21.89,0,0,0,0,0,0,0,0,11,21.89
+,,Post Cocoa Pebbles,56.72,0,0,0,0,0,0,0,0,8,56.72
+,,Raisin Bran Crunch Cup,11.45,0,0,0,0,0,0,0,0,5,11.45
+,,Reeses Puff Cereal Cup,8.36,0,0,0,0,0,0,0,0,4,8.36
+,,Reeses Puffs Cereal Box,63.25,0,0,0,0,0,-0.25,0,0,11,63
+,Cereal,---,2014.38,0,0,0,0,0,-4.72,0,---,427,2009.66
+,Oatmeal and Granola,Erin Baker Granola Double Chocolate,152.83,0,0,0,0,0,0,0,0,17,152.83
+,,Erin Baker Granola Fruit N Nut,125.86,0,0,0,0,0,0,0,0,14,125.86
+,,Erin Baker Granola Peanut Butter,170.81,0,0,0,0,0,-0.25,0,0,19,170.56
+,,Mylk Labs Oatmeal Cultivate Blueberry & Vermont Maple Cup   ,48.86,0,0,0,0,0,0,0,0,14,48.86
+,,Mylk Labs Oatmeal Roasted Almd Himly Pink Salt Cup ,10.47,0,0,0,0,0,0,0,0,3,10.47
+,,Mylk Labs Oatmeal Sun Ripe Straw & Madagascar Vanilla Cup,69.8,0,0,0,0,0,0,0,0,20,69.8
+,,Quaker Oatmeal Express Apple Cinn Cup,46.24,0,0,0,0,0,0,0,0,16,46.24
+,,Quaker Oatmeal Express Brown Sugar Cup,86.49,0,0,0,0,0,0,0,0,31,86.49
+,,Quaker Oats Old Fashioned 18oz,199.6,0,0,0,0,0,-0.5,0,0,40,199.1
+,Oatmeal and Granola,---,910.96,0,0,0,0,0,-0.75,0,---,174,910.21
+Grocery - Breakfast,---,---,3609.74,0,0,0,0,0,-5.97,0,---,913,3603.77
+Grocery - Dairy,Cheese,Babybel Mini 6ct,180.93,0,0,0,0,0,-0.25,0,0,37,180.68
+,,BelGioioso Asiago Wedge,9.9,0,0,0,0,0,0,0,0,2,9.9
+,,BelGioioso Mascarpone Belgioioso,51.87,0,0,0,0,0,0,0,0,13,51.87
+,,BelGioioso Parmesan Shredded Cup,98.67,0,0,0,0,0,0,0,0,23,98.67
+,,BelGioioso Parmesan Wedge,120.78,0,0,0,0,0,0,0,0,22,120.78
+,,BelGioioso Romano Shredded Cup,47.19,0,0,0,0,0,-0.5,0,0,11,46.69
+,,BelGioioso Romano Wedge,24.75,0,0,0,0,0,0,0,0,5,24.75
+,,BelGioioso Snacking Mozzarella,110.16,0,0,0,0,0,0,0,0,24,110.16
+,,Best Yet Amer Singles 12oz,49.39,0,0,0,0,0,0,0,0,11,49.39
+,,Best Yet Colby Jack Shred 8oz,119.7,0,0,0,0,0,-0.25,0,0,30,119.45
+,,Field Roast Chao Cheese Original,24.27,0,0,0,0,0,0,0,0,3,24.27
+,,Galbani Mozzarella Loaf 16oz,93.39,0,0,0,0,0,0,0,0,11,93.39
+,,Kraft Amer Singles 8oz,64.87,0,0,0,0,0,0,0,0,13,64.87
+,,Kraft Mexi 4 Cheese Shred 8oz,330.99,0,0,0,0,0,-1.95,0,0,51,329.04
+,,Kraft Mozzarella Shred Fine 8oz,292.05,0,0,0,0,0,0,0,0,45,292.05
+,,Kraft String Cheese Twist,36.49,0,0,0,0,0,0,0,0,41,36.49
+,,Kraft String Ums,64.78,0,0,0,0,0,0,0,0,82,64.78
+,,Laura Chenel Goat Plain Log,71.55,0,0,0,0,0,0,0,0,9,71.55
+,,Laural Chenel Garlic & Chive Goat Log 4oz,20.97,0,0,0,0,0,0,0,0,3,20.97
+,,Organic Creamery Feta Crumble Cup,91,0,0,0,0,0,0,0,0,14,91
+,,President Brie 60 Domestic,82.39,0,0,0,0,0,0,0,0,11,82.39
+,,President Camembert Domestic,74.9,0,0,0,0,0,0,0,0,10,74.9
+,,Rumiano Havarti Sliced 8oz,44.01,0,0,0,0,0,-0.49,0,0,9,43.52
+,,Rumiano Monterey Jack 8oz,80.82,0,0,0,0,0,0,0,0,18,80.82
+,,Rumiano Sliced Cheddar Mild 8oz,143.68,0,0,0,0,0,-0.45,0,0,32,143.23
+,,Rumiano Sliced Gouda 8oz,29.34,0,0,0,0,0,0,0,0,6,29.34
+,,Rumiano Sliced Mozzarella 8oz,80.82,0,0,0,0,0,0,0,0,18,80.82
+,,Rumiano Sliced Munster 8oz,40.41,0,0,0,0,0,0,0,0,9,40.41
+,,Rumiano Sliced Pepper Jack 8oz,40.41,0,0,0,0,0,0,0,0,9,40.41
+,,Rumiano Sliced Provolone 8oz,71.84,0,0,0,0,0,0,0,0,16,71.84
+,,Rumiano Sliced Swiss,73.35,0,0,0,0,0,0,0,0,15,73.35
+,,Tillamook Ched Med Shredded 8oz,221.63,0,0,0,0,0,0,0,0,37,221.63
+,,Tillamook Ched Med Sliced,113.26,0,0,0,0,0,0,0,0,14,113.26
+,,Tillamook Cheddar .75oz,104.13,0,0,0,0,0,-0.18,0,0,117,103.95
+,,Tillamook Medium Cheddar 8oz,101.83,0,0,0,0,0,0,0,0,17,101.83
+,,Tillamook Monterey Jack 8oz,29.95,0,0,0,0,0,0,0,0,5,29.95
+,,Tillamook Pepperjack 8oz,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Tillamook Sharp Cheddar 8oz,83.86,0,0,0,0,0,-1.2,0,0,14,82.66
+,,Tillamook X-Sharp Cheddar 8oz,71.88,0,0,0,0,0,0,0,0,12,71.88
+,Cheese,---,3446.12,0,0,0,0,0,-5.27,0,---,828,3440.85
+,Dairy Other,Best Yet Butter Quarters 16oz,199.75,0,0,0,0,0,0,0,0,25,199.75
+,,Boursin Cheese Garlic Herb 5oz,161.73,0,0,0,0,0,0,0,0,27,161.73
+,,Butter Stick Individual,199.42,0,0,0,0,0,-0.34,0,0,118,199.08
+,,Coffee Mate French Vanilla 16oz,124.54,0,0,0,0,0,-0.73,0,0,26,123.81
+,,Coffee Mate Hazelnut 16oz,62.27,0,0,0,0,0,0,0,0,13,62.27
+,,Coffee Mate Hazelnut 32oz,63.92,0,0,0,0,0,0,0,0,8,63.92
+,,Daiya Vegan Cream Cheeese Strawberry 8oz,15.3,0,0,0,0,0,0,0,0,2,15.3
+,,Daiya Vegan Cream Cheese Plain 8oz,30.6,0,0,0,0,0,0,0,0,4,30.6
+,,Daiya Vegan Sliced Cheese,24.36,0,0,0,0,0,0,0,0,4,24.36
+,,Darigold Cottage Cheese Curd S,124.41,0,0,0,0,0,0,0,0,29,124.41
+,,Darigold Sour Cream 16oz,90.96,0,0,0,0,0,0,0,0,24,90.96
+,,Earth Balance Vegan Margarine,46.45,0,0,0,0,0,0,0,0,5,46.45
+,,I Cant Believe Its Not Butter 15oz,36.33,0,0,0,0,0,0,0,0,7,36.33
+,,Kraft Big Cheese Bar Colby Jack,10.71,0,0,0,0,0.75,0,0,0,4,10.71
+,,Philadelphia Cream Cheese Low Fat,149.93,0,0,0,0,0,-0.25,0,0,47,149.68
+,,Philadelphia Cream Cheese Original,446.5,0,0,0,0,0,0,0,0,94,446.5
+,,SoDelicious Coco Whip 9oz,11.98,0,0,0,0,0,0,0,0,2,11.98
+,,Tillamook Butter Regular 1lb,105.17,0,0,0,0,0,0,0,0,13,105.17
+,Dairy Other,---,1904.33,0,0,0,0,0.75,-1.32,0,---,452,1903.01
+,Yogurt,Chobani Greek Blueberry,329.22,0,0,0,0,0,-0.56,0,0,118,328.66
+,,Chobani Greek Peach,354.33,0,0,0,0,0,-0.56,0,0,127,353.77
+,,Chobani Greek Plain Nonfat ,440.82,0,0,0,0,0,-1.12,0,0,158,439.7
+,,Chobani Greek Plain Nonfat 32oz,936.25,0,0,0,0,0,-0.25,0,0,125,936
+,,Chobani Greek Raspberry,362.7,0,0,0,0,0,-0.81,0,0,130,361.89
+,,Chobani Greek Strawberry,415.71,0,0,0,0,0,-0.25,0,0,149,415.46
+,,Chobani Greek Vanilla,390.6,0,0,0,0,0,-0.25,0,0,140,390.35
+,,Ellenos Greek Blueberry/Pom 7oz,376.35,0,0,0,0,0,0,0,0,65,376.35
+,,Ellenos Greek Lemon Curd 8oz,259.21,0,0,0,0,0,-1.06,0,0,49,258.15
+,,Ellenos Greek Mango 8oz,353.19,0,0,0,0,0,0,0,0,61,353.19
+,,Ellenos Greek Marionberry 8oz,260.55,0,0,0,0,0,0,0,0,45,260.55
+,,Ellenos Greek Muesli 8oz,277.92,0,0,0,0,0,0,0,0,48,277.92
+,,Silk Yogurt Almond Milk Dark Choc 5.3oz,32.89,0,0,0,0,0,0,0,0,11,32.89
+,,Silk Yogurt Almond Strawberry 5.3oz,17.45,0,0,0,0,0,-0.7,0,0,5,16.75
+,,Silk Yogurt Almond Vanilla 5.3oz,35.88,0,0,0,0,0,0,0,0,12,35.88
+,,Silk Yogurt Soy Blueberry 5.3oz,73.29,0,0,0,0,0,0,0,0,21,73.29
+,,Silk Yogurt Soy Strawberry 5.3oz,47.84,0,0,0,0,0,0,0,0,16,47.84
+,,Silk Yogurt Soy Vanilla 5.3oz,56.81,0,0,0,0,0,0,0,0,19,56.81
+,,Yoplait French Vanilla,85,0,0,0,0,0,0,0,0,68,85
+,,Yoplait Harvest Peach,122.5,0,0,0,0,0,0,0,0,98,122.5
+,,Yoplait Light Strawberry,60,0,0,0,0,0,0,0,0,48,60
+,,Yoplait Mixed Berry,58.75,0,0,0,0,0,0,0,0,47,58.75
+,,Yoplait Raspberry,51.25,0,0,0,0,0,0,0,0,41,51.25
+,,Yoplait Strawberry,88.75,0,0,0,0,0,-0.25,0,0,71,88.5
+,Yogurt,---,5487.26,0,0,0,0,0,-5.81,0,---,1672,5481.45
+Grocery - Dairy,---,---,10837.71,0,0,0,0,0.75,-12.4,0,---,2952,10825.31
+Grocery - Dry Goods (Non-Weighted),Baking Ingredients,Argo Corn Starch 1#,21.54,0,0,0,0,0,0,0,0,6,21.54
+,,Arm Hammer Baking Soda 16oz,26.85,0,0,0,0,0,0,0,0,15,26.85
+,,Best Yet Flour Unbleached 5lb,10.58,0,0,0,0,0,0,0,0,2,10.58
+,,Best Yet Pie Crust Graham Cracker,3.99,0,0,0,0,0,0,0,0,1,3.99
+,,Best Yet Semi Sweet Chips 12oz,111.54,0,0,0,0,0,0,0,0,26,111.54
+,,Betty Crocker Choc Chip Cookie Mix,15.16,0,0,0,0,0,-0.25,0,0,4,14.91
+,,Betty Crocker Frosting Chocolate,7.38,0,0,0,0,0,0,0,0,2,7.38
+,,Betty Crocker Frosting Crm Chs,14.76,0,0,0,0,0,0,0,0,4,14.76
+,,Betty Crocker Frosting Vanilla,11.07,0,0,0,0,0,0,0,0,3,11.07
+,,Betty Crocker SM Choc Fudge Mix,9.4,0,0,0,0,0,0,0,0,4,9.4
+,,Betty Crocker SM Devils Food Mix 13.25oz,14.1,0,0,0,0,0,0,0,0,6,14.1
+,,Betty Crocker SM German Choc Mix 13.25oz,2.75,0,0,0,0,0,0,0,0,1,2.75
+,,Betty Crocker SM Yellow Cake Mix 13.25oz,30.25,0,0,0,0,0,-0.25,0,0,11,30
+,,Bisquick 20oz,22.74,0,0,0,0,0,0,0,0,6,22.74
+,,Bobs RM Organic White Rice Flour 24oz,7.99,0,0,0,0,0,0,0,0,1,7.99
+,,Bobs RM Whole Wheat Flour 5lb,17.97,0,0,0,0,0,0,0,0,3,17.97
+,,CH Brown Sugar 1lb,47.84,0,0,0,0,0,0,0,0,16,47.84
+,,CH Granulated Sugar 1lb,66.47,0,0,0,0,0,0,0,0,23,66.47
+,,CH Granulated Sugar 4lb,55.93,0,0,0,0,0,0,0,0,7,55.93
+,,Fleischman Dry Yeast 3PK,27.6,0,0,0,0,0,0,0,0,8,27.6
+,,Gold Medal Flour 2lb,44.03,0,0,0,0,0,0,0,0,17,44.03
+,,Hersheys Baking Cocoa 8oz,59.43,0,0,0,0,0,0,0,0,7,59.43
+,,Jell-O Instant Chocolate Pudding 3.9oz,2.69,0,0,0,0,0,0,0,0,1,2.69
+,,Jell-O Instant Vanilla Pudding 3.4oz ,8.07,0,0,0,0,0,0,0,0,3,8.07
+,,Jell-O Lime Gelatin 3oz,3.98,0,0,0,0,0,0,0,0,2,3.98
+,,Jell-O Orange Gelatin 3oz ,5.38,0,0,0,0,0,0,0,0,2,5.38
+,,Jell-O Raspberry Gelatin 3oz,8.07,0,0,0,0,0,0,0,0,3,8.07
+,,Jell-O Strawberry Gelatin 3oz ,13.93,0,0,0,0,0,0,0,0,7,13.93
+,,Jiffy Corn Muffin Mix 8.5oz,3.78,0,0,0,0,0,0,0,0,2,3.78
+,,King Arthur Brownie Mix GF,48.95,0,0,0,0,0,0,0,0,5,48.95
+,,Krusteaz Buttermilk Pancake Mix,15.98,0,0,0,0,0,0,0,0,2,15.98
+,,McCormicks Pure Vanilla Extract,49,0,0,0,0,0,0,0,0,7,49
+,,Nestle Butterscotch Chips 11oz,19.56,0,0,0,0,0,0,0,0,4,19.56
+,,Reeses PB Chips 10oz,11.38,0,0,0,0,0,0,0,0,2,11.38
+,Baking Ingredients,---,820.14,0,0,0,0,0,-0.5,0,---,213,819.64
+,Bulk Food,DM Bulk Bin Food,142.05,0,0,0,0,0,-1.46,-88.75,0,22,140.59
+,Canned Foods,Best Yet Chunk Lite Tuna Water 5oz,135.32,0,0,0,0,0,-0.25,0,0,68,135.07
+,,Best Yet Diced Tomatoes 14.5oz,41.17,0,0,0,0,0,0,0,0,23,41.17
+,,Best Yet Mandarin Orange 11oz,8.36,0,0,0,0,0,0,0,0,4,8.36
+,,Best Yet Mixed Vegetables 15oz,23.88,0,0,0,0,0,0,0,0,12,23.88
+,,Best Yet Pinto Beans 15.5oz,21.45,0,0,0,0,0,0,0,0,13,21.45
+,,Best Yet Whole Kernel Corn 15.25oz,9,0,0,0,0,0,0,0,0,6,9
+,,Bumble Bee Chunk Light Tuna 5oz,104.58,0,0,0,0,0,-0.25,0,0,42,104.33
+,,Bumble Bee Soild White Albacore,62.82,0,0,0,0,0,-0.25,0,0,18,62.57
+,,Bumble Bee Tuna Salad,80.73,0,0,0,0,0,0,0,0,27,80.73
+,,China Sea Bamboo Shoot Sliced,4.78,0,0,0,0,0,0,0,0,2,4.78
+,,China Sea Water Chestnut Slcd,4.98,0,0,0,0,0,0,0,0,2,4.98
+,,Del Monte Fruit Cocktail 15oz,20.07,0,0,0,0,0,0,0,0,3,20.07
+,,Del Monte Green Bean French 14.5oz,7.38,0,0,0,0,0,0,0,0,2,7.38
+,,Del Monte Peach Slices 15.25oz,32.9,0,0,0,0,0,-0.25,0,0,10,32.65
+,,Del Monte Pear Halves 15oz,14.67,0,0,0,0,0,0,0,0,3,14.67
+,,Del Monte Sweet Peas 15oz,27.81,0,0,0,0,0,0,0,0,9,27.81
+,,Del Monte Whole Corn 15.25oz,22.14,0,0,0,0,0,-0.37,0,0,6,21.77
+,,Dole Pineapple Sliced in Juice,47.25,0,0,0,0,0,0,0,0,25,47.25
+,,Embasa Chipotle Peppers 7oz,16.74,0,0,0,0,0,0,0,0,6,16.74
+,,Embasa Jalapenos Sliced 7z,5.96,0,0,0,0,0,0,0,0,4,5.96
+,,Field Day Organic Pasta Sauce - Marinara,95.84,0,0,0,0,0,-0.25,0,0,16,95.59
+,,Field Day Organic Pasta Sauce - Roasted Garlic ,77.87,0,0,0,0,0,0,0,0,13,77.87
+,,Field Day Organic Pasta Sauce - Spice Arrabbiata,53.91,0,0,0,0,0,-0.85,0,0,9,53.06
+,,Hunts Tomato Paste 6oz,35.82,0,0,0,0,0,0,0,0,18,35.82
+,,Libbys Pumpkin Filling 15oz,3.25,0,0,0,0,0,0,0,0,1,3.25
+,,Libbys Vienna Sausage 4.6oz,13.93,0,0,0,0,0,0,0,0,7,13.93
+,,Manwich Sloppy Joe Sauce 15oz,3.29,0,0,0,0,0,0,0,0,1,3.29
+,,Ocean Spray Canberry Sauce Whole 14oz,8.55,0,0,0,0,0,0,0,0,3,8.55
+,,Rosarita Refried Beans,41.88,0,0,0,0,0,0,0,0,12,41.88
+,,Rosarita Vegetarian Refried Beans,3.49,0,0,0,0,0,0,0,0,1,3.49
+,,SW Black Beans 15oz,52.29,0,0,0,0,0,0,0,0,21,52.29
+,,SW Garbanzo Beans 15.5oz,37.35,0,0,0,0,0,-0.75,0,0,15,36.6
+,,SW Red Kidney Beans 15oz,14.94,0,0,0,0,0,0,0,0,6,14.94
+,,Shirakiku Coconut Milk 13.5oz,34.02,0,0,0,0,0,-0.57,0,0,18,33.45
+,,Shirakiku Cut Young Corn 15oz,11.95,0,0,0,0,0,0,0,0,5,11.95
+,,Shirakiku Lychee Seedless 20oz,53.82,0,0,0,0,0,-0.25,0,0,18,53.57
+,,Spam 12oz,267.96,0,0,0,0,0,0,0,0,44,267.96
+,,Stagg Chili Classic with Beans,36.81,0,0,0,0,0,0,0,0,9,36.81
+,Canned Foods,---,1538.96,0,0,0,0,0,-4.04,0,---,502,1534.92
+,Condiments and Sauces,Adams Peanut Butter Creamy,36.54,0,0,0,0,0,0,0,0,6,36.54
+,,Adams Peanut Butter Crunchy,48.72,0,0,0,0,0,-0.61,0,0,8,48.11
+,,Aloha Teriyaki Sauce 12oz,13.77,0,0,0,0,0,0,0,0,3,13.77
+,,Annies Balsmc Vinaigrette Dressing,17.97,0,0,0,0,0,0,0,0,3,17.97
+,,Best Foods Mayo Squeeze 11.5oz,156.25,0,0,0,0,0,0,0,0,25,156.25
+,,Best Yet Honey Bear 12Z,317.47,0,0,0,0,0,0,0,0,53,317.47
+,,Best Yet Mayonnaise 15oz,56,0,0,0,0,0,0,0,0,16,56
+,,Best Yet Peanut Butter Creamy 16.3oz,127.68,0,0,0,0,0,-0.25,0,0,32,127.43
+,,Best Yet Peanut Butter Crunchy 16.3oz,43.89,0,0,0,0,0,-0.25,0,0,11,43.64
+,,CJ Bibigo Korean BBQ Sauce Original,23.56,0,0,0,0,0,0,0,0,4,23.56
+,,Cholula Hot Sauce 5oz ,75.27,0,0,0,0,0,0,0,0,13,75.27
+,,Classico 4 Cheese Sauce 24oz,181.47,0,0,0,0,0,0,0,0,23,181.47
+,,Classico Alfredo Garlic 15oz ,197.25,0,0,0,0,0,0,0,0,25,197.25
+,,Classico Tomato Basil 24oz ,220.92,0,0,0,0,0,-0.25,0,0,28,220.67
+,,Country Kitchen Syrup,25.95,0,0,0,0,0,0,0,0,5,25.95
+,,Divina Spread Fig 9oz,17.67,0,0,0,0,0,0,0,0,3,17.67
+,,Franks Red Hot Sauce 12oz,57.52,0,0,0,0,0,0,0,0,8,57.52
+,,Frenchs Yellow Mustard 8oz ,30.9,0,0,0,0,0,0,0,0,10,30.9
+,,Fritos Jalapeno Cheddar Dip 9oz,27.92,0,0,0,0,0,-0.35,0,0,8,27.57
+,,Fritos Mild Cheddar Dip 9oz,6.98,0,0,0,0,0,0,0,0,2,6.98
+,,Grey Poupon Dijon Mustard 8oz,34.23,0,0,0,0,0,0,0,0,7,34.23
+,,Guldens Spicy Brown Mustard,15.45,0,0,0,0,0,0,0,0,5,15.45
+,,Heinz Ketchup 14oz,179.55,0,0,0,0,0,0,0,0,45,179.55
+,,Heinz Ketchup 32oz,119.85,0,0,0,0,0,0,0,0,15,119.85
+,,Hersheys Chocolate Syrup 24oz,71.39,0,0,0,0,0,-0.25,0,0,11,71.14
+,,Hormel Bacon Bits,7.78,0,0,0,0,0,0,0,0,2,7.78
+,,Hunts Tomato Sauce 15oz,14.95,0,0,0,0,0,0,0,0,5,14.95
+,,Huy Fong Sriracha Ht Chili Sauce,133.65,0,0,0,0,0,-0.75,0,0,27,132.9
+,,Jif Peanut Butter Creamy 16oz,121.94,0,0,0,0,0,-0.25,0,0,26,121.69
+,,Jif Peanut Butter Extra Crunchy 16oz,60.97,0,0,0,0,0,-0.25,0,0,13,60.72
+,,KKM Soy Sauce Org,36,0,0,0,0,0,0,0,0,8,36
+,,Kewpie Mayonnaise 17.64oz,182.25,0,0,0,0,0,0,0,0,25,182.25
+,,Kikkoman Gluten Free Soy Sauce,17.56,0,0,0,0,0,0,0,0,4,17.56
+,,Kikkoman Kung Pao Chiken Sauce,2.18,0,0,0,0,0,0,0,0,2,2.18
+,,Kikkoman Orange Sauce 12.5oz,12.76,0,0,0,0,0,0,0,0,4,12.76
+,,Kikkoman Organic Sauce 15oz,23.56,0,0,0,0,0,0,0,0,4,23.56
+,,Kikkoman Soy Sauce 20oz,64.79,0,0,0,0,0,0,0,0,11,64.79
+,,Kikkoman Soy Sauce Tamari GF,13.17,0,0,0,0,0,0,0,0,3,13.17
+,,Kikkoman Sriracha Hot Chile,7.98,0,0,0,0,0,0,0,0,2,7.98
+,,Kikkoman Sweet Soy Sauce,11.67,0,0,0,0,0,0,0,0,3,11.67
+,,Kikkoman Swt Sour Sauce Pkt,1.09,0,0,0,0,0,0,0,0,1,1.09
+,,Kikkoman Thai Peanut Sauce 9oz,25.14,0,0,0,0,0,-0.25,0,0,6,24.89
+,,Kikkoman Wasabi Sauce 9.25oz,7.98,0,0,0,0,0,0,0,0,2,7.98
+,,Kraft BBQ Sauce Original 18oz ,9.78,0,0,0,0,0,0,0,0,2,9.78
+,,Kraft Classic Caesar 16oz,31.45,0,0,0,0,0,0,0,0,5,31.45
+,,Kraft Miracle Whip 12oz,44.94,0,0,0,0,0,-0.75,0,0,6,44.19
+,,Kraft Parmesan 8oz,113.85,0,0,0,0,0,0,0,0,15,113.85
+,,Kraft Ranch Dressing 8oz,68.64,0,0,0,0,0,0,0,0,16,68.64
+,,LP Worcestershire Sauce 10oz,16.74,0,0,0,0,0,0,0,0,2,16.74
+,,Lays Creamy Ranch Dip 15oz,7.38,0,0,0,0,0,0,0,0,2,7.38
+,,Log Cabin Syrup 12oz,24.95,0,0,0,0,0,0,0,0,5,24.95
+,,Mae Ploy Sweet Chili Sauce 25z,47.92,0,0,0,0,0,-0.85,0,0,8,47.07
+,,Marukan Ponzu Soy Dressing 12oz,19.96,0,0,0,0,0,0,0,0,4,19.96
+,,Mishima Furikake Ajinori 1.94oz,42.32,0,0,0,0,0,-0.25,0,0,8,42.07
+,,Mishima Furikake Nori 1.94oz,10.58,0,0,0,0,0,0,0,0,2,10.58
+,,Mrs Butterworths Syrup 24oz,40.74,0,0,0,0,0,0,0,0,6,40.74
+,,Newmans Lt Balsamic Dressing,6.29,0,0,0,0,0,0,0,0,1,6.29
+,,Newmans Lt Italian Dressing,12.58,0,0,0,0,0,0,0,0,2,12.58
+,,Newmans Raspberry Walnut Dressing,12.58,0,0,0,0,0,-0.63,0,0,2,11.95
+,,Nutella 13oz,292.32,0,0,0,0,0,0,0,0,48,292.32
+,,PB Co White Chocolate,25.96,0,0,0,0,0,0,0,0,4,25.96
+,,Pace Salsa Medium Chunky 16oz,49.41,0,0,0,0,0,0,0,0,9,49.41
+,,Pace Salsa Mild Picante 16oz,32.94,0,0,0,0,0,0,0,0,6,32.94
+,,Pennys Salsa Medium 16oz,54.9,0,0,0,0,0,-0.25,0,0,10,54.65
+,,Pennys Salsa Mild 16oz,32.94,0,0,0,0,0,0,0,0,6,32.94
+,,Pennys Salsa PicoDeGallo 16oz,21.96,0,0,0,0,0,0,0,0,4,21.96
+,,SB Rayu Chili Oil 1.1oz,29.61,0,0,0,0,0,0,0,0,9,29.61
+,,Shirakiku Furikake Ochazuke Wakame,15.87,0,0,0,0,0,0,0,0,3,15.87
+,,Shirakiku Korean Gochujang 18oz,12.87,0,0,0,0,0,-0.43,0,0,3,12.44
+,,Shirakiku Korean Seasoned Seaweed,39.12,0,0,0,0,0,0,0,0,8,39.12
+,,Shirakiku Oyster Sauce 18oz,23.94,0,0,0,0,0,0,0,0,6,23.94
+,,Shirakiku Seaweed Cut Wakame 2.5oz,3.58,0,0,0,0,0,0,0,0,2,3.58
+,,Shirakiku Teriyaki Sauce 18oz,7.98,0,0,0,0,0,0,0,0,2,7.98
+,,Shirakiku Tonkatsu Sauce 18oz,11.97,0,0,0,0,0,0,0,0,3,11.97
+,,Simple Mills Cashew Nut Butter Cocao 6.7oz ,130.06,0,0,0,0,0,-0.25,0,0,14,129.81
+,,Smuckers Blackberry Jam 12oz,47.92,0,0,0,0,0,0,0,0,8,47.92
+,,Smuckers Butterscotch Top 12oz,5.99,0,0,0,0,0,0,0,0,1,5.99
+,,Smuckers Caramel Sauce,3.39,0,0,0,0,0,0,0,0,1,3.39
+,,Smuckers Fudge 11.75oz,9.75,0,0,0,0,0,0,0,0,3,9.75
+,,Smuckers Grape Jelly 12oz,47.92,0,0,0,0,0,0,0,0,8,47.92
+,,Smuckers Orange Marmalade 12oz,23.96,0,0,0,0,0,0,0,0,4,23.96
+,,Smuckers Raspberry 12oz,71.88,0,0,0,0,0,0,0,0,12,71.88
+,,Smuckers Strawberry 12oz,119.8,0,0,0,0,0,0,0,0,20,119.8
+,,Sweet Baby BBQ Original 28oz,43.92,0,0,0,0,0,0,0,0,8,43.92
+,,Tabasco Sauce 2oz,26.9,0,0,0,0,0,0,0,0,10,26.9
+,,Texas Pete Hot Sauce 6oz,17.94,0,0,0,0,0,0,0,0,6,17.94
+,,Tostitos Creamy Spinach Dip 15,29.94,0,0,0,0,0,0,0,0,6,29.94
+,,Tostitos Nacho Cheese Med 3oz,5.97,0,0,0,0,0,0,0,0,3,5.97
+,,Tostitos Salsa All-Nat Medium,24.54,0,0,0,0,0,0,0,0,6,24.54
+,,Tostitos Salsa Queso Medium,104.79,0,0,0,0,0,0,0,0,21,104.79
+,,Tostitos Salsa Restaurant Style Medium,73.62,0,0,0,0,0,0,0,0,18,73.62
+,,Vlasic Kosher Dill Spears 16oz,60.06,0,0,0,0,0,0,0,0,14,60.06
+,,Vlasic Kosher Dill Stacks 16oz,81.44,0,0,0,0,0,0,0,0,16,81.44
+,Condiments and Sauces,---,4945.45,0,0,0,0,0,-6.87,0,---,905,4938.58
+,Dry Goods Other,Best Yet Bread Crumbs 15oz,15.16,0,0,0,0,0,0,0,0,4,15.16
+,,Best Yet Marshamallow Mini 10oz,10.5,0,0,0,0,0,0,0,0,7,10.5
+,,Bobs RM Pearl Couscous Tricolor 16oz,11.98,0,0,0,0,0,0,0,0,2,11.98
+,,Carnation Condensed Sweet Milk,52.9,0,0,0,0,0,0,0,0,10,52.9
+,,Carnation Evaporated Milk 12oz,22.74,0,0,0,0,0,0,0,0,6,22.74
+,,Dole Fruit Cup Mandarins 4CT,91.01,0,0,0,0,0,0,0,0,19,91.01
+,,Equal Packets 50CT,3.69,0,0,0,0,0,0,0,0,1,3.69
+,,Fritos Bean Dip 9oz,2.39,0,0,0,0,0,0,0,0,1,2.39
+,,Idahoan Butter Homstyl Potato,8.97,0,0,0,0,0,0,0,0,3,8.97
+,,Idahoan Four Cheese Potato,5.98,0,0,0,0,0,0,0,0,2,5.98
+,,Idahoan Roasted Garlic Potato,11.96,0,0,0,0,0,0,0,0,4,11.96
+,,Jet Puffed Marshmallow 16oz,18.36,0,0,0,0,0,0,0,0,4,18.36
+,,Lindsay Med Pit Olives 6oz,18.36,0,0,0,0,0,0,0,0,4,18.36
+,,Lindsay Ripe Olives Sliced 2.25oz,4.59,0,0,0,0,0,0,0,0,1,4.59
+,,Napoleon Basil Pesto 6.3oz,27.65,0,0,0,0,0,0,0,0,7,27.65
+,,Natures Path HomeStyle Waffle GF,34.93,0,0,0,0,0,0,0,0,7,34.93
+,,Nico Nori Sushihane,154.63,0,0,0,0,0,-7.9,0,0,47,146.73
+,,ReaLemon Juice 4.5oz ,10.35,0,0,0,0,0,0,0,0,9,10.35
+,,Realime Juice 4.5oz,10.35,0,0,0,0,0,0,0,0,9,10.35
+,,SB Gold Curry Mix Ex Hot 7.8oz,35.34,0,0,0,0,0,-0.59,0,0,6,34.75
+,,SB Gold Curry Mix Hot 7.8oz,41.23,0,0,0,0,0,0,0,0,7,41.23
+,,SB Gold Curry Mix Mild 7.8oz,58.9,0,0,0,0,0,-0.59,0,0,10,58.31
+,,SB Gold Curry Sauce Hot 8.1oz,55.86,0,0,0,0,0,0,0,0,14,55.86
+,,SB Gold Curry Sauce Med 8.1oz,7.98,0,0,0,0,0,0,0,0,2,7.98
+,,SB Gold Curry Sauce Mild 8oz,19.95,0,0,0,0,0,0,0,0,5,19.95
+,,Snack Pack Choc Variety 4Pk,38.87,0,0,0,0,0,0,0,0,13,38.87
+,,Snack Pack Chocolate 4Pk,14.95,0,0,0,0,0,0,0,0,5,14.95
+,,Snack Pack Tapioca 4Pk,23.92,0,0,0,0,0,0,0,0,8,23.92
+,,Sukhis Tikka Masala Sauce 3oz,39.92,0,0,0,0,0,0,0,0,8,39.92
+,,Sweet N Low 50s,5.58,0,0,0,0,0,0,0,0,2,5.58
+,,Tasty Bite Spinach Dal,11.98,0,0,0,0,0,0,0,0,2,11.98
+,,Tree Top Apple Sauce Pouch Ori,168.98,0,0,0,0,0,0,0,0,142,168.98
+,,Velveeta Shells N Cheese 12oz,14.25,0,0,0,0,0,0,0,0,3,14.25
+,,Velveeta Skillet Cheeseburger,6.49,0,0,0,0,0,0,0,0,1,6.49
+,Dry Goods Other,---,1060.7,0,0,0,0,0,-9.08,0,---,375,1051.62
+,Grains and Pasta,Annie Chun Maifun Brown Rice Noodles ,11.78,0,0,0,0,0,0,0,0,2,11.78
+,,Annie Chun Maifun Rice Noodles,11.78,0,0,0,0,0,0,0,0,2,11.78
+,,Barilla Elbow Macaroni 16oz,68.22,0,0,0,0,0,0,0,0,18,68.22
+,,Barilla Fettuccine 16oz,79.59,0,0,0,0,0,0,0,0,21,79.59
+,,Barilla Penne Rigate 16oz,144.02,0,0,0,0,0,-1.26,0,0,38,142.76
+,,Barilla Spaghetti 16oz,170.55,0,0,0,0,0,-0.88,0,0,45,169.67
+,,Best Yet Instant Rice 28oz,43.92,0,0,0,0,0,-0.25,0,0,8,43.67
+,,Best Yet Long Grn Rice 32Z,62.79,0,0,0,0,0,-0.25,0,0,21,62.54
+,,Bobs RM Organic Flaxseeds 13oz,9.98,0,0,0,0,0,0,0,0,2,9.98
+,,Brilla Rigatoni 16oz,101.66,0,0,0,0,0,-0.25,0,0,34,101.41
+,,FD Organic Brown Rice Fetuccine GF,9.3,0,0,0,0,0,0,0,0,2,9.3
+,,FD Organic Brown Rice Penne GF,9.18,0,0,0,0,0,0,0,0,2,9.18
+,,Fall River Wild Rice Box,7.35,0,0,0,0,0,-0.25,0,0,1,7.1
+,,Minutes Rice 14oz,21.2,0,0,0,0,0,0,0,0,8,21.2
+,,Rice-a-Roni Broccoli Cheddar,71.76,0,0,0,0,0,0,0,0,24,71.76
+,,Royal Blossom Jasmine Rice 5lb,179.8,0,0,0,0,0,-0.9,0,0,20,178.9
+,,Shirakiku Calrose Rice 5lb,142.02,0,0,0,0,0,-0.25,0,0,18,141.77
+,,Shirakiku Noodle Inaka Udon,48.86,0,0,0,0,0,-0.7,0,0,14,48.16
+,,Shirakiku Noodle Zaru Soba,34.23,0,0,0,0,0,0,0,0,7,34.23
+,,Shirakiku Rice Cooked Gohn 3PC,747.93,0,0,0,0,0,-0.75,0,0,107,747.18
+,,Shirakiku Tomoshi Somen Noodle,17.91,0,0,0,0,0,0,0,0,9,17.91
+,,Tasty Bite Organic Ancient Rices 8.8oz,32.85,0,0,0,0,0,0,0,0,9,32.85
+,Grains and Pasta,---,2026.68,0,0,0,0,0,-5.74,0,---,412,2020.94
+,Instant Noodles,Annies Shells N Aged Cheese 6oz,83.76,0,0,0,0,0,0,0,0,24,83.76
+,,Best Yet Mac N Cheese Box ,16.77,0,0,0,0,0,0,0,0,13,16.77
+,,Cup of Noodles Beef,34.75,0,0,0,0,0,0,0,0,25,34.75
+,,Cup of Noodles Chicken,111.2,0,0,0,0,0,0,0,0,80,111.2
+,,Cup of Noodles Shrimp,26.41,0,0,0,0,0,0,0,0,19,26.41
+,,Kraft Easy Mac Original,209.16,0,0,0,0,0,0,0,0,84,209.16
+,,Kraft Mac N Cheese Box,75.33,0,0,0,0,0,0,0,0,27,75.33
+,,Nissin Chow Mein Chicken 4oz,59.54,0,0,0,0,0,0,0,0,26,59.54
+,,Nissin Chow Mein Teri Beef 4oz,54.96,0,0,0,0,0,0,0,0,24,54.96
+,,Nissin Cup Noodle Stir Fry Chili 2.89oz,94.62,0,0,0,0,0,0,0,0,38,94.62
+,,Nissin Cup Noodle Stir Fry Korean BBQ Beef 2.89oz ,84.66,0,0,0,0,0,0,0,0,34,84.66
+,,Nissin Cup Noodle Stir Fry Teriyaki Chicken 2.89oz,22.32,0,0,0,0,0,0,0,0,8,22.32
+,,Nissin Cup Noodle Stir Fry Teryaki Beef,94.23,0,0,0,0,0,0,0,0,27,94.23
+,,NongShim Chicken Bowl,72.21,0,0,0,0,0,-0.25,0,0,29,71.96
+,,NongShim Spicy Chicken,129.48,0,0,0,0,0,0,0,0,52,129.48
+,,NongShim Veggie Kimchi,184.26,0,0,0,0,0,0,0,0,74,184.26
+,,Nongshim Black Ramyun Cup,558.6,0,0,0,0,0,0,0,0,140,558.6
+,,Nongshim Kimchi Noodle,124.5,0,0,0,0,0,0,0,0,50,124.5
+,,Nongshim Veggie Noodle,112.05,0,0,0,0,0,0,0,0,45,112.05
+,,Phonomeal Chicken Bowl,204.59,0,0,0,0,0,0,0,0,41,204.59
+,,Phonomenal Veggie Bowl,139.72,0,0,0,0,0,0,0,0,28,139.72
+,,SanyoF Instant Noodle Chicken,12.87,0,0,0,0,0,-0.2,0,0,13,12.67
+,,SanyoF Instant Noodle Orig 5P,34.23,0,0,0,0,0,0,0,0,7,34.23
+,,SanyoF Instant Noodle Original,8.91,0,0,0,0,0,-0.2,0,0,9,8.71
+,,SanyoF Instant Noodle Shio,6.93,0,0,0,0,0,-0.2,0,0,7,6.73
+,,SanyoF Instant Noodle Shio 5P,4.89,0,0,0,0,0,0,0,0,1,4.89
+,,SanyoF Instant Noodle Yakisoba,11.88,0,0,0,0,0,0,0,0,12,11.88
+,,Shirakiku Cooked Rice,425.79,0,0,0,0,0,0,0,0,171,425.79
+,,Shirakiku Instant Noodle Hot,50.32,0,0,0,0,0,0,0,0,8,50.32
+,,Shirakiku Instant Noodle Nama,117.32,0,0,0,0,0,0,0,0,28,117.32
+,,Shirakiku Instant Noodle Tonko,44.03,0,0,0,0,0,-0.25,0,0,7,43.78
+,,Shirakiku Udon Noodle 7.85oz,261.51,0,0,0,0,0,0,0,0,69,261.51
+,,Shirakiku Udon Noodle Katsuo,143.68,0,0,0,0,0,-0.25,0,0,32,143.43
+,,Shirakiku Undon Noodle Chicken,20.28,0,0,0,0,0,0,0,0,12,20.28
+,,Shirakiku Undon Noodle Orient,8.45,0,0,0,0,0,0,0,0,5,8.45
+,,Shirakiku Undon Noodle Spicy,5.07,0,0,0,0,0,0,0,0,3,5.07
+,,Top Ramen Beef,24.49,0,0,0,0,0,-0.33,0,0,31,24.16
+,,Top Ramen Chicken,39.5,0,0,0,0,0,-0.16,0,0,50,39.34
+,,Top Ramen Oriental,22.12,0,0,0,0,0,0,0,0,28,22.12
+,,Top Ramen Shrimp,5.53,0,0,0,0,0,0,0,0,7,5.53
+,Instant Noodles,---,3740.92,0,0,0,0,0,-1.84,0,---,1388,3739.08
+,Oil and Vinegar,Best Yet Canola Oil 32oz,69.9,0,0,0,0,0,0,0,0,10,69.9
+,,Best Yet Olive Oil 17oz,76.41,0,0,0,0,0,0,0,0,9,76.41
+,,Best Yet Vegetable Oil 32oz,76.64,0,0,0,0,0,0,0,0,16,76.64
+,,Field Day Organic EVOO Spray 5oz ,59.94,0,0,0,0,0,0,0,0,6,59.94
+,,Glorybee Coconut Oil 12oz,7.49,0,0,0,0,0,0,0,0,1,7.49
+,,Heinz Cider Vinegar 16oz,14.94,0,0,0,0,0,0,0,0,6,14.94
+,,Heinz White Vinegar 32oz,26.91,0,0,0,0,0,0,0,0,9,26.91
+,,Kadoya Sesame Oil 11oz,67.41,0,0,0,0,0,0,0,0,9,67.41
+,,Napoleon EV Olive Oil 16.9oz,199.62,0,0,0,0,0,0,0,0,18,199.62
+,,Napoleon EV Olive Oil 8.5oz,69.9,0,0,0,0,0,0,0,0,10,69.9
+,,Pam 6oz,55.92,0,0,0,0,0,0,0,0,8,55.92
+,,Wesson Vegetable Oil 24oz,47.53,0,0,0,0,0,0,0,0,7,47.53
+,Oil and Vinegar,---,772.61,0,0,0,0,0,0,0,---,109,772.61
+,Soup,Amys Lentil Veg Soup 14.5oz,29.95,0,0,0,0,0,0,0,0,5,29.95
+,,Amys Soup Black Bean Veg 14oz,17.97,0,0,0,0,0,0,0,0,3,17.97
+,,Amys Soup Hearty French Veg 14oz,41.93,0,0,0,0,0,0,0,0,7,41.93
+,,Amys Soup Minestrone 14oz,11.98,0,0,0,0,0,0,0,0,2,11.98
+,,Amys Soup Split Pea 14oz,23.96,0,0,0,0,0,0,0,0,4,23.96
+,,Campbell Chicken Noodle 10.75oz,22.5,0,0,0,0,0,0,0,0,9,22.5
+,,Campbell Cream of Mushrm 10.75oz,2.5,0,0,0,0,0,0,0,0,1,2.5
+,,Campbell MW Bowl Chicken Noodle,2.99,0,0,0,0,0,0,0,0,1,2.99
+,,Campbell NE Clam Chowder 18.8oz,8.58,0,0,0,0,0,0,0,0,2,8.58
+,,Campbell SAH Chicken and Stars,11.37,0,0,0,0,0,0,0,0,3,11.37
+,,Campbell Tomato Soup 10.75oz,17.5,0,0,0,0,0,0,0,0,7,17.5
+,,Chunky Beef Vegetable 19oz,5.69,0,0,0,0,0,0,0,0,1,5.69
+,,Chunky Chicken Noodle 18.6oz,5.39,0,0,0,0,0,0,0,0,1,5.39
+,,Chunky MW Bowl Dumpling,16.17,0,0,0,0,0,0,0,0,3,16.17
+,,Chunky MW Chili Roadhouse,10.78,0,0,0,0,0,0,0,0,2,10.78
+,,Pacific Org Broth Beef LS,35.34,0,0,0,0,0,0,0,0,6,35.34
+,,Pacific Org Broth Chicken LS,75.27,0,0,0,0,0,0,0,0,13,75.27
+,,Pacific Org Broth Vegetable LS,73.45,0,0,0,0,0,0,0,0,13,73.45
+,,Progressive Chicken Noodle Soup,126.79,0,0,0,0,0,0,0,0,31,126.79
+,,Progressive Lentil Soup,24.54,0,0,0,0,0,0,0,0,6,24.54
+,,Progressive Minestrone Soup,49.08,0,0,0,0,0,0,0,0,12,49.08
+,,Progresso NE Clam Chowder,20.45,0,0,0,0,0,0,0,0,5,20.45
+,,Swansons Chicken Broth 14.5oz,43.78,0,0,0,0,0,-0.4,0,0,22,43.38
+,Soup,---,677.96,0,0,0,0,0,-0.4,0,---,159,677.56
+,Spices and Seasonings,Best Yet Black Pepper Grinder 1.75oz,17.37,0,0,0,0,0,0,0,0,3,17.37
+,,Best Yet Chicken Gravy Mix 1oz,3.27,0,0,0,0,0,0,0,0,3,3.27
+,,Best Yet Chili Seasoning Mix 1oz,1.09,0,0,0,0,0,0,0,0,1,1.09
+,,Best Yet Salt N Pepper Shaker,23.03,0,0,0,0,0,0,0,0,7,23.03
+,,Best Yet Taco Seasoning Mix 1.2oz,40.33,0,0,0,0,0,0,0,0,37,40.33
+,,Johnny Season Salt 8.5oz,23.96,0,0,0,0,0,0,0,0,4,23.96
+,,McCormck Meat Loaf Seas Mix 1.5oz,2.99,0,0,0,0,0,0,0,0,1,2.99
+,,McCormick Italian Sea Salt Grinder,53.85,0,0,0,0,0,0,0,0,15,53.85
+,,McCormick Peppercorn Medley,27.12,0,0,0,0,0,0,0,0,8,27.12
+,,Morton Basil 0.4oz,13.98,0,0,0,0,0,0,0,0,2,13.98
+,,Morton Bay Leaves 0.14oz,29.97,0,0,0,0,0,0,0,0,3,29.97
+,,Morton Black Pepper Fine Grind 1.8oz,7.29,0,0,0,0,0,0,0,0,1,7.29
+,,Morton Blk Pepper Whole Organic,19.98,0,0,0,0,0,0,0,0,2,19.98
+,,Morton Blk Sesame Seeds Organic,7.29,0,0,0,0,0,0,0,0,1,7.29
+,,Morton Cayenne Pepper 1.8oz,34.95,0,0,0,0,0,0,0,0,5,34.95
+,,Morton Chili Powder 1.9oz,46.5,0,0,0,0,0,0,0,0,6,46.5
+,,Morton Cinnamon Grnd Organic 2.2oz,59.94,0,0,0,0,0,0,0,0,6,59.94
+,,Morton Cinnamon Ground 2.2oz,55.92,0,0,0,0,0,0,0,0,8,55.92
+,,Morton Cinnamon Stick 1.1oz,8.99,0,0,0,0,0,0,0,0,1,8.99
+,,Morton Cumin Ground 2.3oz,14.58,0,0,0,0,0,0,0,0,2,14.58
+,,Morton Cumin Ground Organic 2oz,18.98,0,0,0,0,0,0,0,0,2,18.98
+,,Morton Curry 2.1oz,20.97,0,0,0,0,0,-1.95,0,0,3,19.02
+,,Morton Curry Organic 2.1oz,9.09,0,0,0,0,0,0,0,0,1,9.09
+,,Morton Dill Sesame Seed Organic,9.09,0,0,0,0,0,0,0,0,1,9.09
+,,Morton Dill Weed 0.8oz,7.29,0,0,0,0,0,0,0,0,1,7.29
+,,Morton Garlic Granulated Organic,99.9,0,0,0,0,0,0,0,0,10,99.9
+,,Morton Ginger Ground Organic 1.8oz,9.99,0,0,0,0,0,0,0,0,1,9.99
+,,Morton Herbs Provence .7oz,31,0,0,0,0,0,0,0,0,4,31
+,,Morton Iodized Salt 26oz,22.41,0,0,0,0,0,0,0,0,9,22.41
+,,Morton Italian Seasoning 1.2oz,58.32,0,0,0,0,0,0,0,0,8,58.32
+,,Morton Nutmeg Ground 2.3oz,32.67,0,0,0,0,0,0,0,0,3,32.67
+,,Morton Oregano .6oz,51.92,0,0,0,0,0,0,0,0,8,51.92
+,,Morton Paprika 2oz,34.95,0,0,0,0,0,-1.95,0,0,5,33
+,,Morton Red Chili Flakes,76.89,0,0,0,0,0,0,0,0,11,76.89
+,,Morton Rosemary 1oz,21.27,0,0,0,0,0,0,0,0,3,21.27
+,,Morton Thyme 1oz,25.96,0,0,0,0,0,0,0,0,4,25.96
+,,Morton Turmeric 2.4oz,7.29,0,0,0,0,0,0,0,0,1,7.29
+,,Shirakiku Sesame Seeds Black 9.5oz,4.89,0,0,0,0,0,0,0,0,1,4.89
+,,Shirakiku Sesame Seeds White 9.5oz,14.67,0,0,0,0,0,0,0,0,3,14.67
+,Spices and Seasonings,---,1049.95,0,0,0,0,0,-3.9,0,---,195,1046.05
+Grocery - Dry Goods (Non-Weighted),---,---,16775.42,0,0,0,0,0,-33.83,-88.75,---,4280,16741.59
+Grocery - Fresh Packaged,Fresh Packaged Other,Sunrice B Bap,567.15,0,0,0,0,0,-1,0,57.18,57,566.15
+,,Sunrice Chapchae,286.4,0,0,0,0,0,-0.25,0,28.9,32,286.15
+,,Sunrice CnutCurry Tofu Noodles,295.35,0,0,0,0,0,0,0,29.83,33,295.35
+,,Sunrice CnutCurry Tofu Rice,205.85,0,0,0,0,0,0,0,20.79,23,205.85
+,,Sunrice CnutCurry Tofu w/o Rice,187.95,0,0,0,0,0,0,0,18.98,21,187.95
+,,Sunrice Green Rice,187.95,0,0,0,0,0,0,0,18.98,21,187.95
+,,Sunrice TSS without Rice,143.2,0,0,0,0,0,0,0,14.46,16,143.2
+,,Sunrice TSSS Noodles,349.05,0,0,0,0,0,0,0,35.25,39,349.05
+,,Sunrice TSSS Rice,143.2,0,0,0,0,0,0,0,14.46,16,143.2
+,,Sunrice TSSS without Rice,196.9,0,0,0,0,0,0,0,19.89,22,196.9
+,,Sunrice TSSSS Rice,179,0,0,0,0,0,0,0,18.08,20,179
+,,Sunrice TSSSS without Rice,196.9,0,0,0,0,0,0,0,19.89,22,196.9
+,Fresh Packaged Other,---,2938.9,0,0,0,0,0,-1.25,0,---,322,2937.65
+,Sandwich and Wrap,Neato Bur Albuquerque,27.4,0,0,0,0,0,0,0,2.77,4,27.4
+,,Neato Bur Paradise,61.65,0,0,0,0,0,0,0,6.23,9,61.65
+,,Neato Bur Seven Layer,68.5,0,0,0,0,0,0,0,6.92,10,68.5
+,,Neato Bur South of Border,54.8,0,0,0,0,0,0,0,5.53,8,54.8
+,,Neato Bur Spicy Potato,41.1,0,0,0,0,0,0,0,4.15,6,41.1
+,,Neato Bur Thai Delight,20.55,0,0,0,0,0,0,0,2.08,3,20.55
+,,Neato Hummus Chipotle,27.4,0,0,0,0,0,0,0,2.77,4,27.4
+,Sandwich and Wrap,---,301.4,0,0,0,0,0,0,0,---,44,301.4
+,Sushi,ACE Alaskan Roll,1357.03,0,0,0,0,0,-1.4,0,136.92,97,1355.63
+,,ACE California Roll,1645.17,0,0,0,0,0,-1.8,0,165.98,183,1643.37
+,,ACE Combo 3 Kind,1077.23,0,0,0,0,0,-2.8,0,108.52,77,1074.43
+,,ACE Golden Dragon Roll,23.98,0,0,0,0,0,0,0,2.42,2,23.98
+,,ACE Red Dragon Roll,797.43,0,0,0,0,0,0,0,80.54,57,797.43
+,,ACE Spicy Tuna Roll,1131.97,0,0,0,0,0,-1.1,0,114.22,103,1130.87
+,,ACE Tempura Crunch Roll,1011.75,0,0,0,0,0,-1.35,0,102.05,75,1010.4
+,,ACE Vegetarian Roll,1042.84,0,0,0,0,0,-1.8,0,105.15,116,1041.04
+,Sushi,---,8087.4,0,0,0,0,0,-10.25,0,---,710,8077.15
+Grocery - Fresh Packaged,---,---,11327.7,0,0,0,0,0,-11.5,0,---,1076,11316.2
+Grocery - Frozen,Frozen Dessert,Better Bites Dbl Choc Cake Bites 4.7oz,28.47,0,0,0,0,0,0,0,0,3,28.47
+,,Daifuku Mochi Mango,136.09,0,0,0,0,0,-0.5,0,0,31,135.59
+,,Daifuku Rice Cake Bean 1PC,60.61,0,0,0,0,0,0,0,0,29,60.61
+,,Daifuku Rice Cake Green 1PC,62.7,0,0,0,0,0,0,0,0,30,62.7
+,,Daifuku Rice Cake Red 1PC,73.15,0,0,0,0,0,0,0,0,35,73.15
+,,Daifuku Rice Cake Sesame 1PC,62.7,0,0,0,0,0,0,0,0,30,62.7
+,,Daifuku Rice Cake White 1PC,60.61,0,0,0,0,0,0,0,0,29,60.61
+,,Katz Cream Filled Cupcake GF 7oz ,16.58,0,0,0,0,0,0,0,0,2,16.58
+,,Pepperidge Farm Choc Cake 17oz,42.45,0,0,0,0,0,0,0,0,5,42.45
+,,Rubicon Bakery Vegan Choc Cake 11oz ,11.89,0,0,0,0,0,0,0,0,1,11.89
+,,Tru Fru Raspberry Dark Chocolate Frz ,538.23,0,0,0,0,0,0,0,0,77,538.23
+,,Tru Fru Strawberry Milk Cholate Frz ,601.14,0,0,0,0,0,0,0,0,86,601.14
+,Frozen Dessert,---,1694.62,0,0,0,0,0,-0.5,0,---,358,1694.12
+,Frozen Meal,Amys Bowl Chili Mac,178.5,0,0,0,0,0,0,0,0,21,178.5
+,,Amys Breakfast Organic Tofu,60,0,0,0,0,0,0,0,0,8,60
+,,Amys Broc Ched Bake Bowl,127.5,0,0,0,0,0,-1.95,0,0,15,125.55
+,,Amys Cauliflower Mac N Cheese,116.28,0,0,0,0,0,0,0,0,12,116.28
+,,Amys Cheese Enchilada,127.5,0,0,0,0,0,0,0,0,15,127.5
+,,Amys Cheese Pizza 13oz,94.5,0,0,0,0,0,0,0,0,7,94.5
+,,Amys Chile Relleno Casserole Bowl 9oz,76.5,0,0,0,0,0,-1.1,0,0,9,75.4
+,,Amys Indian Matter Paneer,97.86,0,0,0,0,0,0,0,0,14,97.86
+,,Amys Indian Palak Paneer,119.85,0,0,0,0,0,0,0,0,15,119.85
+,,Amys Ktchn Mex Casserole 9.5oz,127.5,0,0,0,0,0,-0.25,0,0,15,127.25
+,,Amys Pad Thai Bowl,212.5,0,0,0,0,0,-0.25,0,0,25,212.25
+,,Amys Pesto Tortellini Bowl,289,0,0,0,0,0,0,0,0,34,289
+,,Amys Ravioli Bowl 9.5oz,195.5,0,0,0,0,0,-1.95,0,0,23,193.55
+,,Amys Three Cheese Kale Bowl,280.5,0,0,0,0,0,0,0,0,33,280.5
+,,Amys Vegan Noodles w/cream sauce,158.24,0,0,0,0,0,0,0,0,16,158.24
+,,Amys Whole Wheat Mac n Cheese,154.7,0,0,0,0,0,0,0,0,26,154.7
+,,Applegate Chicken Nuggets GF,405.15,0,0,0,0,0,-0.5,0,0,37,404.65
+,,Bagel Bites 3 Cheese,132.26,0,0,0,0,0,0,0,0,34,132.26
+,,Bagel Bites Pepperoni,108.92,0,0,0,0,0,-0.25,0,0,28,108.67
+,,Bagel Bites Sausage Pepperoni,101.14,0,0,0,0,0,0,0,0,26,101.14
+,,Banquet Chicken Breast Tenders 24oz,148.35,0,0,0,0,0,0,0,0,15,148.35
+,,Banquet Chicken Nuggets 30oz,217.58,0,0,0,0,0,0,0,0,22,217.58
+,,Banquet Fried Chicken 29oz,71.96,0,0,0,0,0,0,0,0,4,71.96
+,,Beechers Mac and Cheese Gluten Free,186.89,0,0,0,0,0,-1.7,0,0,11,185.19
+,,Beechers Mac and Cheese Worlds Best,869.42,0,0,0,0,0,-3,0,0,58,866.42
+,,Cedarlane Chile Relleno,15.18,0,0,0,0,0,-0.76,0,0,2,14.42
+,,Daiya Gluten Free Pizza Meatless Pepperoni ,39.87,0,0,0,0,0,0,0,0,3,39.87
+,,Devour Bacon White Cheddar Mac & Cheese,363.48,0,0,0,0,0,0,0,0,52,363.48
+,,Devour Buffalo Chicken Mac & cheese,279.6,0,0,0,0,0,0,0,0,40,279.6
+,,DiGiorno 3 Meat 12in,117.9,0,0,0,0,0,0,0,0,10,117.9
+,,DiGiorno For 1 Cheese,244.44,0,0,0,0,0,-0.25,0,0,36,244.19
+,,DiGiorno For 1 Pepperoni,312.34,0,0,0,0,0,0,0,0,46,312.34
+,,DiGiorno Pepperoni 12in,70.74,0,0,0,0,0,0,0,0,6,70.74
+,,DonMiguel Brkfst Burrito Bacon,55.8,0,0,0,0,0,0,0,0,20,55.8
+,,DonMiguel Brkfst Burrito Sausage,58.59,0,0,0,0,0,-0.56,0,0,21,58.03
+,,DonMiguel Burrito Bean Cheese,123.6,0,0,0,0,0,0,0,0,40,123.6
+,,DonMiguel Burrito Beef,120.51,0,0,0,0,0,0,0,0,39,120.51
+,,DonMiguel Burrito Chicken Cheese,111.24,0,0,0,0,0,0,0,0,36,111.24
+,,Eggo Blueberry Waffle 10CT,59.31,0,0,0,0,0,0,0,0,9,59.31
+,,Eggo Buttermilk Walffle 10CT,65.9,0,0,0,0,0,0,0,0,10,65.9
+,,Evol Burrito Bean Rice and Cheese,32.94,0,0,0,0,0,0,0,0,6,32.94
+,,Evol Burrito Beef Shredded,43.92,0,0,0,0,0,0,0,0,8,43.92
+,,Evol Burrito Chicken Bean Rice,93.33,0,0,0,0,0,0,0,0,17,93.33
+,,Evol Burrito Egg Green Chile,38.43,0,0,0,0,0,0,0,0,7,38.43
+,,Field Roast Mac n Chao,105,0,0,0,0,0,-0.25,0,0,10,104.75
+,,Green Chile Beef and Potato Cheddar Burrito,24.45,0,0,0,0,0,0,0,0,5,24.45
+,,Green Chile Breakfast Burrito Chorizo & Egg,63.57,0,0,0,0,0,0,0,0,13,63.57
+,,Green Chile Steak and Jalapeno Burrito,14.67,0,0,0,0,0,0,0,0,3,14.67
+,,Hot Pocket Bacon Egg,63,0,0,0,0,0,0,0,0,14,63
+,,Hot Pocket Croissant Chicken,98.61,0,0,0,0,0,0,0,0,19,98.61
+,,Hot Pocket Ham Cheese,36,0,0,0,0,0,0,0,0,8,36
+,,Hot Pocket Meatball Mozzarella,72,0,0,0,0,0,0,0,0,16,72
+,,Hot Pocket Pepperoni Pizza 8oz,140,0,0,0,0,0,0,0,0,40,140
+,,Hot Pocket Pepperoni Pizza 9oz,144,0,0,0,0,0,0,0,0,32,144
+,,Hot Pocket Philly Steak Cheese,56,0,0,0,0,0,0,0,0,16,56
+,,Hungry Man Fried Chicken,85,0,0,0,0,0,0,0,0,10,85
+,,Hungry Man Salsibury Steak,75,0,0,0,0,0,0,0,0,10,75
+,,JD Bisc Gravy Brkfst Bowl ,36.33,0,0,0,0,0,0,0,0,7,36.33
+,,JD Sausage Breakfast Bowl,90.09,0,0,0,0,0,0,0,0,21,90.09
+,,Lean Cuisine Chicken Bake,203.66,0,0,0,0,0,0,0,0,34,203.66
+,,Lean Cuisine Chicken Enchilada,142.74,0,0,0,0,0,0,0,0,26,142.74
+,,MarieCal Chicken Pot Pie 15oz,156,0,0,0,0,0,0,0,0,24,156
+,,Red Baron Pepperoni 12in,99.97,0,0,0,0,0,0,0,0,13,99.97
+,,Saffron Road Lamb Saag,41.95,0,0,0,0,0,-0.84,0,0,5,41.11
+,,Saffron Road Lmngrs Basil Chicken,100.68,0,0,0,0,0,-0.84,0,0,12,99.84
+,,Shirakiku Bun Pizza with Bacon ,47.94,0,0,0,0,0,0,0,0,6,47.94
+,,Shirakiku Pancake Kimchi,29.95,0,0,0,0,0,0,0,0,5,29.95
+,,Shirakiku Pancake Seafood,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Shirakiku Pancake Vegetable,71.88,0,0,0,0,0,0,0,0,12,71.88
+,,Starlite Cuisine Taquitos Vgan,215.76,0,0,0,0,0,-0.25,0,0,24,215.51
+,,Stouffers Fettuccine Alfredo,191.68,0,0,0,0,0,0,0,0,32,191.68
+,,Stouffers Lasagna Meat Sauce,232.73,0,0,0,0,0,0,0,0,37,232.73
+,,Stouffers Mac Cheese,119.8,0,0,0,0,0,0,0,0,20,119.8
+,,TGIF Jalapeno Poppers,48.23,0,0,0,0,0,0,0,0,7,48.23
+,,TGIF Mozzarella Sticks,144.69,0,0,0,0,0,-1.95,0,0,21,142.74
+,,The Bomb Burrito Beef Green Chili,30.32,0,0,0,0,0,0,0,0,8,30.32
+,,The Bomb Burrito Beef Red Chili,79.59,0,0,0,0,0,0,0,0,21,79.59
+,,The Bomb Burrito Chicken Chipotle ,48.29,0,0,0,0,0,-0.69,0,0,11,47.6
+,,Totinos Pizza 3 Combo,35.12,0,0,0,0,0,0,0,0,8,35.12
+,,Totinos Pizza Rolls Combo,114.14,0,0,0,0,0,0,0,0,26,114.14
+,,Totinos Pizza Rolls Pepperoni,131.7,0,0,0,0,0,0,0,0,30,131.7
+,,Udis Sausage Lasagna,138,0,0,0,0,0,0,0,0,12,138
+,,White Castle Cheeseburger 2Pk,50.38,0,0,0,0,0,-0.23,0,0,22,50.15
+,,White Castle Cheeseburger 4Pk,47.12,0,0,0,0,0,0,0,0,8,47.12
+,,White Castle Cheeseburger Jalap 4Pk,21.4,0,0,0,0,0,0,0,0,4,21.4
+,Frozen Meal,---,10606.57,0,0,0,0,0,-17.57,0,---,1592,10589
+,Frozen Other,Ajino Gyoza Shrimp 24oz,154.57,0,0,0,0,0,0,0,0,13,154.57
+,,Ajino Shumai Pork 17.46oz,62.5,0,0,0,0,0,0,0,0,5,62.5
+,,Ajino Shumai Shrimp 17.46oz,125,0,0,0,0,0,0,0,0,10,125
+,,Applegate Farms Breaded Chicken Patties 12oz ,217.35,0,0,0,0,0,0,0,0,15,217.35
+,,Boca Burger American Classic,51,0,0,0,0,0,0,0,0,6,51
+,,CascadianF Hash Browns,35.94,0,0,0,0,0,0,0,0,6,35.94
+,,HL Wild Alaskan Salmon Ptis,35.97,0,0,0,0,0,0,0,0,3,35.97
+,,Just Egg Folded Egg Patty 8oz,6.49,0,0,0,0,0,0,0,0,1,6.49
+,,MarieCal Choc Santin Pie 25.6oz,40.47,0,0,0,0,0,0,0,0,3,40.47
+,,MarieCal Coco Cream Pie 38oz,13.49,0,0,0,0,0,0,0,0,1,13.49
+,,Mikawaya Mochi Chocolate,71.5,0,0,0,0,0,0,0,0,11,71.5
+,,Mikawaya Mochi Green Tea,90,0,0,0,0,0,0,0,0,12,90
+,,Mikawaya Mochi Strawberry,30,0,0,0,0,0,0,0,0,4,30
+,,Mikawaya Mochi Vanilla,90,0,0,0,0,0,0,0,0,12,90
+,,Ore-Ida Prime Golden Fries 32oz,93.5,0,0,0,0,0,0,0,0,17,93.5
+,,Ore-Ida Tater Tots 32oz,49.5,0,0,0,0,0,0,0,0,9,49.5
+,,Pampanga Lumpia Chicken 22oz,27,0,0,0,0,0,0,0,0,2,27
+,,Pampanga Lumpia Pork 22oz,27,0,0,0,0,0,0,0,0,2,27
+,,Pepperidge Farm Garlic Bread,51.9,0,0,0,0,0,0,0,0,10,51.9
+,,Shirakiku Edamame 14.1oz,59.5,0,0,0,0,0,0,0,0,17,59.5
+,,Shirakiku Gyoza Beef 21oz,169,0,0,0,0,0,-1.95,0,0,26,167.05
+,,Shirakiku Gyoza Chicken 21oz,151.58,0,0,0,0,0,0,0,0,22,151.58
+,,Shirakiku Gyoza Gluten Free  21.6oz,89.91,0,0,0,0,0,0,0,0,9,89.91
+,,Shirakiku Gyoza NIRA & Pork 21oz,172.27,0,0,0,0,0,0,0,0,23,172.27
+,,Shirakiku Gyoza Pork 21oz,151.58,0,0,0,0,0,-1.63,0,0,22,149.95
+,,Shirakiku Vegetable Wafu Yasai 16oz,9.78,0,0,0,0,0,0,0,0,2,9.78
+,Frozen Other,---,2076.8,0,0,0,0,0,-3.58,0,---,263,2073.22
+,Fruit and Vegetables,Cascadian Blueberries,95.84,0,0,0,0,0,0,0,0,16,95.84
+,,Cascadian Broccoli,26.95,0,0,0,0,0,0,0,0,5,26.95
+,,Cascadian California Blend,80.85,0,0,0,0,0,0,0,0,15,80.85
+,,Cascadian Harvest Berries,232.5,0,0,0,0,0,0,0,0,31,232.5
+,,Cascadian Mango,83.88,0,0,0,0,0,0,0,0,12,83.88
+,,"Cascadian Organic Diced onions,Carrots, and Celery",56.72,0,0,0,0,0,0,0,0,8,56.72
+,,"Cascadian Ready to Roast Sweet Potato, Cauliflower, and Brococoli Floret",17.98,0,0,0,0,0,0,0,0,2,17.98
+,,Cascadian Spinach,15.87,0,0,0,0,0,0,0,0,3,15.87
+,,Cascadian Strawberry,110.5,0,0,0,0,0,-0.65,0,0,17,109.85
+,,Cascadian Whole Sweet Corn,60.5,0,0,0,0,0,0,0,0,11,60.5
+,,FlavRPk Stir Fry Vegetable 16oz,55.93,0,0,0,0,0,0,0,0,17,55.93
+,Fruit and Vegetables,---,837.52,0,0,0,0,0,-0.65,0,---,137,836.87
+,Ice Cream,Ben Jerry Brownie Batter Core,143.84,0,0,0,0,0,0,0,0,16,143.84
+,,Ben Jerry Cherry Garcia,71.92,0,0,0,0,0,0,0,0,8,71.92
+,,Ben Jerry Choc Chip Cookie Dou,242.73,0,0,0,0,0,0,0,0,27,242.73
+,,Ben Jerry Choc Fudge Brownie,233.74,0,0,0,0,0,-1.95,0,0,26,231.79
+,,Ben Jerry Chunky Monkey,53.94,0,0,0,0,0,0,0,0,6,53.94
+,,Ben Jerry Half Baked,422.53,0,0,0,0,0,-1.8,0,0,47,420.73
+,,Ben Jerry Milk N Cookies,323.64,0,0,0,0,0,-0.9,0,0,36,322.74
+,,Ben Jerry Mint Choc Cookie,62.93,0,0,0,0,0,0,0,0,7,62.93
+,,Ben Jerry NY Super Fudge Chunk,26.97,0,0,0,0,0,0,0,0,3,26.97
+,,Ben Jerry Non Dairy Cherry Garcia,35.96,0,0,0,0,0,0,0,0,4,35.96
+,,Ben Jerry Non Dairy Choc Fudge Brnie,35.96,0,0,0,0,0,-0.25,0,0,4,35.71
+,,Ben Jerry Non Dairy PB Cookie,35.96,0,0,0,0,0,0,0,0,4,35.96
+,,Ben Jerry PB Half Baked,12.5,0,0,0,0,0,0,0,0,2,12.5
+,,Ben Jerry Peanut Butter Cup,62.93,0,0,0,0,0,0,0,0,7,62.93
+,,Ben Jerry Phish Food,188.79,0,0,0,0,0,-0.9,0,0,21,187.89
+,,Ben Jerry Salted Caramel Core,35.96,0,0,0,0,0,-0.9,0,0,4,35.06
+,,Ben Jerry Stephen Colbert AM,98.89,0,0,0,0,0,0,0,0,11,98.89
+,,Ben Jerry Strawberry Cheesecak,98.89,0,0,0,0,0,0,0,0,11,98.89
+,,Ben Jerry The Tonight Dough,251.72,0,0,0,0,0,0,0,0,28,251.72
+,,Dreyer Coffee Ice Cream 1.5Q,34.95,0,0,0,0,0,0,0,0,5,34.95
+,,Dreyer Cookie Dough 1.5Q,27.96,0,0,0,0,0,0,0,0,4,27.96
+,,Dreyer Cookie and Cream 1.5Q,55.92,0,0,0,0,0,0,0,0,8,55.92
+,,Dreyer Grand Chocolate 1.5Q,27.96,0,0,0,0,0,0,0,0,4,27.96
+,,Dreyer Grand Neapolitan 1.5Q,13.98,0,0,0,0,0,0,0,0,2,13.98
+,,Dreyer Mint Choc Chip 1.5Q,13.98,0,0,0,0,0,0,0,0,2,13.98
+,,Dreyer Rocky Road 1.5Q,20.97,0,0,0,0,0,0,0,0,3,20.97
+,,Dreyer Vanilla Ice Crm 1.5Q,55.92,0,0,0,0,0,0,0,0,8,55.92
+,,Haagen Caramel Cone Pint,65.89,0,0,0,0,0,0,0,0,11,65.89
+,,Haagen Cherry Van Pint,47.92,0,0,0,0,0,-0.25,0,0,8,47.67
+,,Haagen Choc Chip Cdough Pint,155.74,0,0,0,0,0,0,0,0,26,155.74
+,,Haagen Choc Chip Pint,23.96,0,0,0,0,0,0,0,0,4,23.96
+,,Haagen Choc Peanut Butter Pint,65.89,0,0,0,0,0,0,0,0,11,65.89
+,,Haagen Chocolate Pint,83.86,0,0,0,0,0,0,0,0,14,83.86
+,,Haagen Coffee Pint,125.79,0,0,0,0,0,-0.25,0,0,21,125.54
+,,Haagen Cookies Cream Pint,167.72,0,0,0,0,0,0,0,0,28,167.72
+,,Haagen Dulce de Leche Pint,101.83,0,0,0,0,0,0,0,0,17,101.83
+,,Haagen Green Tea Pint,245.59,0,0,0,0,0,0,0,0,41,245.59
+,,Haagen Mango Pint,179.7,0,0,0,0,0,0,0,0,30,179.7
+,,Haagen Mint Chip Pint,149.75,0,0,0,0,0,0,0,0,25,149.75
+,,Haagen Pineapple Coconut Pint,125.79,0,0,0,0,0,0,0,0,21,125.79
+,,Haagen Pistachio Pint,23.96,0,0,0,0,0,0,0,0,4,23.96
+,,Haagen Raspberry Sorbet Pint,125.79,0,0,0,0,0,0,0,0,21,125.79
+,,Haagen Rocky Road Pint,71.88,0,0,0,0,0,0,0,0,12,71.88
+,,Haagen Strwaberry Pint ,107.82,0,0,0,0,0,0,0,0,18,107.82
+,,Haagen Vamilla Milk Choc 3Pk,77.87,0,0,0,0,0,0,0,0,13,77.87
+,,Haagen Vanilla Almond Pint,47.92,0,0,0,0,0,0,0,0,8,47.92
+,,Haagen Vanilla Bean Pint,155.74,0,0,0,0,0,0,0,0,26,155.74
+,,Haagen Vanilla Pint,83.86,0,0,0,0,0,0,0,0,14,83.86
+,,Haagen White Choc Raspberry Pint,119.8,0,0,0,0,0,0,0,0,20,119.8
+,,My Mochi Cookie N Cream 1.5oz,23.03,0,0,0,0,0,0,0,0,7,23.03
+,,My Mochi Mango 1.5oz,39.48,0,0,0,0,0,0,0,0,12,39.48
+,,My Mochi Strawberry 1.5oz,65.8,0,0,0,0,0,-0.33,0,0,20,65.47
+,,So Delicious Cashew Cookies Cream,23.97,0,0,0,0,0,0,0,0,3,23.97
+,,So Delicious Cashew Sltd Caramel,42.5,0,0,0,0,0,0,0,0,5,42.5
+,,Talenti Alphonso Mango,207.69,0,0,0,0,0,0,0,0,21,207.69
+,,Talenti Caramel Crunch,227.47,0,0,0,0,0,0,0,0,23,227.47
+,,Talenti Mediterranean Mint,138.46,0,0,0,0,0,-0.25,0,0,14,138.21
+,,Talenti Roman Raspberry,187.91,0,0,0,0,0,0,0,0,19,187.91
+,,Talenti Sicilian Pistachio,29.67,0,0,0,0,0,0,0,0,3,29.67
+,,Umpqua Choc Brownie Thunder 56oz,43.95,0,0,0,0,0,0,0,0,5,43.95
+,,Umpqua Chocolate Chip Mint 56oz,35.16,0,0,0,0,0,0,0,0,4,35.16
+,,Umpqua Mt. Blackberry Revel 56oz,35.16,0,0,0,0,0,-0.25,0,0,4,34.91
+,,Umpqua Peanut Butter 56oz,26.37,0,0,0,0,0,0,0,0,3,26.37
+,,Umpqua Rocky Road 56oz,8.79,0,0,0,0,0,0,0,0,1,8.79
+,,Umpqua Vanilla 56oz,43.95,0,0,0,0,0,0,0,0,5,43.95
+,Ice Cream,---,6224.87,0,0,0,0,0,-8.03,0,---,850,6216.84
+,Novelty,Blue Bunny Sand Vanilla,30.21,0,0,0,0,0,0,0,0,19,30.21
+,,Blue Bunny Sand Vanilla Chips Galore,49.14,0,0,0,0,0,0,0,0,26,49.14
+,,Blue Bunny Sand Vanilla with Cookie Choc ,7.92,0,0,0,0,0,0,0,0,8,7.92
+,,Breyers Mrs Field Ice Cream Sandwich,46.9,0,0,0,0,0,0,0,0,10,46.9
+,,G Humor Oreo Cone 4.1oz,58.5,0,0,0,0,0,-0.45,0,0,13,58.05
+,,G Humor Oreo Cookie Sand,65.85,0,0,0,0,0,0,0,0,15,65.85
+,,G Humor Oreo Ice Cream Bar,9.87,0,0,0,0,0,0,0,0,3,9.87
+,,G Humor Strawberry Shortcake,55.93,0,0,0,0,0,0,0,0,17,55.93
+,,G Humor Van Choc Giant Cone,81,0,0,0,0,0,0,0,0,18,81
+,,G Humor Vanailla Giant Sand,18.54,0,0,0,0,0,0,0,0,6,18.54
+,,Haagen Choc Dark Choc Bar,58.5,0,0,0,0,0,0,0,0,18,58.5
+,,Haagen Choc Dark Choc Bar 3CT,72,0,0,0,0,0,0,0,0,16,72
+,,Haagen Coffee Almond Bar,54.23,0,0,0,0,0,0,0,0,17,54.23
+,,Haagen Coffee Almond Bar 3CT,22.5,0,0,0,0,0,0,0,0,5,22.5
+,,Haagen Vanilla Almond Bar,68.25,0,0,0,0,0,0,0,0,21,68.25
+,,Haagen Vanilla Almond Bar 3CT,144,0,0,0,0,0,-0.25,0,0,32,143.75
+,,Haagen Vanilla Milk Choc Bar,39,0,0,0,0,0,0,0,0,12,39
+,,Ice Cream Bar Blue Bunny Choc Eclair King Size,11.25,0,0,0,0,0,0,0,0,5,11.25
+,,Ice Cream Bar Blue Bunny Crunch ,13.86,0,0,0,0,0,0,0,0,14,13.86
+,,Ice Cream Bar Blue Bunny Strawberry Shortcake King,49.5,0,0,0,0,0,-0.23,0,0,22,49.27
+,,Ice Cream Bar Magnum Almond,35.12,0,0,0,0,0,0,0,0,8,35.12
+,,Ice Cream Bar Magnum Caramel,98.49,0,0,0,0,0,0,0,0,21,98.49
+,,Klondike Original Vanilla Sand,31.5,0,0,0,0,0,0,0,0,9,31.5
+,,La Michoacana Coconut Bar,24.75,0,0,0,0,0,0,0,0,11,24.75
+,,La Michoacana Mango Bar,49.5,0,0,0,0,0,-0.23,0,0,22,49.27
+,,La Michoacana Strawberry Bar,29.25,0,0,0,0,0,0,0,0,13,29.25
+,,La Michoacana Strawberry Fruit Bar,27,0,0,0,0,0,0,0,0,12,27
+,,Melona Mango Bar 8CT,116.87,0,0,0,0,0,0,0,0,13,116.87
+,,Melona Melon Bar 8CT,161.82,0,0,0,0,0,0,0,0,18,161.82
+,,Melona Strawberry Box 8CT,116.87,0,0,0,0,0,0,0,0,13,116.87
+,,Outshine Fruit Bar Coconut 6CT,34.23,0,0,0,0,0,0,0,0,7,34.23
+,,Outshine Fruit Bar Lime 6CT,78.24,0,0,0,0,0,0,0,0,16,78.24
+,,Outshine Fruit Bar NSA Strawberry Variety 12CT,140.58,0,0,0,0,0,0,0,0,22,140.58
+,,Outshine Fruit Bar Strawberry 6CT,53.79,0,0,0,0,0,0,0,0,11,53.79
+,,Ruby Jewel Sand Chocolate Chip with Vanilla Bean Cookie ,283.71,0,0,0,0,0,0,0,0,49,283.71
+,,Ruby Jewel Sand Chocolate and Salted Caramel,121.67,0,0,0,0,0,0,0,0,23,121.67
+,,Ruby Jewel Sand Dark Choc Mint ,110.01,0,0,0,0,0,0,0,0,19,110.01
+,,Ruby Jewel Sand Lemon with Honey Lavender,133.17,0,0,0,0,0,0,0,0,23,133.17
+,,Ruby Jewel Sand Oat Choc Chip with Butterschotch ,63.69,0,0,0,0,0,0,0,0,11,63.69
+,,Ruby Jewel Sand Strawberry Brown Sugar,46.32,0,0,0,0,0,0,0,0,8,46.32
+,Novelty,---,2713.53,0,0,0,0,0,-1.16,0,---,626,2712.37
+Grocery - Frozen,---,---,24153.91,0,0,0,0,0,-31.49,0,---,3826,24122.42
+Grocery - Misc,Nonscanning,Non-Scanning Packaged Food,6994.43,0,0,0,0,0,-8.62,6737.38,0,1383,6985.81
+Grocery - Produce (Non-Weighted),Packaged Produce,Blueberries Clamshell Pint,1105.23,0,0,0,0,0,-1.2,0,0,277,1104.03
+,,Bolthouse Baby Cut Carrots,277.83,0,0,0,0,0,-0.44,0,0,147,277.39
+,,Charlies Cut Fruit Cantaloupe,323.46,0,0,0,0,0,0,0,0,54,323.46
+,,Charlies Cut Fruit Mixed,640.93,0,0,0,0,0,-0.6,0,0,107,640.33
+,,Charlies Cut Fruit Pineapple,628.95,0,0,0,0,0,0,0,0,105,628.95
+,,Charlies Cut Fruit Straw-Blueberry,1450.75,0,0,0,0,0,0,0,0,175,1450.75
+,,Fresh Express Caesar Supreme Kit,215.46,0,0,0,0,0,0,0,0,54,215.46
+,,Fresh Express Chopped Asian Kit,191.52,0,0,0,0,0,-0.25,0,0,48,191.27
+,,Mushroom Whole Crimini 8oz,179.18,0,0,0,0,0,0,0,0,62,179.18
+,,Mushroom Whole White 8oz ,180.23,0,0,0,0,0,-0.5,0,0,67,179.73
+,,Organic Girl Baby Spinach 5oz,132.84,0,0,0,0,0,-0.25,0,0,36,132.59
+,,Organic Girl Salad 50-50 Mix 5oz,110.7,0,0,0,0,0,-0.62,0,0,30,110.08
+,,Organic Girl Salad Supergreens 5oz,125.46,0,0,0,0,0,-0.62,0,0,34,124.84
+,,Organic Girl Spring Mix,110.7,0,0,0,0,0,-0.5,0,0,30,110.2
+,,Raspberry Clamshell Pint,1128.84,0,0,0,0,0,-1.07,0,0,276,1127.77
+,,Strawberry Clamshell Pint,0,0,0,0,0,0,0,0,0,0,0
+,Packaged Produce,---,6802.08,0,0,0,0,0,-6.05,0,---,1502,6796.03
+Grocery - Produce (Non-Weighted),---,---,6802.08,0,0,0,0,0,-6.05,0,---,1502,6796.03
+Grocery - Produce (Weighted),Fresh Fruits,Apple Conventional,165.6,0,0,0,0,0,-0.64,2.99,0,164,164.96
+,,Apple Honeycrisp,354.82,0,0,0,0,0,-0.4,18.55,0,125,354.42
+,,Apple Organic,101.85,0,0,0,0,0,0,-5.67,0,54,101.85
+,,Avocado Hass Organic,682.04,0,0,0,0,0,-0.29,0,0,236,681.75
+,,Banana,753.24,0,0,0,0,0,-1.86,370.07,0,387,751.38
+,,Banana Organic,16.64,0,0,0,0,0,0,5.74,0,10,16.64
+,,Coconut Young,41.93,0,0,0,0,0,-0.6,0,0,7,41.33
+,,Grape Green Seedless,1221.93,0,0,0,0,0,-0.8,619.41,0,242,1221.13
+,,Grape Red Seedless,576.25,0,0,0,0,0,-1.6,294.9,0,113,574.65
+,,Grapefruit,36.91,0,0,0,0,0,0,8.61,0,19,36.91
+,,Kiwi,32.45,0,0,0,0,0,0,0,0,55,32.45
+,,Lemon,94.34,0,0,0,0,0,-0.25,0,0,106,94.09
+,,Lime,65.17,0,0,0,0,0,0,0,0,133,65.17
+,,Mandarin 3lb Bag,1181.31,0,0,0,0,0,-0.5,0,0,169,1180.81
+,,Mandarin Murcott,7.9,0,0,0,0,0,0,3.72,0,2,7.9
+,,Mango,116.61,0,0,0,0,0,-0.34,0,0,69,116.27
+,,Melon Cantaloupe,3.24,0,0,0,0,0,0,2.55,0,1,3.24
+,,Melon Mini Watermelon Seedless,90.09,0,0,0,0,0,-0.25,68.3,0,22,89.84
+,,Nectarine,2.29,0,0,0,0,0,0,-0.8,0,1,2.29
+,,Orange Conventional,170.8,0,0,0,0,0,-0.5,58.59,0,87,170.3
+,,Pear Asian,20.94,0,0,0,0,0,0,-2.91,0,12,20.94
+,,Pear Bartlett,49.44,0,0,0,0,0,0,-1.25,0,30,49.44
+,,Pear Organic,61.82,0,0,0,0,0,-0.5,-2.38,0,38,61.32
+,,Pineapple,44.66,0,0,0,0,0,-0.25,0,0,14,44.41
+,,Plum Red,0,0,0,0,0,0,0,0,0,0,0
+,,Pomegranate,2.89,0,0,0,0,0,0,0,0,1,2.89
+,Fresh Fruits,---,5895.16,0,0,0,0,0,-8.78,1440.43,---,2097,5886.38
+,Fresh Herbs,Cilantro Bunch,37.13,0,0,0,0,0,-0.24,0,0,47,36.89
+,,Garlic Fresh,66.03,0,0,0,0,0,-0.25,-399.88,0,146,65.78
+,,Ginger Root Fresh,50.35,0,0,0,0,0,0,-121.3,0,43,50.35
+,,Parsley Bunch,19.75,0,0,0,0,0,0,0,0,25,19.75
+,,UW Farm Herb Bundle,20.28,0,0,0,0,0,0,0,0,12,20.28
+,Fresh Herbs,---,193.54,0,0,0,0,0,-0.49,-521.18,---,273,193.05
+,Fresh Vegetables,Bell Pepper Green,61.04,0,0,0,0,0,0,0,0,56,61.04
+,,Bell Pepper Red,163.77,0,0,0,0,0,-0.41,0,0,103,163.36
+,,Bell Pepper Yellow,133.56,0,0,0,0,0,-0.16,0,0,84,133.4
+,,Bok Choy Baby Organic,63.85,0,0,0,0,0,-0.45,-43.74,0,40,63.4
+,,Broccoli Crowns,200.08,0,0,0,0,0,-1.06,-16.29,0,128,199.02
+,,Cabbage Green,59.99,0,0,0,0,0,-0.42,33.11,0,34,59.57
+,,Cabbage Napa,70.73,0,0,0,0,0,-0.43,34.59,0,26,70.3
+,,Cabbage Red,10.77,0,0,0,0,0,0,5.81,0,5,10.77
+,,Carrot 2lb Bag,101.01,0,0,0,0,0,0,0,0,39,101.01
+,,Cauliflower Head Wrapped,107.58,0,0,0,0,0,0,0,0,22,107.58
+,,Celery Wrapped,0,0,0,0,0,0,0,0,0,0,0
+,,Corn on the Cob Yellow,0,0,0,0,0,0,0,0,0,0,0
+,,Cucumber,55.66,0,0,0,0,0,0,-3.64,0,60,55.66
+,,Cucumber English,155.72,0,0,0,0,0,-0.73,0,0,68,154.99
+,,Green Onions Bunch,77.42,0,0,0,0,0,-0.08,0,0,98,77.34
+,,Lettuce Romaine Head Organic,1.89,0,0,0,0,0,0,0,0,1,1.89
+,,Onion Red,28.71,0,0,0,0,0,-0.05,-5.29,0,43,28.66
+,,Onion Sweet Walla Walla,17.46,0,0,0,0,0,-0.32,-0.32,0,18,17.14
+,,Onion White,41.96,0,0,0,0,0,-0.03,-4.66,0,79,41.93
+,,Onion Yellow,24.87,0,0,0,0,0,-0.25,-5.12,0,77,24.62
+,,Pepper Chili Jalapeno,22.59,0,0,0,0,0,-0.04,-65.05,0,44,22.55
+,,Potato Fingerling,11.78,0,0,0,0,0,0,-4.14,0,8,11.78
+,,Potato Red,19.7,0,0,0,0,0,-0.12,7.85,0,15,19.58
+,,Potato Russet,68.28,0,0,0,0,0,-0.64,31.52,0,75,67.64
+,,Potato Sweet Organic,45.8,0,0,0,0,0,-0.25,2.85,0,24,45.55
+,,Potato Yukon,45.27,0,0,0,0,0,-0.75,5.75,0,67,44.52
+,,Tomatillo,10.21,0,0,0,0,0,0,4.24,0,3,10.21
+,,Tomato Heirloom Hot House Organic,8.37,0,0,0,0,0,0,-7.59,0,5,8.37
+,,Tomato Red Vine-On,345.04,0,0,0,0,0,-0.24,-67.76,0,115,344.8
+,,UW Farm Mixed Greens Bag,110.7,0,0,0,0,0,0,0,0,30,110.7
+,,Zucchini Squash,44.28,0,0,0,0,0,-0.86,-8.56,0,38,43.42
+,Fresh Vegetables,---,2108.09,0,0,0,0,0,-7.29,-106.46,---,1405,2100.8
+Grocery - Produce (Weighted),---,---,8196.79,0,0,0,0,0,-16.56,812.79,---,3775,8180.23
+Grocery - Refrigerated,Asian Perishable,House Soon Tofu BCD Hot 13oz,151.62,0,0,0,0,0,0,0,0,38,151.62
+,,House Soon Tofu BCD Med 13oz,115.71,0,0,0,0,0,0,0,0,29,115.71
+,,JFC Organic Tofu Firm 14oz,114.84,0,0,0,0,0,-1.92,0,0,36,112.92
+,,JFC Organic Tofu Soft 14oz,146.74,0,0,0,0,0,-0.89,0,0,46,145.85
+,,Marukome Miso Organic 13.2oz,21.87,0,0,0,0,0,0,0,0,3,21.87
+,,Marukome Miso Organic LS 13.2oz,21.87,0,0,0,0,0,-0.73,0,0,3,21.14
+,,Seoul Original Kimchi Vegan 14oz,151.81,0,0,0,0,0,0,0,0,19,151.81
+,,Seoul Spicy Kimchi Vegan 14oz,151.81,0,0,0,0,0,-0.8,0,0,19,151.01
+,,Shirakiku Amasu Shoga 12oz,12.58,0,0,0,0,0,0,0,0,2,12.58
+,,Shirakiku Kizami Shoga 12oz,12.58,0,0,0,0,0,-0.63,0,0,2,11.95
+,Asian Perishable,---,901.43,0,0,0,0,0,-4.97,0,---,197,896.46
+,Deli Meat Packaged,Buddig Ham 2oz,19.08,0,0,0,0,0,0,0,0,12,19.08
+,,Buddig Turkey,12.72,0,0,0,0,0,0,0,0,8,12.72
+,,Columbus Pastrami Presliced 6oz,85.52,0,0,0,0,0,0,0,0,8,85.52
+,,Columbus Prosciutto Sliced,187,0,0,0,0,0,-0.55,0,0,34,186.45
+,,Columbus Salami Italian Dry Sl,242,0,0,0,0,0,-0.25,0,0,44,241.75
+,,Columbus Salami Peppered Slcd,225.5,0,0,0,0,0,-1.35,0,0,41,224.15
+,,Columbus Salami sliced  Calabrese 4oz,137.5,0,0,0,0,0,0,0,0,25,137.5
+,,Olli Pepperoni Presliced 4oz,95.06,0,0,0,0,0,0,0,0,14,95.06
+,,Oscar M Deli Roasted Turkey 9oz,216,0,0,0,0,0,-0.68,0,0,32,215.32
+,,Oscar Mayer Smkd Uncured Ham,384.75,0,0,0,0,0,0,0,0,57,384.75
+,,Reser Bratwurst Link,88.27,0,0,0,0,0,-0.25,0,0,13,88.02
+,Deli Meat Packaged,---,1693.4,0,0,0,0,0,-3.08,0,---,288,1690.32
+,Eggs,Just Egg Plant Based Scramble ,46.74,0,0,0,0,0,0,0,0,6,46.74
+,,Wilcox Eggs White Cage Free Dozen,1187.03,0,0,0,0,0,-3.2,0,0,397,1183.83
+,,Wilcox HB Egg 2Pk Cage Free,236.28,0,0,0,0,0,0,0,0,132,236.28
+,Eggs,---,1470.05,0,0,0,0,0,-3.2,0,---,535,1466.85
+,Packaged Grab and Go,Columbus Charcuterie Tasting Board 4oz,151.92,0,0,0,0,0,0,0,0,8,151.92
+,,Columbus Snack Tray Genoa Salami,317.47,0,0,0,0,0,0,0,0,53,317.47
+,,Columbus Snack Tray Italian Dry Salami,239.6,0,0,0,0,0,0,0,0,40,239.6
+,,Hillshire SP Genoa Salame,87.78,0,0,0,0,0,0,0,0,22,87.78
+,,Hillshire SP Hot Calabrese,299.25,0,0,0,0,0,-0.25,0,0,75,299
+,,Hillshire SP Ital Dry Salame,283.29,0,0,0,0,0,-0.25,0,0,71,283.04
+,,Lunchable Ham Ched with Treat 3.5oz,103.74,0,0,0,0,0,0,0,0,26,103.74
+,,Lunchable Pizza 4.3oz,113.7,0,0,0,0,0,0,0,0,30,113.7
+,,Lunchable Turkey and Cheddar 3.2oz,75.8,0,0,0,0,0,0,0,0,20,75.8
+,,Sabra Hummus Garlic and Pretzel,163.59,0,0,0,0,0,0,0,0,41,163.59
+,,Sabra Hummus Red Pepper,183.54,0,0,0,0,0,-0.4,0,0,46,183.14
+,Packaged Grab and Go,---,2019.68,0,0,0,0,0,-0.9,0,---,432,2018.78
+,Perishable Other,Applegate Chicken Maple Sausag,116.82,0,0,0,0,0,0,0,0,18,116.82
+,,Applegate Oven Roasted Chicken,94.77,0,0,0,0,0,0,0,0,13,94.77
+,,Applegate Sliced Ham,138.51,0,0,0,0,0,0,0,0,19,138.51
+,,Applegate Smoked Turkey Slices,109.35,0,0,0,0,0,0,0,0,15,109.35
+,,Applegate Turkey Bacon,181.72,0,0,0,0,0,-1.55,0,0,28,180.17
+,,Bar-S Frank Jumbo Chicken,45.8,0,0,0,0,0,0,0,0,20,45.8
+,,Bar-S Smoked Sliced Bacon,348.09,0,0,0,0,0,0,0,0,41,348.09
+,,Better Bean Hummus Cup 2oz,5.95,0,0,0,0,0,0,0,0,5,5.95
+,,Cibo Pesto Traditional ,71.39,0,0,0,0,0,0,0,0,11,71.39
+,,Cool Whip Regular 8oz,27.81,0,0,0,0,0,0,0,0,9,27.81
+,,Cougar Cookie Dough Choc Chunk ,125,0,0,0,0,0,0,0,0,20,125
+,,Cougar Cookie Dough PB Choc,18.75,0,0,0,0,0,0,0,0,3,18.75
+,,Cougar Cookie Vegan Choc Chip,100,0,0,0,0,0,0,0,0,16,100
+,,Divina Olives Blue Cheese Stuffed 4.6oz,34.95,0,0,0,0,0,-0.7,0,0,5,34.25
+,,Divina Olives Castelvetrano 4.6oz,55.12,0,0,0,0,0,0,0,0,8,55.12
+,,Divina Olives Kalamata Pitted 4.2oz,20.67,0,0,0,0,0,0,0,0,3,20.67
+,,Field Roast Apple Sage Sausage,49.95,0,0,0,0,0,-1,0,0,5,48.95
+,,Field Roast Brkfst Mple Sausage,19.98,0,0,0,0,0,0,0,0,2,19.98
+,,Field Roast Frankforter Sausage,17.98,0,0,0,0,0,0,0,0,2,17.98
+,,Field Roast Fruffalo Wing,23.98,0,0,0,0,0,0,0,0,2,23.98
+,,Field Roast Lentil Sage Deli,5.29,0,0,0,0,0,0,0,0,1,5.29
+,,Field Roast Mex Chiptle Sausage,59.94,0,0,0,0,0,-1,0,0,6,58.94
+,,Field Roast Smked Tmto Deli Sliced,24.95,0,0,0,0,0,0,0,0,5,24.95
+,,GeradDom Wild Coho Smoked Salmon,349.72,0,0,0,0,0,0,0,0,28,349.72
+,,Hail Merry Choc Almond Tart,35.94,0,0,0,0,0,0,0,0,6,35.94
+,,Hail Merry Meyer Lemon Tart,59.9,0,0,0,0,0,0,0,0,10,59.9
+,,ImmaBC Dough Fudge Brownie,34.95,0,0,0,0,0,0,0,0,5,34.95
+,,Neato Hummus,68.5,0,0,0,0,0,-0.25,0,0,10,68.25
+,,Neato Hummus Roasted Garlic,102.75,0,0,0,0,0,0,0,0,15,102.75
+,,Neato Hummus Roasted Red Pep,47.95,0,0,0,0,0,0,0,0,7,47.95
+,,Pillsbury Cinnamon Roll,111.91,0,0,0,0,0,0,0,0,19,111.91
+,,Pillsbury Cookie Dough Choc Chip,263.67,0,0,0,0,0,0,0,0,33,263.67
+,,Pillsbury Cresent Dinner Roll,91.35,0,0,0,0,0,0,0,0,15,91.35
+,,Pillsbury Dough Sugar Cookie,38.61,0,0,0,0,0,0,0,0,9,38.61
+,,Reddi Whipped Cream 6.5oz,153.14,0,0,0,0,0,0,0,0,26,153.14
+,,Redondo Portugese Sausage Mild,18.87,0,0,0,0,0,0,0,0,3,18.87
+,,Reser Smoked Sausage with Cheese,71.01,0,0,0,0,0,0,0,0,9,71.01
+,,SarbarGoMed Hummus,99.75,0,0,0,0,0,0,0,0,21,99.75
+,,SarbarGoMed Hummus Rstd Garlic,123.5,0,0,0,0,0,0,0,0,26,123.5
+,,SarbarGoMed Hummus Rstd Pep,61.75,0,0,0,0,0,0,0,0,13,61.75
+,,Uptons Natural Seitain Chorizo ,26.6,0,0,0,0,0,0,0,0,4,26.6
+,,Uptons Natural Seitan Bacon,6.49,0,0,0,0,0,0,0,0,1,6.49
+,,Wholly Guacamole Classic,40.59,0,0,0,0,0,0,0,0,41,40.59
+,,Zen Almond Milk Pudding Choc 4pk,52,0,0,0,0,0,0,0,0,8,52
+,Perishable Other,---,3555.72,0,0,0,0,0,-4.5,0,---,566,3551.22
+Grocery - Refrigerated,---,---,9640.28,0,0,0,0,0,-16.65,0,---,2018,9623.63
+Grocery Dairy,Cheese,Babybel Mini Cheese 0.75oz,0,0,0,0,0,0,0,0,0,0,0
+Grocery Deli,Meat Counter (Preweighed),Bacon,41.61,0,0,0,0,0,-1.47,-51.78,0,11,40.14
+,,Beef Ribeye Boneless,582.32,0,0,0,0,0,-2.41,157.57,0,25,579.91
+,,Beef Striploin,958.61,0,0,0,0,0,-3.78,403.98,0,37,954.83
+,,Beef Strips,314.49,0,0,0,0,0,-0.46,-81.15,0,36,314.03
+,,Chicken Party Wings,189.6,0,0,0,0,0,-0.25,32.31,0,21,189.35
+,,Chicken Thigh Boneless Skinless,390.6,0,0,0,0,0,-1.18,97.2,0,60,389.42
+,,Cooked Shrimp,29.59,0,0,0,0,0,-0.25,-43.84,0,7,29.34
+,,Ground Pork,113.65,0,0,0,0,0,-0.44,3.85,0,20,113.21
+,,Halal Chicken Breast,725.15,0,0,0,0,0,-1.39,111.94,0,89,723.76
+,,Halal Ground Beef,705.42,0,0,0,0,0,-2.18,82.11,0,79,703.24
+,,Hot Italian Sausage,53.19,0,0,0,0,0,-0.38,-45.48,0,13,52.81
+,,Pork Chop Boneless,107.38,0,0,0,0,0,0,27.48,0,10,107.38
+,,Pork Cubes,55.29,0,0,0,0,0,0,-13.17,0,14,55.29
+,,Rockfish Filet,58.05,0,0,0,0,0,0,-49.8,0,15,58.05
+,,Salmon Filet Skin-on,225.76,0,0,0,0,0,0,-254.98,0,26,225.76
+,,Shrimp,279.74,0,0,0,0,0,-0.25,-84,0,26,279.49
+,Meat Counter (Preweighed),---,4830.45,0,0,0,0,0,-14.44,292.24,---,489,4816.01
+Grocery Deli,---,---,4830.45,0,0,0,0,0,-14.44,292.24,---,489,4816.01
+Grocery Store Deli,Breakfast (Non-Weighed),Breakfast Meat Side,32.5,0,0,0,0,0,-0.26,6.25,3.26,21,32.24
+,,Chorizo Breakfast Burrito,419.44,0,0,0,0,0,-0.25,0,42.34,56,419.19
+,,DM Breakfast Sandwich Egg and Cheese,287.43,0,0,0,0,0,-3.44,0,28.68,67,283.99
+,,DM Breakfast Sandwich Vegan Just Egg,4.99,0,0,0,0,0,0,0,0.5,1,4.99
+,,DM Breakfast Sandwich Vegan Sausage,1222.74,0,0,0,0,0.75,-1.59,0,123.26,231,1221.15
+,,DM Breakfast Sandwich with Bacon,1259.02,0,0,0,0,0,-4.24,0,126.73,238,1254.78
+,,DM Breakfast Sandwich with Sausage,1840.92,0,0,0,0,0,-1.84,0,185.75,348,1839.08
+,,Egg Hard Boiled Individual,0.89,0,0,0,0,0,0,0,0.09,1,0.89
+,Breakfast (Non-Weighed),---,5067.93,0,0,0,0,0.75,-11.62,6.25,---,963,5056.31
+,Deli Case (Preweighed),BBQ Chicken Meatballs,3.9,0,0,0,0,0,0,-8.09,0.39,1,3.9
+,,BBQ Turkey Meatballs,794.24,0,0,0,0,0,0,-860.38,80.22,138,794.24
+,,Balsamic Brussels Sprouts,10.88,0,0,0,0,0,0,-16.09,1.1,3,10.88
+,,Caprese Salad,585.03,0,0,0,0,0,0,-557.93,59.09,104,585.03
+,,Chicken Potsticker Salad,574.52,0,0,0,0,0,-1.54,-589.87,57.87,111,572.98
+,,Chicken Teriyaki Wings,317.6,0,0,0,0,0,0,-221.95,32.08,45,317.6
+,,Corn Salad,191.47,0,0,0,0,0,-1.26,-198.14,19.21,39,190.21
+,,Falafel,91.71,0,0,0,0,0,0,-178.02,9.26,27,91.71
+,,Grilled Chicken,948.76,0,0,0,0,0,-1.35,-803.07,95.69,167,947.41
+,,Grilled Salmon,121.83,0,0,0,0,0,0,-178.05,12.3,12,121.83
+,,Grilled Steak,8.37,0,0,0,0,0,0,-9.62,0.85,1,8.37
+,,Heidis Tofu ,255.61,0,0,0,0,0,-0.5,-295.91,25.77,48,255.11
+,,Macaroni Salad,397.62,0,0,0,0,0,-0.46,-401.58,40.11,80,397.16
+,,Pesto Tortellini,1167.44,0,0,0,0,0,-0.92,-1050.71,117.82,185,1166.52
+,,Quinoa Tabbolouleh,143.71,0,0,0,0,0,-0.79,-204,14.43,29,142.92
+,,Ravioli Printemps,569.41,0,0,0,0,0,-0.25,-593.62,57.49,97,569.16
+,,Roast Pork Loin,173.35,0,0,0,0,0,-0.22,-242.33,17.49,32,173.13
+,,Roasted Broccoli Salad,113.29,0,0,0,0,0,-1.34,-142.96,11.31,25,111.95
+,,Roasted Potato Salad,193.56,0,0,0,0,0,-0.25,-142.02,19.52,42,193.31
+,,Sesame Quinoa ,29.7,0,0,0,0,0,-0.62,-60.21,2.94,9,29.08
+,,Sesame Snap Peas,88.39,0,0,0,0,0,0,-161.36,8.93,25,88.39
+,,Smoked Mozzarella Pasta Salad,798.49,0,0,0,0,0,-1.34,-932.36,80.51,165,797.15
+,,Tahini Roasted Cauliflower,183.42,0,0,0,0,0,-0.25,-166.23,18.5,35,183.17
+,,Tamari-Sesame Noodle Salad,571.78,0,0,0,0,0,0,-581.68,57.75,154,571.78
+,,Tropical Fruit Salad,694.07,0,0,0,0,0,0,-544.69,70.1,124,694.07
+,,Vegan Caesar Salad,256.37,0,0,0,0,0,-0.37,-918.65,25.86,98,256
+,Deli Case (Preweighed),---,9284.52,0,0,0,0,0,-11.46,-10059.52,---,1796,9273.06
+,Deli Misc (Preweighed),Non-Scanning Deli Item,2365.15,0,0,0,0,0,-3.05,2337.17,238.57,183,2362.1
+,Hot Food (Non-Weighed),Corn Dog,523.37,0,0,0,0,0,-0.25,97.51,52.84,214,523.12
+,,Quarter Roast Chicken,47.88,0,0,0,0,0,0,0,4.84,12,47.88
+,,Vegetable Samosa,1261.26,0,0,0,0,0,-0.68,257.4,127.32,234,1260.58
+,Hot Food (Non-Weighed),---,1832.51,0,0,0,0,0,-0.93,354.91,---,460,1831.58
+,Hot Food (Preweighed),Lunch and Dinner Bar,10446.58,0,0,0,0,0,-24.09,-6446.51,1052.67,1691,10422.49
+,Packaged Meals (Non-Weighed),Chicken Alfredo,1048.95,0,0,0,0,0,-1,0,105.84,105,1047.95
+,,Chicken Tikka Meal,1008.99,0,0,0,0,0,-3,0,101.6,101,1005.99
+,,Spaghetti and Meatballs,809.1,0,0,0,0,0,-0.9,-90,81.63,90,808.2
+,,Teriyaki Beef Meal,1358.64,0,0,0,0,0,0,0,137.22,136,1358.64
+,,Teriyaki Chicken Meal,1278.72,0,0,0,0,0,0,0,129.15,128,1278.72
+,,Teriyaki Salmon Meal,917.32,0,0,0,0,0,0,0,92.65,68,917.32
+,,Vegan Chana Masala,373.56,0,0,0,0,0,0,0,37.73,44,373.56
+,Packaged Meals (Non-Weighed),---,6795.28,0,0,0,0,0,-4.9,-90,---,672,6790.38
+,Sandwich & Wrap (Non-Weighed),Egg Salad Sandwich ,416.01,0,0,0,0,0,0,0,42.02,49,416.01
+,,Falafel Wrap,161.82,0,0,0,0,0,0,0,16.34,18,161.82
+,,Pastrami Sandwich,382.05,0,0,0,0,0,-0.85,0,38.5,45,381.2
+,,Smoked Salmon Bagel,791.28,0,0,0,0,0,0,180,79.92,72,791.28
+,Sandwich & Wrap (Non-Weighed),---,1751.16,0,0,0,0,0,-0.85,180,---,184,1750.31
+Grocery Store Deli,---,---,37543.13,0,0,0,0,0.75,-56.9,-13717.7,---,5949,37486.23
+Household,Apparel,UW Crewneck ,1151.68,0,0,0,0,0,0,0,118.05,32,1151.68
+,,UW Hooded Sweatshirt,135,0,0,0,0,0,0,0,13.84,3,135
+,,UW Long Sleeve Shirt,416,0,0,0,0,0,0,0,42.64,16,416
+,,UW Stadium Scarf,75,0,0,0,0,0,0,0,7.69,3,75
+,,UW T-Shirt,304,0,0,0,0,0,-0.25,0,31.13,19,303.75
+,Apparel,---,2081.68,0,0,0,0,0,-0.25,0,---,73,2081.43
+,Cleaning Supply,7Gen Kitchen Bags Tall,230.55,0,0,0,0,0,-0.25,0,23.61,29,230.3
+,,7Gen Multi Surface Cleaner Thyme 26oz,11.98,0,0,0,0,0,0,0,1.23,2,11.98
+,,7Gen Non-Chlor Bleach 64oz,20.97,0,0,0,0,0,0,0,2.15,3,20.97
+,,7Gen Paper Towels,55.86,0,0,0,0,0,0,0,5.73,14,55.86
+,,B Yet Paper Towel 2 CT,176.41,0,0,0,0,0,-0.55,0,18.03,59,175.86
+,,B Yet Paper Towel 3CT,241.56,0,0,0,0,0,-0.75,0,24.68,44,240.81
+,,B Yet Trash Twist Tie 30 Gal 10CT,155.39,0,0,0,0,0,0,0,15.93,41,155.39
+,,Bio Degradable Bags 3 Gal 25CT,34.95,0,0,0,0,0,0,0,3.58,5,34.95
+,,Bounce Outdoor Fresh 15CT,69.93,0,0,0,0,0,0,0,7.17,37,69.93
+,,Clorox Beach Concentrate Liq 43oz,44.95,0,0,0,0,0,0,0,4.61,5,44.95
+,,Clorox Cleanup with Bleach Spray 32oz,9.99,0,0,0,0,0,0,0,1.02,1,9.99
+,,Clorox Toilet Bowl Cleaner 24oz,47.92,0,0,0,0,0,0,0,4.91,8,47.92
+,,Clorox Wipes Fresh,215.64,0,0,0,0,0,0,0,22.1,36,215.64
+,,Clorox Wipes Lemon,206.33,0,0,0,0,0,0,0,21.15,47,206.33
+,,Downy Liquid 19oz April Fresh,84.64,0,0,0,0,0,0,0,8.68,16,84.64
+,,EarthForce Orange Plus Spray 22oz,49.9,0,0,0,0,0,0,0,5.11,10,49.9
+,,Febreeze 16.9oz,18.87,0,0,0,0,0,0,0,1.93,3,18.87
+,,Field Day Paper Towels,236.88,0,0,0,0,0,-1.16,0,24.16,72,235.72
+,,Gain Lndry Detergent Fresh Liq 25oz,293.25,0,0,0,0,0,-0.25,0,30.03,51,293
+,,Gain Lndry Detergent Orig Liq 10oz,52.92,0,0,0,0,0,-0.19,0,5.4,28,52.73
+,,Glad 30 Gal Drawstring 10CT,119.51,0,0,0,0,0,-0.63,0,12.19,19,118.88
+,,Ivory Liquid Dish Soap 24oz,327.98,0,0,0,0,0,-0.53,0,33.56,62,327.45
+,,Lysol Crisp Linen Spray 12.5oz,116.91,0,0,0,0,0,0,0,11.98,9,116.91
+,,Microban Sanitizing Spray 15oz,17.3,0,0,0,0,0,0,0,1.77,2,17.3
+,,Mr Clean Magic Eraser 2CT,29.15,0,0,0,0,0,-0.27,0,2.96,11,28.88
+,,Mrs Meyers AutoDish Soap Lemon,87.92,0,0,0,0,0,0,0,9.01,8,87.92
+,,Natural Value Paper Towels ,85.54,0,0,0,0,0,-0.25,0,8.74,26,85.29
+,,Resolve Carpet Cleaner 22oz,9.29,0,0,0,0,0,0,0,0.95,1,9.29
+,,SOS Scrub Pads 4CT,1.99,0,0,0,0,0,0,0,0.2,1,1.99
+,,Scotch Brite Scour Pad ,24.51,0,0,0,0,0,-0.13,0,2.5,19,24.38
+,,Scotch Brite Sponge Heavy Duty,101.49,0,0,0,0,0,0,0,10.4,51,101.49
+,,Scotchbrite Sponge w/Scour Pad ,129.89,0,0,0,0,0,0,0,13.31,31,129.89
+,,Scrubbing Bubbles Fresh 20oz,53.94,0,0,0,0,0,0,0,5.53,6,53.94
+,,Swifter Duster Kit ,36.45,0,0,0,0,0,0,0,3.74,5,36.45
+,,Swifter Duster Refill 10CT,64.95,0,0,0,0,0,0,0,6.66,5,64.95
+,,Tide 2X Concentrate 50oz,458.7,0,0,0,0,0,-0.25,0,46.99,30,458.45
+,,Tide To Go Pen,238.68,0,0,0,0,0,0,0,24.46,52,238.68
+,Cleaning Supply,---,4163.09,0,0,0,0,0,-5.21,0,---,849,4157.88
+,Electronic,Duracell 9V 1CT,39.95,0,0,0,0,0,0,0,4.09,5,39.95
+,,Duracell AA Coppertop 4Pk,225,0,0,0,0,0,0,0,23.06,30,225
+,,Duracell AAA 4CT,157.5,0,0,0,0,0,0,0,16.14,21,157.5
+,,Duracell D 2CT,17.98,0,0,0,0,0,0,0,1.84,2,17.98
+,,I54 Fast Dual Wall Charger ,147.51,0,0,0,0,0,0,0,15.12,9,147.51
+,,I54 Lightning to USB Cable 3ft,114.73,0,0,0,0,0,0,0,11.76,7,114.73
+,Electronic,---,702.67,0,0,0,0,0,0,0,---,74,702.67
+,Household Other,$3.95 Greeting Card,0,0,0,0,0,0,0,0,9.31,0,0
+,,$4.50 Greeting Card,0,0,0,0,0,0,0,0,0.46,0,0
+,,DM Insulated Hercules Tote,79.92,0,0,0,0,0,-1.25,0,8.06,8,78.67
+,,DM Reusable Grocery Bag,0,0,0,0,0,0,0,0,0,0,0
+,,Duct Tape Gray 60Yd,19.98,0,0,0,0,0,-1,0,1.95,2,18.98
+,,Floral Bouquet $16.50,214.5,0,0,0,0,0,-1.65,0,21.82,13,212.85
+,,Floral Bouquet $7.99,0,0,0,0,0,0,0,0,0,0,0
+,,Greeting Card,95.35,0,0,0,0,95.35,0,0,0,24,95.35
+,,InterDesign Pebblz Square Bath Mat Clear,17.99,0,0,0,0,0,0,0,1.84,1,17.99
+,,Knotted Hairtie Set,31.96,0,0,0,0,0,0,0,3.28,4,31.96
+,,Masking Tape 60yd,33.67,0,0,0,0,0,0,0,3.45,13,33.67
+,,Select Combination Lock,45.5,0,0,0,0,0,0,0,4.66,14,45.5
+,,Select Umbrella Small,99.8,0,0,0,0,0,0,0,10.23,20,99.8
+,,Sewing Kit,13.5,0,0,0,0,0,0,0,1.38,6,13.5
+,,UW DM Bio Liiv Produce Bag,5,0,0,0,0,0,0,0,0.51,1,5
+,,UW Farm Flowers Large,105,0,0,0,0,0,-0.25,0,10.74,7,104.75
+,,UW Farm Flowers Small,54,0,0,0,0,0,-0.25,0,5.51,6,53.75
+,,UW Fleece Blanket ,750,0,0,0,0,0,0,0,76.88,10,750
+,,UW Fleece Roll-Up Picnic Blanket ,80,0,0,0,0,0,0,0,8.2,2,80
+,,UW Umbrella,16,0,0,0,0,0,0,0,1.64,1,16
+,Household Other,---,1662.17,0,0,0,0,95.35,-4.4,0,---,132,1657.77
+,Kitchen Merchandise,Can Opener,47.53,0,0,0,0,0,0,0,4.87,7,47.53
+,,EPN KitS CuttingB Nat 8X6,47.97,0,0,0,0,0,0,0,4.92,3,47.97
+,,EPN KitS CuttingB Slate 8X6,31.98,0,0,0,0,0,0,0,3.28,2,31.98
+,,Flatware Bouillon Spoon Individual,67.5,0,0,0,0,0,0,0,6.92,90,67.5
+,,Flatware Fork Individual,31.5,0,0,0,0,0,-0.08,0,3.22,42,31.42
+,,Flatware Knife Inidividual,16.5,0,0,0,0,0,0,0,1.69,22,16.5
+,,Flatware Teaspoon Individual,23.25,0,0,0,0,0,0,0,2.38,31,23.25
+,,Iced Tea Glass 15oz,2.95,0,0,0,0,0,0,0,0.3,1,2.95
+,,KRS 3PC Colori Knife Set ,159.96,0,0,0,0,0,0,0,16.4,4,159.96
+,,KRS 3PC Easy Induction Pan Set,255.98,0,0,0,0,0,0,0,26.24,2,255.98
+,,KRS 3PC Everyday Knife Set,129.98,0,0,0,0,0,0,0,13.32,2,129.98
+,,KRS Colori Chefs Knife Red,35.98,0,0,0,0,0,0,0,3.69,2,35.98
+,,"KRS Colori Santoku Knife 5 """,18.79,0,0,0,0,0,0,0,1.93,1,18.79
+,,KRS Easy Frying Pan 12in,162.45,0,0,0,0,0,0,0,16.65,5,162.45
+,,KRS Easy Frying Pan High 8in,150.43,0,0,0,0,0,0,0,15.42,7,150.43
+,,KRS Essential Wok,195.98,0,0,0,0,0,0,0,20.09,2,195.98
+,,KRS Stay Clean Scrubber Black,10.98,0,0,0,0,0,0,0,1.13,2,10.98
+,,PROG Can Opener ,51.56,0,0,0,0,0,0,0,5.28,4,51.56
+,,PROG Food Safety Paring Knives,30.98,0,0,0,0,0,0,0,3.18,2,30.98
+,,UW BrandGear Alaska Cooler,35,0,0,0,0,0,0,0,3.59,1,35
+,,UW DM Mason Jar 16oz,36,0,0,0,0,0,0,0,3.69,6,36
+,,UW DM Mason Jar 8oz,22.5,0,0,0,0,0,0,0,2.31,5,22.5
+,,UW Husky Grind Aura Mug,0,0,0,0,0,0,0,0,0,0,0
+,,UW Husky Grind Camper Mug,0,0,0,0,0,0,0,0,0,0,0
+,,UW Husky Grind Minolo Mug,60,0,0,0,0,0,0,0,6.15,4,60
+,,UW Reusable Straw Set,22,0,0,0,0,0,0,0,2.25,2,22
+,,UW Reusable Utensil Set,0,0,0,0,0,0,0,0,0,0,0
+,Kitchen Merchandise,---,1647.75,0,0,0,0,0,-0.08,0,---,249,1647.67
+,Kitchen Supply,"Best Yet Alum Foil Box 12 25 SF""",45.48,0,0,0,0,0,0,0,4.66,12,45.48
+,,Best Yet Plastic Tableware 24CT,192.36,0,0,0,0,0,-0.25,0,19.69,84,192.11
+,,EZ Foil Aluminum Cake Pan 3ct,17.91,0,0,0,0,0,0,0,1.84,9,17.91
+,,EZ Foil Aluminum Roaster Pan 2ct,69.09,0,0,0,0,0,0,0,7.08,21,69.09
+,,If You Care Parchmnt Paper 70ft,104.86,0,0,0,0,0,0,0,10.75,14,104.86
+,,Mr. Coffee Filters,6,0,0,0,0,0,0,0,0.61,4,6
+,,Reynolds Wrap Foil 30ft,68.77,0,0,0,0,0,0,0,7.05,23,68.77
+,,Solo 10in Paper Plates 28CT,323.95,0,0,0,0,0,0,0,33.21,55,323.95
+,,Solo 10oz Clear Cup 36CT,125.79,0,0,0,0,0,0,0,12.89,21,125.79
+,,Solo 12oz Bowl 12CT,101.66,0,0,0,0,0,0,0,10.42,34,101.66
+,,Solo 18oz Cups 20CT,124.75,0,0,0,0,0,-0.25,0,12.76,25,124.5
+,,Ziploc Freezer Bag 1Gal 15CT,69.19,0,0,0,0,0,-0.25,0,7.07,11,68.94
+,,Ziploc Storage Bags 25CT,129.8,0,0,0,0,0,-0.25,0,13.28,22,129.55
+,Kitchen Supply,---,1379.61,0,0,0,0,0,-1,0,---,335,1378.61
+,School and Office,BIC Marking Fine Tip 2CT,26.01,0,0,0,0,0,0,0,2.67,9,26.01
+,,BIC Wite Out Dry Bottle ,9.56,0,0,0,0,0,0,0,0.98,4,9.56
+,,Bic Cristal Pen Black 2Pk,5.56,0,0,0,0,0,0,0,0.57,4,5.56
+,,Bic Cristal Pen Blue 2Pk,4.17,0,0,0,0,0,0,0,0.43,3,4.17
+,,Bic Cristal Pen Red 2Pk,2.78,0,0,0,0,0,0,0,0.28,2,2.78
+,,Bic Highlighter Asstd 5CT,25.83,0,0,0,0,0,0,0,2.65,7,25.83
+,,Bic Markers Dry Erase Magic,63.25,0,0,0,0,0,0,0,6.48,11,63.25
+,,Bic Mechanical Pencil Velocity Max 0.7mm,52.72,0,0,0,0,0,0,0,5.4,8,52.72
+,,Bic Pencil Lead Refill .7mm,11.94,0,0,0,0,0,0,0,1.22,6,11.94
+,,Bic Pens Gelocity Black 2pk,64.62,0,0,0,0,0,0,0,6.62,18,64.62
+,,Bic Pens Gelocity Orignal Fashion 4pk,56.28,0,0,0,0,0,0,0,5.77,12,56.28
+,,Bic Velocity Pencil 0.9mm 2Pk,40.59,0,0,0,0,0,0,0,4.16,11,40.59
+,,Bic Wite Out Correction Tape,32.31,0,0,0,0,0,0,0,3.31,9,32.31
+,,Magic Tape 300ft,25.19,0,0,0,0,0,0,0,2.58,11,25.19
+,,Mead 1 Subject Notebook,38.85,0,0,0,0,0,0,0,3.98,15,38.85
+,,Mead 3x5 Index Cards,57.46,0,0,0,0,0,0,0,5.89,34,57.46
+,,Mead Envelopes Clasp 10x13 3CT,6.6,0,0,0,0,0,0,0,0.68,4,6.6
+,,Mead Legal Pad 8.5x11.75,18.9,0,0,0,0,0,0,0,1.94,6,18.9
+,,Mead Spiral Notebook 3-Subject,167.27,0,0,0,0,0,0,0,17.15,43,167.27
+,,Mead Spiral Notebook 6X9,7.5,0,0,0,0,0,0,0,0.77,3,7.5
+,,Norcom College Rule Notebook 70CT,206.31,0,0,0,0,0,-0.5,0,21.1,69,205.81
+,,Office Depot Mailing Tape,20.23,0,0,0,0,0,0,0,2.07,7,20.23
+,,Post-It Notes 4Pk,11,0,0,0,0,0,0,0,1.13,4,11
+,,Post-It Notes Pastel ,24.54,0,0,0,0,0,0,0,2.52,6,24.54
+,,Print Paper 8.5x11.75 500CT,6.49,0,0,0,0,0,0,0,0.67,1,6.49
+,,Scantron,13.5,0,0,0,0,0,0,0,1.38,27,13.5
+,,Super Glue Pen .07oz,20.64,0,0,0,0,0,0,0,2.12,16,20.64
+,School and Office,---,1020.1,0,0,0,0,0,-0.5,0,---,350,1019.6
+Household,---,---,12657.07,0,0,0,0,95.35,-11.44,0,---,2062,12645.63
+Nonfood Misc,Nonscanning Items,Non-Scanning Merchandise,200.1,0,0,0,0,0,-1.29,197.11,20.38,36,198.81
+,Promotional,Bicycle Benefits Sticker,10,0,0,0,0,0,0,0,0,2,10
+,Service Items,Compostable Cup,9,0,0,0,0,0,0,0,0.91,36,9
+,,King County Bag Fee,90.9,0,0,0,0,0,-0.12,0,0,1818,90.78
+,Service Items,---,99.9,0,0,0,0,0,-0.12,0,---,1854,99.78
+Nonfood Misc,---,---,310,0,0,0,0,0,-1.41,197.11,---,1892,308.59
+Packaged,Breakfast,DM2Go Bacon and Egg Breakfast Sandwich,239.6,0,0,0,0,0,0,0,24.2,40,239.6
+,,DM2Go Fresh Cut Fruit,805.92,0,0,0,0,0,0,0,81.4,138,805.92
+,Breakfast,---,1045.52,0,0,0,0,0,0,0,---,178,1045.52
+,Other,DM2Go Chia Pudding Strawberry,444.11,0,0,0,0,0,-1.95,0,44.66,89,442.16
+,,DM2Go Fresh Crudite,477.63,0,0,0,0,0,-0.55,0,48.19,87,477.08
+,,DM2Go Fresh Grapes,263.34,0,0,0,0,0,0,0,26.6,66,263.34
+,,DM2Go Moto Hawaiian Fried Rice,726.96,0,0,0,0,0,0,0,73.42,104,726.96
+,Other,---,1912.04,0,0,0,0,0,-2.5,0,---,346,1909.54
+,Salad,DM2G0 Banh Mi Bowl,289.71,0,0,0,0,0,0,0,29.26,29,289.71
+,,DM2Go Chicken Kale Caesar Salad,1798,0,0,0,0,0,-3.6,0,181.23,200,1794.4
+,,DM2Go Farmers Market Salad,231.71,0,0,0,0,0,-0.8,0,23.32,29,230.91
+,,DM2Go Greek Salad,126.27,0,0,0,0,0,-0.55,0,12.7,23,125.72
+,Salad,---,2445.69,0,0,0,0,0,-4.95,0,---,281,2440.74
+,Sandwich and Wrap,DM2Go Chicken Shawarma,975.69,0,0,0,0,0,0,0,98.54,111,975.69
+,,DM2Go Ham Havarti Croissant Sandwich,1033.85,0,0,0,0,0,-2.05,0,104.21,115,1031.8
+,,DM2Go Mediterranean Chickpea Sandwich,783.02,0,0,0,0,0,-2.4,0,78.84,98,780.62
+,,DM2Go Peanut Butter and Jam Sandwich,319.36,0,0,0,0,0,0,0,32.26,64,319.36
+,,DM2Go Turkey and Cheddar Sandwich,2876.8,0,0,0,0,0,-6.55,0,289.9,320,2870.25
+,Sandwich and Wrap,---,5988.72,0,0,0,0,0,-11,0,---,708,5977.72
+Packaged,---,---,11391.97,0,0,0,0,0,-18.45,0,---,1513,11373.52
+Personal Care,Beauty,Alaffia Balm Miracal Melting 4oz,13.99,0,0,0,0,0,0,0,1.43,1,13.99
+,,Alaffia Conditioner Everyday Haircare Coconut,49.96,0,0,0,0,0,-0.25,0,5.1,4,49.71
+,,Alaffia Curl Hair Tonic ,29.78,0,0,0,0,0,0,0,3.05,2,29.78
+,,Alaffia Detangler Spray Coconut,0,0,0,0,0,0,0,0,0,0,0
+,,Alaffia Hair Cream Curl Activating,29.78,0,0,0,0,0,0,0,3.05,2,29.78
+,,Alaffia SP Al N1 Lavender,43.96,0,0,0,0,0,0,0,4.51,4,43.96
+,,Bass Bear Brush,31.18,0,0,0,0,0,0,0,3.2,2,31.18
+,,Bass Brushes Vented Hair Large,28.2,0,0,0,0,0,0,0,2.89,4,28.2
+,,Beauty Make-Up Remover 4oz,9.99,0,0,0,0,0,0,0,1.02,1,9.99
+,,Goody Bobby Pins Black 60CT,15.92,0,0,0,0,0,0,0,1.63,8,15.92
+,,Lil Drug Nail Polish Remover,42.25,0,0,0,0,0,-0.58,0,4.27,13,41.67
+,,Lil Drug Store Poket Comb,7.45,0,0,0,0,0,0,0,0.76,5,7.45
+,,Pantene Pro-V Hairspray,47.94,0,0,0,0,0,-0.25,0,4.89,6,47.69
+,,Scunci Black Elastics 12CT,45,0,0,0,0,0,0,0,4.61,18,45
+,,Scunci Vent Hair Brush,14.25,0,0,0,0,0,0,0,1.46,3,14.25
+,,Tresemme Hair Spray Aerosol 11oz ,58.45,0,0,0,0,0,0,0,5.99,5,58.45
+,Beauty,---,468.1,0,0,0,0,0,-1.08,0,---,78,467.02
+,First Aid,Band-Aid Flex 30CT,105.23,0,0,0,0,0,0,0,10.79,17,105.23
+,,Band-Aid Sheer Strips 40CT,84.42,0,0,0,0,0,-0.25,0,8.63,18,84.17
+,,Band-Aid Waterproof Tape 10yd,34.32,0,0,0,0,0,0,0,3.52,8,34.32
+,,Johson Gauze Roll,34.97,0,0,0,0,0,0,0,3.58,13,34.97
+,,Lil Drug Rubbing Alcohol 70%,114.77,0,0,0,0,0,0,0,11.76,23,114.77
+,,Lil Drug Value Hydrogen Peroxide,17.94,0,0,0,0,0,0,0,1.84,6,17.94
+,,Neosporin,80.01,0,0,0,0,0,0,0,8.2,9,80.01
+,First Aid,---,471.66,0,0,0,0,0,-0.25,0,---,94,471.41
+,Health Other,AOSafety Ear Plug 4Pair,83.43,0,0,0,0,0,0,0,8.55,27,83.43
+,,Aloe Cadabra Natural Aloe Lubricant,51.96,0,0,0,0,0,0,0,5.33,4,51.96
+,,Aveeno Lotion Daily Moist 2.5,74.85,0,0,0,0,0,0,0,7.67,15,74.85
+,,BIC Silky Touch 3 Shaver 3CT,13.52,0,0,0,0,0,0,0,1.39,8,13.52
+,,Bic Comfort 3 Blade Men Single,30.42,0,0,0,0,0,0,0,3.12,18,30.42
+,,Blistex Med Lip Ointment,21.52,0,0,0,0,0,0,0,2.21,8,21.52
+,,CV 3M Tekk Ear Plugs 1CT,10.71,0,0,0,0,0,0,0,1.1,9,10.71
+,,Chapstick Cherry,21.52,0,0,0,0,0,0,0,2.21,8,21.52
+,,Chapstick Medicated,17.94,0,0,0,0,0,0,0,1.84,6,17.94
+,,Chapstick Original,21.52,0,0,0,0,0,0,0,2.21,8,21.52
+,,Chapstick Strawberry,18.32,0,0,0,0,0,0,0,1.88,8,18.32
+,,Clear Blue Pregnancy Test 1CT,93.33,0,0,0,0,0,0,0,9.57,17,93.33
+,,Coppertone Sport Lotion SPF50,9.38,0,0,0,0,0,0,0,0.96,2,9.38
+,,Edge Sensitive Skin 7oz,38.94,1,6.49,0,0,0,0,0,3.33,5,32.45
+,,Everyone Coco Lemon Lotion,29.98,0,0,0,0,0,0,0,3.07,2,29.98
+,,Everyone Lavendar Aloe Lotion,44.97,0,0,0,0,0,0,0,4.61,3,44.97
+,,Gillette Mach3 Razor,111.92,0,0,0,0,0,0,0,11.47,8,111.92
+,,Gillette Regular Shave Foam 11oz,34.32,0,0,0,0,0,0,0,3.52,8,34.32
+,,Good Sense Contact Solution,27.96,0,0,0,0,0,0,0,2.87,4,27.96
+,,Icy Hot Cream 1.25oz,43.92,0,0,0,0,0,0,0,4.5,8,43.92
+,,Johson Baby Oil 3oz,23.94,0,0,0,0,0,0,0,2.45,6,23.94
+,,Lil Drug Clear Eyes .2oz,55.77,0,0,0,0,0,-0.25,0,5.69,13,55.52
+,,Slant Tweezers,13.5,0,0,0,0,0,0,0,1.38,9,13.5
+,,Toenail Clipper,25.87,0,0,0,0,0,0,0,2.65,13,25.87
+,,Trim Emery Boards Reg,9.45,0,0,0,0,0,0,0,0.97,5,9.45
+,,Trim Nail Clipper,15,0,0,0,0,0,0,0,1.54,12,15
+,,Trojan Bareskin 3CT,61.35,0,0,0,0,0,0,0,6.29,15,61.35
+,,Trojan Her Pleasure 3CT,32.72,0,0,0,0,0,0,0,3.35,8,32.72
+,,Trojan Lubricated 3CT,19.45,0,0,0,0,0,0,0,1.99,5,19.45
+,,Trojan Magnum 3CT,32.72,0,0,0,0,0,0,0,3.35,8,32.72
+,,Trojan Non-Lubricated 3CT,11.67,0,0,0,0,0,0,0,1.2,3,11.67
+,,Trojan Ultra Ribbed 3CT,3.99,0,0,0,0,0,0,0,0.41,1,3.99
+,,Trojan Ultra Thin Lubri 3CT,28.63,0,0,0,0,0,0,0,2.93,7,28.63
+,,Vaseline Lip Tin Rosy,59.85,0,0,0,0,0,0,0,6.13,15,59.85
+,,Vaseline Petroleum Jelly 1.75oz,110.7,0,0,0,0,0,0,0,11.35,30,110.7
+,,Vaseline Total Moisture 10oz,65.89,0,0,0,0,0,0,0,6.75,11,65.89
+,,Visine Eye Drops .5oz,48.93,0,0,0,0,0,-0.7,0,4.94,7,48.23
+,Health Other,---,1419.86,1,6.49,0,0,0,-0.95,0,---,344,1412.42
+,Health Supplement,Emergen-C Super Orange,77.39,0,0,0,0,0,0,0,7.93,71,77.39
+,,Emergen-C Tangerine,66.49,0,0,0,0,0,0,0,6.82,61,66.49
+,,Goldthread Elderberry Defense Elixar,41.31,0,0,0,0,0,0,0,4.23,9,41.31
+,,Goldthread Green Minerals Elixar,13.77,0,0,0,0,0,0,0,1.41,3,13.77
+,,Goldthread Hawaiian Ginger Elixar,27.54,0,0,0,0,0,0,0,2.82,6,27.54
+,,Goldthread Honey Rose Elixar,36.72,0,0,0,0,0,0,0,3.76,8,36.72
+,,Halls Cherry 30CT,67.83,0,0,0,0,0,0,0,6.95,17,67.83
+,,Halls Cherry 9CT,15.92,0,0,0,0,0,0,0,1.63,8,15.92
+,,Halls Honey Lemon 30CT,71.82,0,0,0,0,0,0,0,7.36,18,71.82
+,,Halls Honey Lemon 9CT,53.73,0,0,0,0,0,0,0,5.51,27,53.73
+,,Halls Mentho-Lyptus 30CT,23.94,0,0,0,0,0,0,0,2.45,6,23.94
+,,Halls Mentho-Lyptus 9CT,23.88,0,0,0,0,0,0,0,2.45,12,23.88
+,,Honees Honey Lemon Cough Drop 20CT,40,0,0,0,0,0,0,0,4.1,16,40
+,,Smarty Pants Adult Multi Vitamin,107.8,0,0,0,0,0,0,0,11.05,4,107.8
+,Health Supplement,---,668.14,0,0,0,0,0,0,0,---,266,668.14
+,Hygiene,7Gen Bath Tissue 4Pk,824.23,0,0,0,0,0,-0.25,0,84.46,127,823.98
+,,7Gen Face Paper Towels 140Sht,350,0,0,0,0,0,-0.25,0,35.85,56,349.75
+,,7Gen Face Tissues 300CT,870.33,0,0,0,0,0,-0.25,0,89.18,67,870.08
+,,7Gen Facial Tissue 120CT,221.26,0,0,0,0,0,-0.8,0,22.6,74,220.46
+,,Alaffia Conditioner Curl Act. Leave in,29.78,0,0,0,0,0,0,0,3.05,2,29.78
+,,Alaffia Everyday Facial Cleanser Unscented,31.47,0,0,0,0,0,0,0,3.23,3,31.47
+,,Alaffia Everyday Shea Wash Unscented,49.47,0,0,0,0,0,0,0,5.07,3,49.47
+,,Alaffia Shampoo Curl Activating,14.89,0,0,0,0,0,0,0,1.53,1,14.89
+,,Alaffia Soap Unscented Triple Mild,5.79,0,0,0,0,0,0,0,0.59,1,5.79
+,,Always Maxi Long w/ Wings 18ct,135.84,0,0,0,0,0,0,0,13.92,16,135.84
+,,Always Pantiliners Unscnt 20CT,35.8,0,0,0,0,0,0,0,3.67,20,35.8
+,,Always Ultrathin 10CT,94.81,0,0,0,0,0,0,0,9.72,19,94.81
+,,Aquafresh Toothpaste,193.29,0,0,0,0,0,0,0,19.81,51,193.29
+,,Axe Solid Dark Tmptn Deodorant,17.98,0,0,0,0,0,0,0,1.84,2,17.98
+,,Best Yet Bath Tissue 2Ply 12CT,310.59,0,0,0,0,0,-0.25,0,31.81,21,310.34
+,,Best Yet Bath Tissues 1 Ply 1000CT,52.92,0,0,0,0,0,0,0,5.42,28,52.92
+,,Best Yet Bath Tissues 4 PK 1000CT,285.56,0,0,0,0,0,-0.25,0,29.24,44,285.31
+,,CV Toothbrush Med,77.86,0,0,0,0,0,0,0,7.98,34,77.86
+,,CV Toothbrush Soft,82.5,0,0,0,0,0,0,0,8.46,33,82.5
+,,Carefree Original Scented 20CT,8.36,0,0,0,0,0,0,0,0.86,4,8.36
+,,Charmin Soft Mega Roll 2CT,604.89,0,0,0,0,0,-0.25,0,61.98,141,604.64
+,,Crest Toothpaste Regular .85z,56.55,0,0,0,0,0,-0.25,0,5.77,39,56.3
+,,Crest Toothpaste Scope Plus 7oz,298.7,0,0,0,0,0,0,0,30.62,58,298.7
+,,Degree Cool Rush Deodorant,125.82,0,0,0,0,0,0,0,12.9,18,125.82
+,,Dial Antimicrobial 7.5oz,179.64,0,0,0,0,0,-0.5,0,18.36,36,179.14
+,,Dove Bar Soap,122.15,0,0,0,0,0,0,0,12.52,35,122.15
+,,Dove Body Wash Cool Moisture,269.7,0,0,0,0,0,0,0,27.64,30,269.7
+,,Dove Body Wash Deep Mstre 12oz,242.73,0,0,0,0,0,0,0,24.88,27,242.73
+,,Dove Body Wash Men Deep Clean,88.99,0,0,0,0,0,0,0,9.12,11,88.99
+,,Dove Daily Moisture Condition,141.8,0,0,0,0,0,0,0,14.53,20,141.8
+,,Dove Daily Moisture Shampoo,217.47,0,0,0,0,0,-0.25,0,22.26,33,217.22
+,,DrB Lavender Soap,36,0,0,0,0,0,0,0,3.69,8,36
+,,DrB Soap Bar Almond,14.67,0,0,0,0,0,0,0,1.5,3,14.67
+,,DrB Soap Bar Baby Mild Unscntd,19,0,0,0,0,0,0,0,1.95,4,19
+,,DrB Soap Bar Eucaluptus,19.56,0,0,0,0,0,0,0,2,4,19.56
+,,DrB Soap Bar Tea Tree,14.67,0,0,0,0,0,0,0,1.5,3,14.67
+,,DrB Soap Rose,34.23,0,0,0,0,0,-0.25,0,3.48,7,33.98
+,,ETherapy Body Spong Green,19.95,0,0,0,0,0,0,0,2.04,5,19.95
+,,ETherapy Body Sponge Blue,19.95,0,0,0,0,0,-0.25,0,2.02,5,19.7
+,,ETherapy Body Sponge Purple,27.93,0,0,0,0,0,0,0,2.86,7,27.93
+,,Earth Naturals Shampoo 12oz,29.97,0,0,0,0,0,0,0,3.07,3,29.97
+,,FieldDay Fragrance Free Conditioner 16z,47.94,0,0,0,0,0,0,0,4.91,6,47.94
+,,FieldDay Fragrance Free Shampoo 16z,47.94,0,0,0,0,0,0,0,4.91,6,47.94
+,,HS Hand Sanitizer 2oz,18.9,0,0,0,0,0,0,0,1.94,10,18.9
+,,Jasons Aloe Deodorant 2.5oz,103.87,0,0,0,0,0,0,0,10.65,13,103.87
+,,Jasons Face Wash Apricot,27.87,0,0,0,0,0,0,0,2.86,3,27.87
+,,Jasons Naturals Conditioner PLS 16oz,51.96,0,0,0,0,0,0,0,5.33,4,51.96
+,,Jasons Naturals Shampoo PLS 16oz ,12.99,0,0,0,0,0,0,0,1.33,1,12.99
+,,Kotex Maxi Pads Super Long 22ct,48.93,0,0,0,0,0,0,0,5.02,7,48.93
+,,Listerine Mouthwash Cl Mnt,221.63,0,0,0,0,0,0,0,22.72,37,221.63
+,,Mrs Meyers Liq Hand Soap Apple,193.46,0,0,0,0,0,-0.57,0,19.77,34,192.89
+,,Mrs Meyers Liq Hand Soap Honey,261.74,0,0,0,0,0,0,0,26.83,46,261.74
+,,Mrs Meyers Liq Hand Soap Rsmy,238.98,0,0,0,0,0,0,0,24.5,42,238.98
+,,Natracare Pads Reg 14CT,64.9,0,0,0,0,0,-1.3,0,6.52,10,63.6
+,,Old Spice Pure Sport Deoderant,89.82,0,0,0,0,0,-1,0,9.1,18,88.82
+,,Oral B Waxed Mint Dental Floss,121.73,0,0,0,0,0,0,0,12.48,37,121.73
+,,Puff Facial Tissue 96CT,555.27,0,0,0,0,0,-1,0,56.81,223,554.27
+,,Pure Aloe Hand Sanitizer 8z,6.99,0,0,0,0,0,0,0,0.72,1,6.99
+,,Q-Tips Cotton 170CT,63.84,0,0,0,0,0,-0.4,0,6.5,16,63.44
+,,Q-Tips Cotton Purse Pack 30CT,56.98,0,0,0,0,0,0,0,5.84,22,56.98
+,,Scope Original Mint 8.45oz,22.95,0,0,0,0,0,0,0,2.35,5,22.95
+,,Secret Powder Fresh 1.7oz,85.54,0,0,0,0,0,0,0,8.77,26,85.54
+,,Stayfree Maxi Pad Regular 24CT,35.95,0,0,0,0,0,0,0,3.68,5,35.95
+,,Swisspers Cotton Balls 200CT,9.27,0,0,0,0,0,0,0,0.95,3,9.27
+,,Tampax Pearl Reg Unscented 8CT,101.83,0,0,0,0,0,0,0,10.44,17,101.83
+,,Tampax Regular 20CT ,37.45,0,0,0,0,0,0,0,3.84,5,37.45
+,,Tampax Super 10CT,19.95,0,0,0,0,0,0,0,2.04,5,19.95
+,,Tampax Super Tampons 20CT,43.96,0,0,0,0,0,0,0,4.51,4,43.96
+,,Toms Mouthwash Mountain Cool Mint 16oz,65.61,0,0,0,0,0,0,0,6.72,9,65.61
+,,Yes To Grapefruit Facial Scrub ,45.16,0,0,0,0,0,0,0,4.63,4,45.16
+,,YesTo Facial Twlett Cucumber,90.87,0,0,0,0,0,0,0,9.31,13,90.87
+,Hygiene,---,9071.38,0,0,0,0,0,-8.07,0,---,1735,9063.31
+,Medications,Advil Caplets 24CT,269.7,0,0,0,0,0,0,0,27.64,30,269.7
+,,Advil PM Caplet 20CT,53.94,0,0,0,0,0,-0.9,0,5.44,6,53.04
+,,Benadryl Ultra Tablets 24CT,209.79,0,0,0,0,0,0,0,21.5,21,209.79
+,,Excedrin Ex-Str Tablets 24CT,29.96,0,0,0,0,0,0,0,3.07,4,29.96
+,,Excedrin Migraine Tablets 24CT,53.94,0,0,0,0,0,0,0,5.53,6,53.94
+,,Lil Drug Ibuprofen 12CT,34.9,0,0,0,0,0,0,0,3.58,10,34.9
+,,Nostrilla Nasal Decongestant,100.75,0,0,0,0,0,0,0,10.33,13,100.75
+,,Pepto Bismol Liquid 4oz,26.95,0,0,0,0,0,0,0,2.76,5,26.95
+,,Pepto Bismol Tablets 30CT,71.91,0,0,0,0,0,0,0,7.37,9,71.91
+,,Tums Peppermint,26.46,0,0,0,0,0,0,0,2.71,14,26.46
+,,Tylenol Ex-Str Caplets 24CT,179.17,0,0,0,0,0,0,0,18.36,23,179.17
+,,Tylenol PM ES Caplets 24CT,37.16,0,0,0,0,0,0,0,3.81,4,37.16
+,Medications,---,1094.63,0,0,0,0,0,-0.9,0,---,145,1093.73
+Personal Care,---,---,13193.77,1,6.49,0,0,0,-11.25,0,---,2662,13176.03
+Retail Beverages,Energy Drink,5-Hour Energy ES Blue Raspberry ,7.98,0,0,0,0,0,0,0,0.81,2,7.98
+,,5-Hour Energy ES Peach Mango ,11.97,0,0,0,0,0,0,0,1.21,3,11.97
+,,5-Hour Energy Grape,11.97,0,0,0,0,0,0,0,1.21,3,11.97
+,,CELSIUS ARCTIC VIBE 12OZ,91.77,0,0,0,0,0,0,0,9.27,23,91.77
+,,CELSIUS FANTASY VIBE 12OZ,143.64,0,0,0,0,0,0,0,14.51,36,143.64
+,,CELSIUS FUJI APPLE PR 12OZ,159.6,0,0,0,0,0,0,0,16.12,40,159.6
+,,CELSIUS KIWI GUAVA 12OZ,139.65,0,0,0,0,0,0,0,14.1,35,139.65
+,,CELSIUS LEMON LIME 12 OZ,143.64,0,0,0,0,0,0,0,14.51,36,143.64
+,,CELSIUS MANGO PSSNFRT 12OZ,247.38,0,0,0,0,0,0,0,24.99,62,247.38
+,,CELSIUS OASIS VIBE PRK PEAR LM ,175.56,0,0,0,0,0,0,0,17.73,44,175.56
+,,CELSIUS ORANGE 12OZ,135.66,0,0,0,0,0,0,0,13.7,34,135.66
+,,CELSIUS PEACH VIBE 12OZ,207.48,0,0,0,0,0,-0.65,0,20.89,52,206.83
+,,CELSIUS STRW GUAVA 12OZ,191.52,0,0,0,0,0,0,0,19.34,48,191.52
+,,CELSIUS STRW LEMONADE 12OZ,219.45,0,0,0,0,0,0,0,22.16,55,219.45
+,,CELSIUS TRPCL VIBE 12OZ,199.5,0,0,0,0,0,0,0,20.15,50,199.5
+,,CELSIUS WATERMELON 12OZ,15.96,0,0,0,0,0,0,0,1.61,4,15.96
+,,CELSIUS WILD BERRY 12OZ,167.58,0,0,0,0,0,0,0,16.93,42,167.58
+,,ROCKSTAR ENRG 16OZ CAN 1/12 ,56.87,0,0,0,0,0,0,0,5.74,11,56.87
+,,ROCKSTAR ENRG BOOM WHP ORANGE 16OZ,31.02,0,0,0,0,0,0,0,3.13,6,31.02
+,,ROCKSTAR ENRG BOOM WHP STRAWBRY 16OZ,51.7,0,0,0,0,0,0,0,5.22,10,51.7
+,,ROCKSTAR HDCR APL 16OZ CAN 1/12 ,41.36,0,0,0,0,0,-0.52,0,4.12,8,40.84
+,,ROCKSTAR PNCHD 16OZ CAN 1/12 ,31.02,0,0,0,0,0,0,0,3.13,6,31.02
+,,ROCKSTAR PNCHD ST PC 16OZ CAN 1/12 ,20.68,0,0,0,0,0,0,0,2.09,4,20.68
+,,ROCKSTAR PNCHD WTMN 16OZ CAN 1/12 ,20.68,0,0,0,0,0,0,0,2.09,4,20.68
+,,ROCKSTAR PURE ZERO GRAPE 16OZ CAN 1/12 ,39.12,0,0,0,0,0,0,0,3.95,8,39.12
+,,ROCKSTAR PURE ZERO MNDRN 16OZ CAN 1/12 ,4.89,0,0,0,0,0,0,0,0.49,1,4.89
+,,ROCKSTAR PURE ZERO SLVIC 16OZ CAN 1/12 ,166.26,0,0,0,0,0,-0.5,0,16.74,34,165.76
+,,ROCKSTAR PURE ZERO TMGS 16OZ CAN 1/12 ,107.58,0,0,0,0,0,-0.98,0,10.77,22,106.6
+,,ROCKSTAR RCVRY 16OZ CAN 1/12 ,20.68,0,0,0,0,0,0,0,2.09,4,20.68
+,,ROCKSTAR RCVRY STLMD 16OZ CAN 1/12 ,31.02,0,0,0,0,0,0,0,3.13,6,31.02
+,,ROCKSTAR RECVRY ORG 16OZ CAN 1/12 ,5.17,0,0,0,0,0,0,0,0.52,1,5.17
+,,ROCKSTAR SUGAR FREE 16OZ CAN 1/12 ,20.68,0,0,0,0,0,0,0,2.09,4,20.68
+,,ROCKSTAR ZERO CRB 16OZ CAN 1/12 ,4.89,0,0,0,0,0,0,0,0.49,1,4.89
+,,ROCKSTARPURE ZERO PN 16OZ CAN 1/12 ,68.46,0,0,0,0,0,0,0,6.91,14,68.46
+,,Red Bull 12oz,1018.32,0,0,0,0,18.75,-0.68,0,100.89,233,1017.64
+,,Red Bull 8.4oz,747.02,0,0,0,0,3.75,-1.53,0,74.92,233,745.49
+,,Red Bull Sugar Free 12oz,586.85,0,0,0,0,14.25,-0.5,0,57.78,140,586.35
+,,Red Bull Sugar Free 8.4oz,425.36,0,0,0,0,9.75,0,0,41.98,139,425.36
+,Energy Drink,---,5769.94,0,0,0,0,46.5,-5.36,0,---,1458,5764.58
+,Enhanced Drink,Bai5 Brasilia Blueberry 18oz,199.5,0,0,0,0,0,0,0,20.15,57,199.5
+,,Bai5 Ipanema Pomegranate 18oz,273,0,0,0,0,0,-0.25,0,27.55,78,272.75
+,,GATORADE ARTIC BLITZ 28OZ,119.14,0,0,0,0,0,0,0,12.03,23,119.14
+,,GATORADE CL BLU 20OZ WM PL 1/24 ,130.98,0,0,0,0,0,0,0,13.23,37,130.98
+,,GATORADE FIERCE BLACK CHERRY 28OZ PL 1/15  ,139.86,0,0,0,0,0,0,0,14.13,27,139.86
+,,GATORADE FIERCE GRAPE 28OZ PL 1/15  ,93.24,0,0,0,0,0,-0.52,0,9.36,18,92.72
+,,GATORADE FIERCE GREEN APPLE 28OZ PL 1/15  ,93.24,0,0,0,0,0,-0.52,0,9.36,18,92.72
+,,GATORADE FIERCE STRW 28OZ PL 1/15  ,119.14,0,0,0,0,0,0,0,12.03,23,119.14
+,,GATORADE FRT PNCH 20OZ WM PL 1/24 ,155.76,0,0,0,0,0,0,0,15.73,44,155.76
+,,GATORADE FRUIT PNCH 28OZ PL 1/15  ,222.74,0,0,0,0,0,-0.25,0,22.47,43,222.49
+,,GATORADE GLACIER CHERRY,92.04,0,0,0,0,0,0,0,9.3,26,92.04
+,,GATORADE GLCR CHERRY 28OZ PL ,41.44,0,0,0,0,0,0,0,4.19,8,41.44
+,,GATORADE GLCR FRZ 20OZ WM PL 1/24 ,219.48,0,0,0,0,0,0,0,22.17,62,219.48
+,,GATORADE GLCR FRZ 28OZ PL ,145.04,0,0,0,0,0,0,0,14.65,28,145.04
+,,GATORADE LL 28OZ PL ,129.5,0,0,0,0,0,0,0,13.08,25,129.5
+,,GATORADE LME CUCMBR 28OZ PL,124.32,0,0,0,0,0,0,0,12.56,24,124.32
+,,GATORADE LMN LIME 20OZ WM PL 1/24 ,106.2,0,0,0,0,0,0,0,10.73,30,106.2
+,,GATORADE ORG 28OZ PL ,129.5,0,0,0,0,0,0,0,13.08,25,129.5
+,,GATORADE ORNG 20OZ WM PL 1/24 ,88.5,0,0,0,0,0,0,0,8.94,25,88.5
+,,GATORADE ZERO COOL BLU 28OZ PL ,98.49,0,0,0,0,0,0,0,9.95,21,98.49
+,,GATORADE ZERO FRUIT PNCH 28OZ PL 1/15  ,196.98,0,0,0,0,0,-0.25,0,19.87,42,196.73
+,,GATORADE ZERO GLCR FRZ 20OZ,149.93,0,0,0,0,0,0,0,15.14,47,149.93
+,,GATORADE ZERO GLCR FRZ 28OZ PL,131.32,0,0,0,0,0,0,0,13.26,28,131.32
+,,GATORADE ZERO LIME CUCMBR 28OZ PL ,84.42,0,0,0,0,0,0,0,8.53,18,84.42
+,,GATORADE ZERO LL 28OZ PL,70.35,0,0,0,0,0,-0.47,0,7.06,15,69.88
+,,GATORADE ZERO ORG 28OZ PL 1/15,46.9,0,0,0,0,0,0,0,4.74,10,46.9
+,,GATORLYTE CHERRY LIME 20OZ,8.38,0,0,0,0,0,0,0,0.85,2,8.38
+,,GATORLYTE LIME CUCUMBER 20OZ,54.47,0,0,0,0,0,0,0,5.5,13,54.47
+,,GATORLYTE MIXED BERRY 20OZ,75.42,0,0,0,0,0,0,0,7.62,18,75.42
+,,GATORLYTE ORANGE 20OZ,58.66,0,0,0,0,0,0,0,5.92,14,58.66
+,,GATORLYTE STRAW KIWI 20OZ,83.8,0,0,0,0,0,0,0,8.46,20,83.8
+,,GATORLYTE WATERMELON 20OZ,50.28,0,0,0,0,0,0,0,5.08,12,50.28
+,,GATORLYTE ZERO ELCTRO LEMON LIME 20OZ,84.96,0,0,0,0,0,0,0,8.58,24,84.96
+,,GATORLYTE ZERO ELCTRO STRW KIWI 20OZ,53.1,0,0,0,0,0,0,0,5.36,15,53.1
+,,Gatorade GFit Black Raspberry 16.9oz ,25.83,0,0,0,0,0,0,0,2.61,7,25.83
+,,Gatorade GFit Citrus Berry 16.9 oz ,62.73,0,0,0,0,0,0,0,6.34,17,62.73
+,,Gatorade GFit Triple Mango 16.9oz ,55.35,0,0,0,0,0,0,0,5.59,15,55.35
+,,Gatorade GFit Watermelon Strawberry 16.9oz ,33.21,0,0,0,0,0,0,0,3.35,9,33.21
+,,Guayaki Enlighten Mint 15.5oz,788.42,0,0,0,0,0,-0.75,0,79.55,158,787.67
+,,Guayaki Revel Berry 15.5oz,598.8,0,0,0,0,0,-2.5,0,60.23,120,596.3
+,,Mamma Chia Raspberry Passion,77.22,0,0,0,0,0,0,0,7.8,18,77.22
+,,Mamma Chia Vitality Blackberry,63.84,0,0,0,0,0,0,0,6.45,16,63.84
+,,Orgain Organic Vegan Protein Shake Chocolate 11oz,187.6,0,0,0,0,0,0,0,18.95,40,187.6
+,,YACHAK OGC YM BLKBRY 16OZ CAN 1/12 ,111.02,0,0,0,0,0,0,0,11.21,26,111.02
+,,YACHAK OGC YM BRYBL 16OZ CAN 1/12 ,59.78,0,0,0,0,0,0,0,6.04,14,59.78
+,,YACHAK OGC YM PSNFRT 16OZ CAN 1/12 ,179.34,0,0,0,0,0,0,0,18.11,42,179.34
+,,YACHAK OGC YM UTMNT 16OZ CAN 1/12 ,55.51,0,0,0,0,0,0,0,5.61,13,55.51
+,Enhanced Drink,---,6168.73,0,0,0,0,0,-5.51,0,---,1415,6163.22
+,Juice and Smoothie,B Yet Apple Juice 64oz ,59.88,0,0,0,0,0,-0.25,0,0,12,59.63
+,,B Yet Cran/Rasp Juice 64oz ,94.68,0,0,0,0,0,-0.25,0,0,12,94.43
+,,B Yet Grape Juice 64oz ,20.67,0,0,0,0,0,0,0,0,3,20.67
+,,DOLE APPLE 100% 15.2OZ PL,266.11,0,0,0,0,0,-0.6,0,26.82,89,265.51
+,,DOLE LEMONADE  20OZ PL,167,0,0,0,0,0,0,0,16.87,50,167
+,,DOLE ORANGE JUICE 15.2OZ PL,158.47,0,0,0,0,0,-0.3,0,0,53,158.17
+,,DOLE STRW LEMONADE 3% 20OZ PL,273.88,0,0,0,0,0,0,0,0,82,273.88
+,,Martinellis Juice Apple 10oz,53.82,0,0,0,0,0,0,0,0,18,53.82
+,,Martinellis Sparkling Cider 10oz,83.72,0,0,0,0,0,0,0,0,28,83.72
+,,Martinellis Sparkling Cider 8.4oz,212.93,0,0,0,0,0,-0.4,0,0,107,212.53
+,,NAKED  STRAW BANANA 15.2OZ PL,576.61,0,0,0,0,0,-0.25,0,0,109,576.36
+,,NAKED BERRY BLAST 15.2OZ ,290.95,0,0,0,0,0,-0.25,0,0,55,290.7
+,,NAKED BLUE MACHINE 15.2OZ,380.88,0,0,0,0,0,0,0,0,72,380.88
+,,NAKED BLUE MACHINE 64OZ,287.99,0,0,0,0,0,-0.25,0,0,31,287.74
+,,NAKED GREEN MACHINE 15.2OZ,370.3,0,0,0,0,0,-0.53,0,0,70,369.77
+,,NAKED GREEN MACHINE 64OZ,232.25,0,0,0,0,0,-0.5,0,0,25,231.75
+,,NAKED MIGHTY MANGO 15.2OZ,629.51,0,0,0,0,0,-0.25,0,0,119,629.26
+,,NAKED MIGHTY MANGO 64OZ,213.67,0,0,0,0,0,-0.25,0,0,23,213.42
+,,NAKED PINA COLADA 15.2OZ,312.11,0,0,0,0,0,0,0,0,59,312.11
+,,NAKED POWER C MACHINE 15.2OZ,439.07,0,0,0,0,0,0,0,0,83,439.07
+,,NAKED PROTEIN ZONE 15.2OZ,300.24,0,0,0,0,0,-1.12,0,0,54,299.12
+,,NAKED RED MACHINE 15.2OZ PL,296.24,0,0,0,0,0,-0.25,0,0,56,295.99
+,,NAKED SMOOTHIE RNBW MACHINE 15.2OZ PL,206.31,0,0,0,0,0,0,0,0,39,206.31
+,,NAKED TROPICAL GUAVA 15.2OZ,285.66,0,0,0,0,0,-0.25,0,0,54,285.41
+,,OCEANSPRAY CRAN 15.2OZ PL,224.94,0,0,0,0,0,-0.33,0,0,69,224.61
+,,OCEANSPRAY CRAN GRAPE 15.2OZ PL,140.18,0,0,0,0,0,-0.33,0,0,43,139.85
+,,TROPICANA APPLE JUICE 32OZ PL ,243.96,0,0,0,0,0,-0.43,0,0,57,243.53
+,,TROPICANA CSTL GROVE LMN 12OZ,364.1,0,0,0,0,1.5,-0.37,0,0,98,363.73
+,,TROPICANA OJ 32OZ PL ,261.08,0,0,0,0,0,-0.43,0,0,61,260.65
+,,TROPICANA PP APPLE JUICE 12OZ,358.9,0,0,0,0,0,0,0,0,97,358.9
+,,TROPICANA PP CLCM OJ 12OZ,307.1,0,0,0,0,0,-0.75,0,0,83,306.35
+,,TROPICANA PP CRAN CKTL  12OZ,181.3,0,0,0,0,0,0,0,0,49,181.3
+,,TROPICANA PP HMSTYLE OJ  12OZ,214.6,0,0,0,0,0,-0.62,0,0,58,213.98
+,,TROPICANA PP ORIG OJ  12OZ,284.9,0,0,0,0,0,0,0,0,77,284.9
+,,TROPICANA PP PNAPPLE MNGO  12OZ,481,0,0,0,0,0,-0.87,0,0,130,480.13
+,Juice and Smoothie,---,9275.01,0,0,0,0,1.5,-9.83,0,---,2125,9265.18
+,Milk,Darigold Chocolate Milk 14oz ,390.05,0,0,0,0,0,-0.27,0,39.37,145,389.78
+,,Darigold Milk 2% 14oz,355.08,0,0,0,0,0,-1.04,0,35.76,132,354.04
+,,Darigold Milk Whole 14oz,334.88,0,0,0,0,0,-0.3,0,33.79,112,334.58
+,,MUSCLE MLK CHOC 14OZ,227.15,0,0,0,0,0,0,0,22.94,35,227.15
+,,MUSCLE MLK STW CRM 14OZ,272.58,0,0,0,0,0,0,0,27.53,42,272.58
+,,MUSCLE MLK VAN CRM 14OZ,136.29,0,0,0,0,0,0,0,13.77,21,136.29
+,,MUSCLEMILK PR40 CHC PNTBT 14OZ,292.05,0,0,0,0,0,0,0,29.5,45,292.05
+,,MUSCLEMILK PR40 INT VAN 14OZ,558.14,0,0,0,0,0,0,0,56.37,86,558.14
+,,MUSCLEMILK PR40 KO CHOC 14OZ,467.28,0,0,0,0,0,0,0,47.2,72,467.28
+,,MUSCLEMILK PR40 STW CRM 14OZ,369.93,0,0,0,0,0,-0.65,0,37.3,57,369.28
+,,Milk Medosweet 2Pct 0.5Gal,649,0,0,0,0,0,-1.95,0,65.35,220,647.05
+,,Milk Medosweet 2Pct Gal,149.7,0,0,0,0,0,-0.75,0,15.04,30,148.95
+,,Milk Medosweet Fat Free 0.5Gal,29.5,0,0,0,0,0,-0.3,0,2.95,10,29.2
+,,Milk Medosweet Whole 0.5Gal,811.25,0,0,0,0,0,-4.4,0,81.49,275,806.85
+,,Milk Smith Bros Org 2% 0.5Gal,51.92,0,0,0,0,0,0,0,5.24,8,51.92
+,,Milk Smith Bros Org Nonfat 0.5Gal,45.43,0,0,0,0,0,0,0,4.59,7,45.43
+,,Milk Smith Bros Org Whole 0.5Gal,136.29,0,0,0,0,0,-0.65,0,13.7,21,135.64
+,,Milk Twin Brook Chocolate Qrt,504,0,0,0,0,0,-1.95,0,50.71,96,502.05
+,,Planet Oat Oatmilk Dark Chocolate 52fl,47.6,0,0,0,0,0,-0.5,0,4.76,7,47.1
+,,Planet Oat Oatmilk Original 52fl ,292.4,0,0,0,0,0,-0.5,0,29.48,43,291.9
+,,RiceDream Vanilla Rice Milk 0.5Gal,47.92,0,0,0,0,0,0,0,4.84,8,47.92
+,,Silk Almond Milk Blend 0.5Gal,191.68,0,0,0,0,0,-2.65,0,19.09,32,189.03
+,,Silk Almond Milk Original 0.5Gal,153.14,0,0,0,0,0,-0.25,0,15.44,26,152.89
+,,Silk Coconut Milk Original 0.5Gal,41.93,0,0,0,0,0,0,0,4.23,7,41.93
+,,Silk Coconut Milk Unsweetened 0.5Gal,23.96,0,0,0,0,0,0,0,2.42,4,23.96
+,,Silk Soy Chocolate 11oz,155.8,0,0,0,0,0,-0.25,0,15.71,76,155.55
+,,Silk Soy Milk Original 0.5Gal,106.02,0,0,0,0,0,-0.84,0,10.62,18,105.18
+,,Silk Soy Milk Vanilla 0.5Gal,143.76,0,0,0,0,0,-0.25,0,14.49,24,143.51
+,,Silk Soy Vanilla 11oz,84.05,0,0,0,0,0,0,0,8.49,41,84.05
+,Milk,---,7068.78,0,0,0,0,0,-17.5,0,---,1700,7051.28
+,Nonscanning Beverages,Non-Scanning Beverage ,384.74,0,0,0,0,0,0,370.74,38.86,110,384.74
+,,Non-Scanning Bubbly 8pk/12z $8.99,35.96,0,0,0,0,0,0,0,3.63,4,35.96
+,,Non-Scanning Soda 1L $4.63,27.78,0,0,0,0,0,0,0,2.81,6,27.78
+,,Non-Scanning Soda 2L $5.89,58.9,0,0,0,0,0,0,0,5.95,10,58.9
+,,Non-Scanning Soda Diet/SF/Zero 2L $4.59,4.59,0,0,0,0,0,0,0,0.46,1,4.59
+,Nonscanning Beverages,---,511.97,0,0,0,0,0,0,370.74,---,131,511.97
+,Packaged Coffee,Folgers Classic Roast,13.78,0,0,0,0,0,0,0,1.39,2,13.78
+,,Folgers Instant Coffee Crystals,44.91,0,0,0,0,0,0,0,4.54,9,44.91
+,,Husky Grind Packaged Coffee Grounded 12oz ,24,0,0,0,0,0,0,0,0,2,24
+,,Starbucks Breakfast Blend Ground 12oz,15.29,0,0,0,0,0,0,0,1.54,1,15.29
+,,Starbucks French Roast Ground 12oz,15.29,0,0,0,0,0,0,0,1.54,1,15.29
+,Packaged Coffee,---,113.27,0,0,0,0,0,0,0,---,15,113.27
+,Packaged Drink Mix,Nesquick Powder 9.3Z,17.96,0,0,0,0,0,0,0,1.81,4,17.96
+,,Swiss Miss Milk Choc 10Pk,49.9,0,0,0,0,0,0,0,5.04,10,49.9
+,,Swiss Miss MiniMarsh 10Pk,14.97,0,0,0,0,0,0,0,1.51,3,14.97
+,Packaged Drink Mix,---,82.83,0,0,0,0,0,0,0,---,17,82.83
+,Packaged Tea,Itoen Matcha Green Tea Jasmine,44.94,0,0,0,0,0,-0.75,0,4.46,6,44.19
+,,Itoen Matcha Green Tea Traditional,22.47,0,0,0,0,0,0,0,2.27,3,22.47
+,,Stash Chai Spice 20CT,15,0,0,0,0,0,0,0,1.51,4,15
+,,Stash Tea Chamomile 20CT,48.75,0,0,0,0,0,0,0,4.92,13,48.75
+,,Stash Tea Earl Grey 20CT,18.75,0,0,0,0,0,0,0,1.89,5,18.75
+,,Stash Tea English Break 20CT,11.25,0,0,0,0,0,0,0,1.14,3,11.25
+,,Stash Tea Green Tea 20CT,30,0,0,0,0,0,0,0,3.03,8,30
+,,Stash Tea Orange Spice 20CT,18.75,0,0,0,0,0,-0.25,0,1.87,5,18.5
+,,Stash Tea Peppermint 20CT,52.5,0,0,0,0,0,0,0,5.3,14,52.5
+,,Takaokaya Tea Houjicha 16CT,22.5,0,0,0,0,0,0,0,2.27,6,22.5
+,,Takaokaya Tea Matcha 16CT,15,0,0,0,0,0,0,0,1.51,4,15
+,,Takaokaya Tea Sencha 16CT,22.5,0,0,0,0,0,-0.63,0,2.21,6,21.87
+,Packaged Tea,---,322.41,0,0,0,0,0,-1.63,0,---,77,320.78
+,RTD Coffee and Tea,Itoen Jasmine Green Tea 16.9oz,239.87,0,0,0,0,0,0,0,24.23,83,239.87
+,,KEVITA TART CHERRY 15.2OZ,160.56,0,0,0,0,0,0,0,16.22,36,160.56
+,,Kevita Kombucha Raspberry Lemon 15.2z,209.62,0,0,0,0,0,0,0,21.17,47,209.62
+,,Kevita MBK Ginger 15.2z,142.72,0,0,0,0,0,0,0,14.41,32,142.72
+,,Kevita MBK Pineapple Peach 15.2z,173.94,0,0,0,0,0,0,0,17.57,39,173.94
+,,Kevita Probiotic Lemonade,138.26,0,0,0,0,0,0,0,13.96,31,138.26
+,,LIPTON BRISK BLACKBRRY SMSH 1L PL 1/15 ,83.34,0,0,0,0,0,0,0,8.42,18,83.34
+,,LIPTON BRISK FRUIT PUNCH 1L PL 1/15 ,148.16,0,0,0,0,0,0,0,14.96,32,148.16
+,,LIPTON BRISK IT STRW MELON 1L PL 1/15 ,152.79,0,0,0,0,0,0,0,15.43,33,152.79
+,,LIPTON BRISK LEMONADE 1L PL 1/15,162.05,0,0,0,0,0,0,0,16.37,35,162.05
+,,LIPTON BRISK PINK LEMONADE 1L PL 1/15,101.86,0,0,0,0,0,0,0,10.29,22,101.86
+,,LIPTON BRISK RAZ 1L PL 1/15 ,87.97,0,0,0,0,0,0,0,8.88,19,87.97
+,,LIPTON BRISKSWEET TEA 1L PL 1/15 ,83.34,0,0,0,0,0,0,0,8.42,18,83.34
+,,LIPTON PURE LEAF EXSWT 18.5OZ PL 1/12 ,245.67,0,0,0,0,0,0,0,24.81,57,245.67
+,,LIPTON PURE LEAF GT UNSNL 18.5OZ PL 1/12 ,232.74,0,0,0,0,0,0,0,23.51,54,232.74
+,,LIPTON PURE LEAF RAZ 18.5OZ PL 1/12 ,418.07,0,0,0,0,0,0,0,42.23,97,418.07
+,,LIPTON PURE LEAF SWL 18.5OZ PL 1/12 ,275.84,0,0,0,0,0,0,0,27.86,64,275.84
+,,LIPTON PURE LEAF SWT 18.5OZ PL 1/12 ,310.32,0,0,0,0,0,0,0,31.34,72,310.32
+,,LIPTON PURE LEAF UNSNL 18.5OZ PL 1/12 ,314.63,0,0,0,0,0,-2.38,0,31.54,73,312.25
+,,Moriyama Cafe Latte 7.4oz,141.61,0,0,0,0,0,0,0,14.3,49,141.61
+,,Moriyama Latte 6.8oz,132.94,0,0,0,0,0,-0.25,0,13.4,46,132.69
+,,Moriyama Latte Tea 7.4oz,101.66,0,0,0,0,0,0,0,10.27,34,101.66
+,,Pokka Gold Milk Coffee Can,111.75,0,0,0,0,0,0,0,11.29,75,111.75
+,,Pokka Japanese Green Tea,101.32,0,0,0,0,0,-0.89,0,10.14,68,100.43
+,,STARBUCKS DSE COFF 15OZ CAN ,71.25,0,0,0,0,0,0,0,7.2,15,71.25
+,,STARBUCKS DSE MOCHA 15OZ CAN ,90.25,0,0,0,0,0,-0.48,0,9.07,19,89.77
+,,STARBUCKS DSE VAN 15OZ CAN ,166.25,0,0,0,0,0,0,0,16.79,35,166.25
+,,STARBUCKS FRAP CARAMEL  13.7OZ,153.25,0,0,0,0,0,-0.61,0,15.42,25,152.64
+,,STARBUCKS FRAP COFFEE 13.7OZ,91.95,0,0,0,0,0,0,0,9.29,15,91.95
+,,STARBUCKS FRAP MOCHA 13.7OZ,257.46,0,0,0,0,0,-0.61,0,25.94,42,256.85
+,,STARBUCKS FRAP VAN 13.7OZ,202.29,0,0,0,0,0,-0.61,0,20.37,33,201.68
+,,STARBUCKS FRAP WHT CHC MOCHA 13.7OZ,104.21,0,0,0,0,0,0,0,10.53,17,104.21
+,,STARBUCKS TSE MOCHA 15OZ CAN,69,0,0,0,0,0,-1.16,0,6.85,12,67.84
+,RTD Coffee and Tea,---,5476.94,0,0,0,0,0,-6.99,0,---,1347,5469.95
+,Soft Drinks,CRUSH GRAPE  20OZ PL,83.5,0,0,0,0,0,0,0,8.43,25,83.5
+,,CRUSH ORG 2L PL 1/8S ,35.34,0,0,0,0,0,-0.25,0,3.54,6,35.09
+,,CRUSH ORNG  20OZ PL,133.6,0,0,0,0,0,-0.25,0,13.47,40,133.35
+,,Calpico Soda 11.3oz,171.08,0,0,0,0,0,-0.25,0,17.25,52,170.83
+,,Calpico Strawberry 16.9oz,215.46,0,0,0,0,0,0,0,21.76,54,215.46
+,,DIET DR PEPPER 20OZ PL 1/24S ,239.2,0,0,0,0,0,-0.25,0,24.13,80,238.95
+,,DIET MTN DEW 1L PL 1/15S ,3.89,0,0,0,0,0,0,0,0.39,1,3.89
+,,DIET MTN DEW 20OZ PL 1/24S ,74.75,0,0,0,0,0,-0.6,0,7.49,25,74.15
+,,DIET PEPSI ORIG  20OZ PL ,316.94,0,0,0,0,0,-0.8,0,31.93,106,316.14
+,,DIET PEPSI ORIG 1L PL 1/15S ,93.36,0,0,0,0,0,0,0,9.43,24,93.36
+,,DIET PEPSI ORIG 2L PL 1/8S ,32.13,0,0,0,0,0,0,0,3.25,7,32.13
+,,DR PEPPER 1L PL 1/15S ,148.16,0,0,0,0,0,-0.46,0,14.92,32,147.7
+,,DR PEPPER 20OZ PL 1/24S ,297.26,0,0,0,0,0,-0.33,0,29.99,89,296.93
+,,DR PEPPER CRM 20OZ PL,113.56,0,0,0,0,0,-0.33,0,11.44,34,113.23
+,,DR PEPPER STRW CRM 20 0Z,100.2,0,0,0,0,0,0,0,10.12,30,100.2
+,,Hawaiian Sun Guava 11.5oz,107.46,0,0,0,0,0,0,0,10.85,54,107.46
+,,Hawaiian Sun Ice Tea 11.5oz,71.64,0,0,0,0,0,0,0,7.24,36,71.64
+,,MTN DEW 1L PL 1/15S ,60.19,0,0,0,0,0,-0.92,0,5.99,13,59.27
+,,MTN DEW 20OZ PL 1/24S ,110.22,0,0,0,0,0,-0.33,0,11.1,33,109.89
+,,MTN DEW 2L PL 1/8S,41.23,0,0,0,0,0,0,0,4.16,7,41.23
+,,MTN DEW CD RED 20OZ PL 1/24S ,43.42,0,0,0,0,0,0,0,4.39,13,43.42
+,,MTN DEW CODE RED 1L PL 1/15S ,27.78,0,0,0,0,0,0,0,2.81,6,27.78
+,,MTN DEW LIVE WIRE 20OZ PL 1/24S ,23.38,0,0,0,0,0,0,0,2.36,7,23.38
+,,MTN DEW MJR MELN 20 OZ,33.4,0,0,0,0,0,0,0,3.37,10,33.4
+,,MTN DEW SPRK 20 OZ,73.48,0,0,0,0,0,0,0,7.42,22,73.48
+,,MTN DEW VLTG RAZ CTRS 20OZ PL 1/24S ,63.46,0,0,0,0,0,0,0,6.41,19,63.46
+,,MTN DEW ZERO 20OZ PL 1/24S,50.83,0,0,0,0,0,0,0,5.13,17,50.83
+,,MTN Dew Baja Blast 20oz,364.06,0,0,0,0,0,0,0,36.77,109,364.06
+,,MUG ROOT BEER 20OZ PL 1/24S ,153.64,0,0,0,0,0,-0.25,0,15.49,46,153.39
+,,MUG ROOT BEER 2L PL 1/8S,23.56,0,0,0,0,0,0,0,2.38,4,23.56
+,,PEPSI 1L,69.45,0,0,0,0,0,0,0,7.01,15,69.45
+,,PEPSI 20oz,280.56,0,0,0,0,0,-0.33,0,28.3,84,280.23
+,,PEPSI REAL SUGAR 20OZ PL 1/24S ,80.16,0,0,0,0,0,-0.99,0,8,24,79.17
+,,PEPSI WILD CHERRY 20OZ PL 1/24S ,90.18,0,0,0,0,0,-0.33,0,9.07,27,89.85
+,,PEPSI WILD CHERRY 2L PL 1/8S,17.67,0,0,0,0,0,0,0,1.78,3,17.67
+,,PEPSI ZERO SUGAR 20OZ PL 1/24S ,80.73,0,0,0,0,0,-0.3,0,8.12,27,80.43
+,,Ramune Soda Grape 6.76oz,83.79,0,0,0,0,0,0,0,8.46,21,83.79
+,,Ramune Soda Melon 6.76oz,107.73,0,0,0,0,0,0,0,10.88,27,107.73
+,,Ramune Soda Orange 6.76oz,79.8,0,0,0,0,0,-0.25,0,8.03,20,79.55
+,,Ramune Soda Original 6.76oz,163.59,0,0,0,0,0,0,0,16.52,41,163.59
+,,Ramune Soda Strawberry 6.76oz,131.67,0,0,0,0,0,0,0,13.3,33,131.67
+,,STARRY 20OZ PL 1/24S ,167,0,0,0,0,0,0,0,16.87,50,167
+,,STARRY ZERO SUGAR 20OZ PL 1/24S ,123.34,0,0,0,0,0.75,-0.25,0,12.36,41,123.09
+,,STRRY  2L PL 1/8S PD FCP ,35.34,0,0,0,0,0,0,0,3.57,6,35.34
+,Soft Drinks,---,4817.19,0,0,0,0,0.75,-7.47,0,---,1420,4809.72
+,Water,Aquafina 1L,2024.2,0,0,0,0,0,-0.5,0,204.39,580,2023.7
+,,Aquafina 20oz,584.73,0,0,0,0,0,0,0,59.06,267,584.73
+,,Fiji Water 500ml,196.1,0,0,0,0,0,0,0,19.81,74,196.1
+,,Life Water 1L,1629.87,0,0,0,0,0,-0.9,0,164.53,363,1628.97
+,,Mountain Mist Drinking Water,739.53,0,0,0,0,0,-1.5,0,74.54,297,738.03
+,,PRM LIFEWATER  20OZ PL,598.78,0,0,0,0,0,-0.75,0,60.4,182,598.03
+,,PROUD SOURCE SPARKLING,37.35,0,0,0,0,0,0,0,3.77,15,37.35
+,,PROUD SOURCE WM 750ML,79.68,0,0,0,0,0,-0.25,0,8.02,32,79.43
+,Water,---,5890.24,0,0,0,0,0,-3.9,0,---,1810,5886.34
+,Water Flavored,BUBLY BLACKBERRY 12OZ 8PK,35.96,0,0,0,0,0,0,0,3.63,4,35.96
+,,BUBLY BLKBRY 16OZ CAN ,100.74,0,0,0,0,0,-0.22,0,10.15,46,100.52
+,,BUBLY CHERRY 16OZ,65.7,0,0,0,0,0,-0.44,0,6.59,30,65.26
+,,BUBLY CHERRY SPRK  12OZ 8PK,26.97,0,0,0,0,0,0,0,2.72,3,26.97
+,,BUBLY GFRT SPK 16OZ CAN ,78.84,0,0,0,0,0,-0.22,0,7.94,36,78.62
+,,BUBLY GRAPEFRUIT 12OZ 8PK,8.99,0,0,0,0,0,0,0,0.91,1,8.99
+,,BUBLY LIME SPRK  12OZ 8PK,53.94,0,0,0,0,0,0,0,5.45,6,53.94
+,,BUBLY LME SPK 16OZ CAN ,113.88,0,0,0,0,0,-0.44,0,11.46,52,113.44
+,,BUBLY SPARKLING WATER 12OZ 8PK,53.94,0,0,0,0,0,0,0,5.45,6,53.94
+,,Calpico Water 16.9oz,212.89,0,0,0,0,0,-0.35,0,21.47,61,212.54
+,,Calpico Water Mini,94.86,0,0,0,0,0,-0.28,0,9.55,34,94.58
+,,H2C Coconut Water 17.63oz,228.31,0,0,0,0,0,-0.29,0,23.03,79,228.02
+,,H2C Coconut Water 1L,283.29,0,0,0,0,0,-0.25,0,28.59,71,283.04
+,,La Croix Berry 1L,45.41,0,0,0,0,0,-0.24,0,4.56,19,45.17
+,,La Croix Lime 1L,35.85,0,0,0,0,0,0,0,3.62,15,35.85
+,Water Flavored,---,1439.57,0,0,0,0,0,-2.73,0,---,463,1436.84
+Retail Beverages,---,---,46936.88,0,0,0,0,48.75,-60.92,370.74,---,11978,46875.96
+Snacks,Chips,$2.29 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$2.49 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$2.69 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$2.89 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$3.09 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$3.29 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$3.69 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$3.79 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$3.99 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$4.39 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$4.49 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$4.59 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$4.69 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$4.79 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$5.29 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$5.39 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$5.49 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$5.79 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$5.99 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,$6.29 Chips,0,0,0,0,0,0,0,0,0,0,0
+,,Angies Boomchickapop Lightly Sweet 5oz,129.74,0,0,0,0,0,0,0,0,26,129.74
+,,Angies Boomchickapop Sea Salt Popcorn 5oz,164.67,0,0,0,0,0,-0.5,0,0,33,164.17
+,,Angies Boomchickapop Sweet & Salty 7oz,306.82,0,0,0,0,0,0,0,0,58,306.82
+,,Calbee Chips Seaweed 7.05oz,39.92,0,0,0,0,0,0,0,0,8,39.92
+,,Cheetos Natural White Ched8oz,37.9,0,0,0,0,0,0,0,0,10,37.9
+,,El Sabroso Guacachip 3oz,25.19,0,0,0,0,0,0,0,0,11,25.19
+,,El Sabroso Salsitas 3oz,18.32,0,0,0,0,0,-0.23,0,0,8,18.09
+,,Frito Lay Chips,803.54,0,0,0,0,803.54,0,0,0,216,803.54
+,,Juanita Tortilla Chips 15oz,311.2,0,0,0,0,0,-0.64,0,0,80,310.56
+,,Pringles Original 5.26oz,151.6,0,0,0,0,0,0,0,0,40,151.6
+,,Pringles Salt Vinegar 5.57oz,70.18,0,0,0,0,0,0,0,0,22,70.18
+,,Pringles Sour Crm Onion 5.57oz,181.92,0,0,0,0,0,0,0,0,48,181.92
+,,Pringles Super BBQ 5.57oz,98.54,0,0,0,0,0,0,0,0,26,98.54
+,,Stacys Pita Cinna Sugar 3oz,41.8,0,0,0,0,0,0,0,0,20,41.8
+,,Stacys Pita Original 3oz,85.69,0,0,0,0,0,0,0,0,41,85.69
+,,Stacys Pita Parm Garlic 3oz,79.42,0,0,0,0,0,-0.25,0,0,38,79.17
+,,Stacys Pita Roasted Jalapeno 3oz,29.26,0,0,0,0,0,0,0,0,14,29.26
+,,Tims Dill Pickle Chips 7.5oz,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Tims Hawaiian Hulapeno 7.5oz,35.94,0,0,0,0,0,0,0,0,6,35.94
+,,Tims Hawaiian Seasonal 7.5oz,24.95,0,0,0,0,0,0,0,0,5,24.95
+,,Tims Jalapeno 2oz,55.72,0,0,0,0,0,-0.6,0,0,28,55.12
+,,Tims Jalapeno 7.5oz,197.67,0,0,0,0,0,0,0,0,33,197.67
+,,Tims Luau BBQ 2oz,89.55,0,0,0,0,0,0,0,0,45,89.55
+,,Tims Luau BBQ 7.5oz,281.53,0,0,0,0,0,0,0,0,47,281.53
+,,Tims Mango Habanero 7.5oz,41.93,0,0,0,0,0,0,0,0,7,41.93
+,,Tims Maui Onion 2oz,89.55,0,0,0,0,0,-0.2,0,0,45,89.35
+,,Tims Maui Onion 7.5oz,185.69,0,0,0,0,0,0,0,0,31,185.69
+,,Tims Original 2oz,111.44,0,0,0,0,0,-0.6,0,0,56,110.84
+,,Tims Original 7.5oz,83.86,0,0,0,0,0,0,0,0,14,83.86
+,,Tims Parmesan Garlic 7.5oz,23.96,0,0,0,0,0,0,0,0,4,23.96
+,,Tims Sea Salt Vinegar 2oz,77.61,0,0,0,0,0,-0.2,0,0,39,77.41
+,,Tims Sea Salt Vinegar 7.5oz,143.76,0,0,0,0,0,0,0,0,24,143.76
+,,Tims Seasonal 7.5oz,9.98,0,0,0,0,0,0,0,0,2,9.98
+,,Tims Sour Cream Onion,53.91,0,0,0,0,0,-0.6,0,0,9,53.31
+,,Tims Thins Jalapeno 7.5oz,19.96,0,0,0,0,0,0,0,0,4,19.96
+,,Tims Thins Sea Salt 7.5oz,4.99,0,0,0,0,0,0,0,0,1,4.99
+,,Tims ZP Honey Mustard Pretzel Stix,8.59,0,0,0,0,0,0,0,0,1,8.59
+,,Tims ZP Voodoo Heat Kettle Chips 8oz,25.56,0,0,0,0,0,-1.28,0,0,4,24.28
+,,Tims ZP Voodoo Kettle Chips 8oz,83.07,0,0,0,0,0,-0.89,0,0,13,82.18
+,Chips,---,4278.84,0,0,0,0,803.54,-5.99,0,---,1126,4272.85
+,Cookies,Chips Ahoy Bites 3oz,38.16,0,0,0,0,0,0,0,0,24,38.16
+,,Chips Ahoy Box 13oz,573.33,0,0,0,0,0,-0.75,0,0,87,572.58
+,,Franz Animal Frosted 12oz,82.68,0,0,0,0,0,-0.25,0,0,12,82.43
+,,Franz Cookie Molasses,26.95,0,0,0,0,0,-0.54,0,0,5,26.41
+,,Franz Cookie Snickerdoodle 9CT,26.36,0,0,0,0,0,0,0,0,4,26.36
+,,Glutino Milk Chocolate Waffers GF 4.6oz ,104.86,0,0,0,0,0,-0.75,0,0,14,104.11
+,,Keebler Fudge Stripes 11.5oz,153.8,0,0,0,0,0,0,0,0,20,153.8
+,,Keebler Grasshopper Mint 10oz,95.88,0,0,0,0,0,0,0,0,12,95.88
+,,Nutter Butter 16oz,44.34,0,0,0,0,0,0,0,0,6,44.34
+,,Nutter Butter Bites 3oz,41.58,0,0,0,0,0,0,0,0,22,41.58
+,,Oreo Double Stuf 14.3oz,342.51,0,0,0,0,0,0,0,0,49,342.51
+,,Oreo Double Stuff Golden King,4.38,0,0,0,0,0,0,0,0,2,4.38
+,,Oreo Mini Bite Size 3oz,85.05,0,0,0,0,0,0,0,0,45,85.05
+,,Oreo Original 13.29oz,299.91,0,0,0,0,0,0,0,0,39,299.91
+,,Oreo Original 5.25oz,78.96,0,0,0,0,0,0,0,0,24,78.96
+,,Pillsbury Cookie Mini Chc Chip,97.51,0,0,0,0,0,-0.45,0,0,49,97.06
+,,Siete Shortbread Cookie Grain Free 4.5oz,58.41,0,0,0,0,0,0,0,0,9,58.41
+,,SugarBowl Madeleines,532.65,0,0,0,0,0,-0.8,0,0,67,531.85
+,Cookies,---,2687.32,0,0,0,0,0,-3.54,0,---,490,2683.78
+,Crackers,Back to Nature Multi Seed Rice Cracker 4oz ,38.34,0,0,0,0,0,0,0,0,6,38.34
+,,Cheez-It Douz Ched Jk Sws,114.84,0,0,0,0,0,0,0,0,36,114.84
+,,Cheez-It Duoz Ched Parm 4.3oz,82.94,0,0,0,0,0,0,0,0,26,82.94
+,,Cheez-It Original 3oz,41.17,0,0,0,0,0,0,0,0,23,41.17
+,,Cheez-It Original Cracker 7oz,324.33,0,0,0,0,0,0,0,0,57,324.33
+,,Cheez-It Snack Mix Original 4oz,57.42,0,0,0,0,0,0,0,0,18,57.42
+,,Chicken in a Biskit 8oz,65.9,0,0,0,0,0,0,0,0,10,65.9
+,,Field Day Cracked Wheat Cracker 8oz ,52.9,0,0,0,0,0,0,0,0,10,52.9
+,,Honey Maid Graham Crackers,53.83,0,0,0,0,0,0,0,0,7,53.83
+,,Keebler Club Crackers,119.84,0,0,0,0,0,-0.25,0,0,16,119.59
+,,Lapanz Croccantini Mini Black Pepper,16.5,0,0,0,0,0,0,0,0,3,16.5
+,,Lapanz Croccantini Mini Garlic,104.5,0,0,0,0,0,0,0,0,19,104.5
+,,Lapanz Croccantini Mini Original,38.5,0,0,0,0,0,0,0,0,7,38.5
+,,Lapanz Croccantini Mini Rsmary,77,0,0,0,0,0,0,0,0,14,77
+,,Marys Gone Black Pepper Crackers,48.23,0,0,0,0,0,0,0,0,7,48.23
+,,Marys Organic Superseed Cracker 5.5oz ,22.77,0,0,0,0,0,0,0,0,3,22.77
+,,PF Goldfish Cheddar 8oz ,357.21,0,0,0,0,0,-0.25,0,0,49,356.96
+,,Premium Saltines 4oz,55.93,0,0,0,0,0,0,0,0,17,55.93
+,,Premium Saltines 8oz,88,0,0,0,0,0,-0.25,0,0,16,87.75
+,,Ritz Bits Cheese 3oz,81.27,0,0,0,0,0,0,0,0,43,81.27
+,,Ritz Crackers 13.7oz,123.04,0,0,0,0,0,0,0,0,16,123.04
+,,Ritz Crackers 4oz,46.06,0,0,0,0,0,0,0,0,14,46.06
+,,Sesmark Savory Rice Thins,29.34,0,0,0,0,0,0,0,0,6,29.34
+,,Teddy Grahams Honey 10oz,60.5,0,0,0,0,0,-0.25,0,0,11,60.25
+,,Triscuit Crackers Original 8.5oz,58.5,0,0,0,0,0,-0.9,0,0,9,57.6
+,,Wheat Thins 8.5oz,217.47,0,0,0,0,0,-0.5,0,0,33,216.97
+,Crackers,---,2376.33,0,0,0,0,0,-2.4,0,---,476,2373.93
+,Dried Fruits,Dole Raisins Seedless 12oz,14.97,0,0,0,0,0,0,0,0,3,14.97
+,,NW Delights Apricots 10oz,35.8,0,0,0,0,0,0,0,0,4,35.8
+,,NW Delights Cranberry 7oz,6.99,0,0,0,0,0,0,0,0,1,6.99
+,,NW Delights Mango 6oz,102,0,0,0,0,0,-0.25,0,0,12,101.75
+,,NW Delights Pineapple 8oz,25.5,0,0,0,0,0,0,0,0,3,25.5
+,,NW Delights Tropical Trio 9oz,17,0,0,0,0,0,0,0,0,2,17
+,Dried Fruits,---,202.26,0,0,0,0,0,-0.25,0,---,25,202.01
+,Health Bars,Clif Bar Blueberry Crisp,38.85,0,0,0,0,0,0,0,0,15,38.85
+,,Clif Bar Choc Brownie,88.06,0,0,0,0,0,0,0,0,34,88.06
+,,Clif Bar Choc Peanut But Banna,36.26,0,0,0,0,0,0,0,0,14,36.26
+,,Clif Bar Chocolate Chip,64.75,0,0,0,0,0,0,0,0,25,64.75
+,,Clif Bar Cool Mint Chocolate,56.98,0,0,0,0,0,0,0,0,22,56.98
+,,Clif Bar Crunchy Peanut Butter,64.75,0,0,0,0,0,0,0,0,25,64.75
+,,Clif Bar Oatmeal Raisin Walnut,41.44,0,0,0,0,0,0,0,0,16,41.44
+,,Clif Bar White Choc Macadamia,56.98,0,0,0,0,0,0,0,0,22,56.98
+,,Clif Builder Choc PB,94.25,0,0,0,0,0,-0.25,0,0,29,94
+,,Clif Builder Chocolate Mint,68.25,0,0,0,0,0,0,0,0,21,68.25
+,,Clif Builder Cookies Cream,68.25,0,0,0,0,0,0,0,0,21,68.25
+,,Clif Builder Vanilla Almond,41.86,0,0,0,0,0,0,0,0,14,41.86
+,,Clif NB Chocolate PB,41.86,0,0,0,0,0,0,0,0,14,41.86
+,,Clif NB Peanut Butter,14.95,0,0,0,0,0,0,0,0,5,14.95
+,,G2G Bar Almond Coconut,62.24,0,0,0,0,0,0,0,0,16,62.24
+,,G2G Bar Choc Banana,112.81,0,0,0,0,0,0,0,0,29,112.81
+,,G2G Bar Peanut Butter & Jelly,116.7,0,0,0,0,0,0,0,0,30,116.7
+,,Gatorade Protein Bar Chocolate Caramel,66.42,0,0,0,0,0,0,0,0,18,66.42
+,,Gatorade Protein Bar Chocolate Chip ,66.42,0,0,0,0,0,0,0,0,18,66.42
+,,KIND Bar Almond Coconut,26.32,0,0,0,0,0,0,0,0,8,26.32
+,,KIND Bar Blueberry Vanilla Cashew,23.92,0,0,0,0,0,0,0,0,8,23.92
+,,KIND Bar Caramel Sea Salt,6.58,0,0,0,0,0,0,0,0,2,6.58
+,,KIND Bar Cranberry Almond,16.45,0,0,0,0,0,0,0,0,5,16.45
+,,KIND Bar Drk Choc Almond,32.9,0,0,0,0,0,0,0,0,10,32.9
+,,KIND Bar Drk Choc Cherry,29.61,0,0,0,0,0,0,0,0,9,29.61
+,,KIND Bar Fruit Nut Delight,19.74,0,0,0,0,0,0,0,0,6,19.74
+,,KIND Bar PB Dark Chocolate,26.32,0,0,0,0,0,0,0,0,8,26.32
+,,KIND Bar Pomegranate Blueberry,23.03,0,0,0,0,0,0,0,0,7,23.03
+,,KIND Bar Protein Crunch PB,59.22,0,0,0,0,0,0,0,0,18,59.22
+,,KIND Bar Protein Dbl Dark Choc,16.45,0,0,0,0,0,0,0,0,5,16.45
+,,KIND Plus Choc Sea Salt,82.25,0,0,0,0,0,0,0,0,25,82.25
+,,KIND Plus Madagascar Vanilla,13.16,0,0,0,0,0,0,0,0,4,13.16
+,,Larabar Apple Pie,32.9,0,0,0,0,0,0,0,0,10,32.9
+,,Larabar PB Jelly,13.16,0,0,0,0,0,0,0,0,4,13.16
+,,Luna Choc Peppermint Stick,48.18,0,0,0,0,0,0,0,0,22,48.18
+,,Luna Chocolate Dipped Coconut,30.66,0,0,0,0,0,0,0,0,14,30.66
+,,Luna Lemon Zest,37.23,0,0,0,0,0,0,0,0,17,37.23
+,,Luna Nutz Over Chocolate ,24.09,0,0,0,0,0,0,0,0,11,24.09
+,,Luna Sunrise Blueberry,17.52,0,0,0,0,0,0,0,0,8,17.52
+,,MetRx Big 100 Chocolate Chip Cookie Dough,35.12,0,0,0,0,0,0,0,0,8,35.12
+,,MetRx Big 100 Cookie Crunch,87.8,0,0,0,0,0,0,0,0,20,87.8
+,,NV Gran Oats Honey 1.5oz,27.8,0,0,0,0,0,0,0,0,20,27.8
+,,NV Gran Peanut Butter 1.5oz,8.34,0,0,0,0,0,0,0,0,6,8.34
+,,NV Gran Sweet Salt Peanut 1.2oz,8.34,0,0,0,0,0,0,0,0,6,8.34
+,,NV Oats Dark Choc 1.5oz,6.95,0,0,0,0,0,0,0,0,5,6.95
+,,NV Trail Chewy Fruit Nut 1.2oz,9.73,0,0,0,0,0,0,0,0,7,9.73
+,,One Bar Birthday Cake,13.17,0,0,0,0,0,0,0,0,3,13.17
+,,One Bar Cookie Dough,35.12,0,0,0,0,0,0,0,0,8,35.12
+,,One Bar Maple Glaze Donut,26.34,0,0,0,0,0,0,0,0,6,26.34
+,,Powerbar Prot Plus Vanilla,9.87,0,0,0,0,0,0,0,0,3,9.87
+,,Pure Protein Chewy Choc Chip,21.52,0,0,0,0,0,0,0,0,8,21.52
+,,Pure Protein Choc Deluxe,91.46,0,0,0,0,0,0,0,0,34,91.46
+,,Pure Protein Choc PB Crunch,45.73,0,0,0,0,0,-0.25,0,0,17,45.48
+,,Pure Protein Choc Pnut Caramel,48.42,0,0,0,0,0,0,0,0,18,48.42
+,,Pure Protein Choc Slt Caramel,13.45,0,0,0,0,0,0,0,0,5,13.45
+,,Quest Bar Birthday Cake,85,0,0,0,0,0,-0.25,0,0,20,84.75
+,,Quest Bar Cookie Dough,102,0,0,0,0,0,0,0,0,24,102
+,,Quest Bar Cookies N Cream,157.25,0,0,0,0,0,0,0,0,37,157.25
+,,Quest Bar Smores,93.5,0,0,0,0,0,0,0,0,22,93.5
+,,Quest Bar White Choc Raspberry,80.75,0,0,0,0,0,0,0,0,19,80.75
+,,RxBar Blueberry,42.79,0,0,0,0,0,0,0,0,11,42.79
+,,RxBar Chocolate Sea Salt,54.46,0,0,0,0,0,0,0,0,14,54.46
+,,RxBar Coconut Chocolate,50.57,0,0,0,0,0,0,0,0,13,50.57
+,,RxBar PB Chocolate,70.02,0,0,0,0,0,0,0,0,18,70.02
+,,Special K Protein Double Choc,32.37,0,0,0,0,0,0,0,0,13,32.37
+,,Special K Protein PB,17.43,0,0,0,0,0,0,0,0,7,17.43
+,,Special K Protein Strawberry,44.82,0,0,0,0,0,0,0,0,18,44.82
+,,Thats It Apple Bear Bar,14.94,0,0,0,0,0,0,0,0,6,14.94
+,,Thats It Apple Blueberry Bar,29.88,0,0,0,0,0,0,0,0,12,29.88
+,,Thats It Apple Mango Bar,54.78,0,0,0,0,0,0,0,0,22,54.78
+,,Think Thin Lemon Delight,29.9,0,0,0,0,0,0,0,0,10,29.9
+,,ThinkThin Brownie Crunch,41.86,0,0,0,0,0,0,0,0,14,41.86
+,,ThinkThin Chunky PB Bar,11.96,0,0,0,0,0,0,0,0,4,11.96
+,,ThinkThin Creamy PB Bar,26.91,0,0,0,0,0,0,0,0,9,26.91
+,Health Bars,---,3312.12,0,0,0,0,0,-0.75,0,---,1056,3311.37
+,Jerky,Oberto Bite Size Cockt. Pep 5oz,66.99,0,0,0,0,0,0,0,0,11,66.99
+,,Oberto Cocktail Pep 3oz,78.24,0,0,0,0,0,0,0,0,16,78.24
+,,Oberto Jerky Bacon 2.25oz,63.92,0,0,0,0,0,0,0,0,8,63.92
+,,Oberto Jerky Beef Original 100,32.94,0,0,0,0,0,0,0,0,6,32.94
+,,Oberto Jerky Beef Pepper 100,27.45,0,0,0,0,0,0,0,0,5,27.45
+,,Oberto Jerky Nat Orig 2.7oz,109.2,0,0,0,0,0,-0.25,0,0,14,108.95
+,,Oberto Jerky Nat Pepper 2.7oz,23.97,0,0,0,0,0,0,0,0,3,23.97
+,,Oberto Jerky Nat Sweet Spicy 2.7oz,85.8,0,0,0,0,0,0,0,0,11,85.8
+,,Oberto Jerky Nat Teriyaki 2.7 oz,127.35,0,0,0,0,0,0,0,0,15,127.35
+,,Oberto Jerky Nat Turkey 2.7oz,42.45,0,0,0,0,0,-0.25,0,0,5,42.2
+,,Oberto Smokeroni 3oz,130.35,0,0,0,0,0,0,0,0,33,130.35
+,,Oberto Stick Original HB,111.86,0,0,0,0,0,-0.8,0,0,14,111.06
+,,Oberto Thin Jerky Original 2.7oz,119.85,0,0,0,0,0,0,0,0,15,119.85
+,,Oberto Thin Peppered Jerky 2.7oz,159.8,0,0,0,0,0,-0.8,0,0,20,159
+,Jerky,---,1180.17,0,0,0,0,0,-2.1,0,---,176,1178.07
+,Nuts and Seeds,NW Delights Almonds Organic 10oz ,60,0,0,0,0,0,0,0,0,5,60
+,,NW Delights Hazelnut 9oz,44,0,0,0,0,0,0,0,0,4,44
+,,NW Delights Milk Choc Almonds,131.89,0,0,0,0,0,-0.25,0,0,11,131.64
+,,NW Delights Pecans,33,0,0,0,0,0,0,0,0,3,33
+,,NW Delights Walnuts,11,0,0,0,0,0,0,0,0,1,11
+,,NW Delights Whole Cashews 8oz,165,0,0,0,0,0,-1.1,0,0,15,163.9
+,,Wondeful Pistachios S P,13.74,0,0,0,0,0,0,0,0,6,13.74
+,,Wonderful Pistachio HB Salt & Pepper ,12.58,0,0,0,0,0,0,0,0,2,12.58
+,,Wonderful Pistachio HB Sweet Chili ,25.16,0,0,0,0,0,0,0,0,4,25.16
+,,Wonderful Pistachios Rst Slt,22.9,0,0,0,0,0,-0.23,0,0,10,22.67
+,,Wonderful Pistachios Swt Chili,9.16,0,0,0,0,0,0,0,0,4,9.16
+,Nuts and Seeds,---,528.43,0,0,0,0,0,-1.58,0,---,65,526.85
+,Popcorn,Act II Butter Lovers Popcorn,184.63,0,0,0,0,0,0,0,0,37,184.63
+,Snacks Other,Arizona Fruit Snack ,141.61,0,0,0,0,0,-0.29,0,0,49,141.32
+,,Arizona Fruit Snack Green Tea,104.04,0,0,0,0,0,0,0,0,36,104.04
+,,Arizona Fruit Snacks Sour Lemonade 5z,101.15,0,0,0,0,0,0,0,0,35,101.15
+,,Bugles Original 3oz,11.07,0,0,0,0,0,0,0,0,3,11.07
+,,Calbee Hot Spicy Chips,33,0,0,0,0,0,0,0,0,6,33
+,,Calbee Shrimp Hot Garlic,30,0,0,0,0,0,0,0,0,12,30
+,,Calbee Shrimp Wasabi 3.3oz,7.78,0,0,0,0,0,0,0,0,2,7.78
+,,Calbee Snap Crisp Blk Pep 3.3oz,42.79,0,0,0,0,0,-0.78,0,0,11,42.01
+,,Calbee Snap Crisp Orginal 3.3oz,38.9,0,0,0,0,0,0,0,0,10,38.9
+,,Calbee Snap Crisp Wasabi 3.3oz,46.68,0,0,0,0,0,0,0,0,12,46.68
+,,Chex Mix Bold 3.75oz,61.03,0,0,0,0,0,0,0,0,17,61.03
+,,Chex Mix Cheddar 3.75oz,43.08,0,0,0,0,0,0,0,0,12,43.08
+,,Chex Mix Cookies N Cream 4.25oz,69.86,0,0,0,0,0,0,0,0,14,69.86
+,,Chex Mix Muddy Budd Mint Choc,64.87,0,0,0,0,0,0,0,0,13,64.87
+,,Chex Mix Muddy Buddy 4.5oz,84.83,0,0,0,0,0,0,0,0,17,84.83
+,,Chex Mix Muddy Buddy Brownie,104.79,0,0,0,0,0,0,0,0,21,104.79
+,,Chex Mix Traditional,129.24,0,0,0,0,0,0,0,0,36,129.24
+,,D-Plus Bread Koubo Chocolate,95.7,0,0,0,0,0,0,0,0,30,95.7
+,,D-Plus Bread Koubo Coffee,95.7,0,0,0,0,0,0,0,0,30,95.7
+,,D-Plus Bread Koubo Green Tea,108.46,0,0,0,0,0,0,0,0,34,108.46
+,,D-Plus Bread Koubo Maple,82.94,0,0,0,0,0,0,0,0,26,82.94
+,,D-Plus Bread Koubo Red Bean,95.7,0,0,0,0,0,0,0,0,30,95.7
+,,D-Plus Bread Koubo Sugar,95.7,0,0,0,0,0,0,0,0,30,95.7
+,,D-Plus Hokkaido Cream,95.7,0,0,0,0,0,0,0,0,30,95.7
+,,Eatsmart Pot Tom Spin Chips,49.29,0,0,0,0,0,-0.32,0,0,31,48.97
+,,Fig Newton 10oz,45,0,0,0,0,0,0,0,0,6,45
+,,Fig Newton Raspberry Bar,20.64,0,0,0,0,0,0,0,0,16,20.64
+,,Franz All American Pie Apple,24.21,0,0,0,0,0,0,0,0,9,24.21
+,,Franz All American Pie Blk Bry,5.38,0,0,0,0,0,0,0,0,2,5.38
+,,Franz All American Pie Cherry,10.76,0,0,0,0,0,0,0,0,4,10.76
+,,Gardetto Original,94.81,0,0,0,0,0,0,0,0,19,94.81
+,,Gimme Seaweed Sea Salt,92.12,0,0,0,0,0,0,0,0,28,92.12
+,,Gimme Seaweed Sesame,55.93,0,0,0,0,0,-0.33,0,0,17,55.6
+,,Gimme Seaweed Teriyaki,52.64,0,0,0,0,0,0,0,0,16,52.64
+,,Happy Clover Swiss Roll OldFsh,230.7,0,0,0,0,0,0,0,0,30,230.7
+,,Happy Clover Swiss Roll White,269.15,0,0,0,0,0,0,0,0,35,269.15
+,,KIND Clusters Blueberry,123.06,0,0,0,0,0,0,0,0,14,123.06
+,,KIND Clusters Drk Chocolate Nuts & Berries,58.41,0,0,0,0,0,0,0,0,9,58.41
+,,KIND Clusters Drk Chocolate Van Cashew,19.47,0,0,0,0,0,0,0,0,3,19.47
+,,KIND Clusters Oats Cinnamon,114.27,0,0,0,0,0,-0.25,0,0,13,114.02
+,,Kraft Cracker Barrel Cheese 1oz,5.53,0,0,0,0,0,0,0,0,7,5.53
+,,Lotte Choco Pie ,47.92,0,0,0,0,0,0,0,0,8,47.92
+,,Marcopolo Shrimp Cheese Snack 2.5oz,27.23,0,0,0,0,0,0,0,0,7,27.23
+,,Marcopolo Shrimp Onion & Garlic Snack 2.5oz,15.56,0,0,0,0,0,-0.39,0,0,4,15.17
+,,Marcopolo Shrimp Snack BBQ 2.5oz,19.45,0,0,0,0,0,0,0,0,5,19.45
+,,Marcopolo Shrimp Sour Cream Snack 2.5oz,19.45,0,0,0,0,0,-0.39,0,0,5,19.06
+,,Meiji Hello Panda Choco 9.1oz,145.44,0,0,0,0,0,-1.95,0,0,16,143.49
+,,Meiji Hello Panda Milk Cr?me,135.11,0,0,0,0,0,0,0,0,59,135.11
+,,Meiji Hello Panda Strawberry,70.99,0,0,0,0,0,-0.25,0,0,31,70.74
+,,Meiji Hello Panda Stwbrry 9.1oz,118.17,0,0,0,0,0,0,0,0,13,118.17
+,,NW Delights Blueberry Yogurt Pretzels 7.5oz,54.32,0,0,0,0,0,0,0,0,8,54.32
+,,NW Delights Dried Okra Crisps 3oz ,110.46,0,0,0,0,0,0,0,0,14,110.46
+,,NW Delights Ginger 6oz,15.3,0,0,0,0,0,0,0,0,2,15.3
+,,NW Delights Inca Corn Nuggets 8oz ,24.27,0,0,0,0,0,-0.25,0,0,3,24.02
+,,NW Delights Peanut Butter Pretzel Bites 8oz,71.5,0,0,0,0,0,0,0,0,11,71.5
+,,NW Delights Pepitas Organic 8oz,10.99,0,0,0,0,0,0,0,0,1,10.99
+,,NW Delights Strawberry Yogurt Pretzels 7.5oz,13.58,0,0,0,0,0,0,0,0,2,13.58
+,,NW Delights Whole Wheat Fig Bar w/Honey 10oz,53.94,0,0,0,0,0,0,0,0,6,53.94
+,,NW Delights Whole Wheat Honey Apple Fig Bar 10oz,44.95,0,0,0,0,0,0,0,0,5,44.95
+,,NW Delights Yogurt Pretzel,50.33,0,0,0,0,0,0,0,0,7,50.33
+,,Natures Bakery Apple Cinn Bar,8.34,0,0,0,0,0,0,0,0,6,8.34
+,,Natures Bakery Blueberry Bar,16.68,0,0,0,0,0,0,0,0,12,16.68
+,,Nilla Wafers 11oz,123.04,0,0,0,0,0,0,0,0,16,123.04
+,,Nongshim Onion Ring Snack 3.17oz,46.06,0,0,0,0,0,-0.25,0,0,14,45.81
+,,Pepperidge Farm Goldfish 2.65 oz,74.7,0,0,0,0,0,-0.25,0,0,30,74.45
+,,Pocky Almond Crush 1.45oz,151.34,0,0,0,0,0,0,0,0,46,151.34
+,,Pocky Chocolate 2.47oz,164.5,0,0,0,0,0,0,0,0,50,164.5
+,,Pocky Cookies Cream 1.45oz,59.22,0,0,0,0,0,0,0,0,18,59.22
+,,Pocky Strawberry 2.47oz,157.92,0,0,0,0,0,0,0,0,48,157.92
+,,Rold Gold Tiny Twists 16oz,52.35,0,0,0,0,0,-0.25,0,0,15,52.1
+,,Shirakiku Dried Squid Hot 2oz,42.21,0,0,0,0,0,0,0,0,9,42.21
+,,Shirakiku Dried Squid Plain 2oz,23.45,0,0,0,0,0,0,0,0,5,23.45
+,,Shirakiku Rice Cracker with Seaweed,98.7,0,0,0,0,0,0,0,0,30,98.7
+,,Snyders Dips Chocolate,327.63,0,0,0,0,0,0,0,0,67,327.63
+,,Snyders Dips White Chocolate,112.47,0,0,0,0,0,-0.25,0,0,23,112.22
+,,Snyders Mini Pretzels,79.6,0,0,0,0,0,-0.45,0,0,40,79.15
+,,Snyders Pretzel Pieces 10oz Real Peanut Butter,47.92,0,0,0,0,0,0,0,0,8,47.92
+,,Snyders Pretzel Pieces 11.25oz Cheddar Cheese,35.94,0,0,0,0,0,0,0,0,6,35.94
+,,Snyders Pretzel Pieces 11.25oz Honey Mustard & Onion,107.82,0,0,0,0,0,0,0,0,18,107.82
+,,Snyders Pretzel Pieces 11.25oz Jalapeno ,53.91,0,0,0,0,0,0,0,0,9,53.91
+,,Takaokaya Teriyaki Ajitsk Nori,93.33,0,0,0,0,0,0,0,0,17,93.33
+,,Takis Fuego Chips Hot Chili and Lime 9.9oz,448.12,0,0,0,0,0,0,0,0,68,448.12
+,,Wei Lih GGE Ramen Snack BBQ,37.62,0,0,0,0,0,0,0,0,18,37.62
+,,Wei Lih GGE Ramen Snack Hot Spicy,31.35,0,0,0,0,0,-0.25,0,0,15,31.1
+,,Wei Lih GGE Ramen Snack Original,12.54,0,0,0,0,0,0,0,0,6,12.54
+,,Wei Lih GGE Ramen Snack Seaweed,22.99,0,0,0,0,0,0,0,0,11,22.99
+,,Wei Lih GGE Ramen Snack Soy Sauce,14.63,0,0,0,0,0,0,0,0,7,14.63
+,,Welchs Fruit Snack Berries,80.7,0,0,0,0,0,0,0,0,30,80.7
+,,Welchs Fruit Snack Island,64.56,0,0,0,0,0,0,0,0,24,64.56
+,,Welchs Fruit Snack Mix,134.5,0,0,0,0,0,0,0,0,50,134.5
+,,Welchs Fruit Snack Strawberry,69.94,0,0,0,0,0,0,0,0,26,69.94
+,,Welchs Fruit Yogurt Strbry,72.38,0,0,0,0,0,0,0,0,22,72.38
+,,Yan Yan Chocolate,50.16,0,0,0,0,0,-0.21,0,0,24,49.95
+,,Yan Yan Strawberry,37.62,0,0,0,0,0,0,0,0,18,37.62
+,,Yan Yan Vanilla,22.99,0,0,0,0,0,0,0,0,11,22.99
+,Snacks Other,---,7082.18,0,0,0,0,0,-7.11,0,---,1799,7075.07
+,Trail Mix,NW Delights Cascade Mix 8oz,28.36,0,0,0,0,0,0,0,0,4,28.36
+,,NW Delights Dark Choc Olympic 10oz,28.36,0,0,0,0,0,0,0,0,4,28.36
+,,NW Delights Deluxe Nuts 9oz,88,0,0,0,0,0,0,0,0,8,88
+,,NW Delights Deluxe Trail Mix 9oz,21.27,0,0,0,0,0,0,0,0,3,21.27
+,,NW Delights Mt Hood 8.5oz,28.36,0,0,0,0,0,0,0,0,4,28.36
+,,NW Delights Nooksack 9oz,21.27,0,0,0,0,0,-0.71,0,0,3,20.56
+,,NW Delights Olympic Mix 10oz,35.45,0,0,0,0,0,0,0,0,5,35.45
+,,NW Delights Pacific Crest 10oz,14.18,0,0,0,0,0,0,0,0,2,14.18
+,,NW Delights San Juan Mix 8oz,14.18,0,0,0,0,0,0,0,0,2,14.18
+,Trail Mix,---,279.43,0,0,0,0,0,-0.71,0,---,35,278.72
+Snacks,---,---,22111.71,0,0,0,0,803.54,-24.43,0,---,5285,22087.28
+Starters,Self Serve,Self Serve Rice,0,0,0,0,0,0,0,0,0,0,0
+,,Self Serve Rice (Large),245.03,0,0,0,0,0,-0.48,0,24.7,107,244.55
+,,Self Serve Rice (Medium),214.92,0,0,0,0,0,-0.45,0,21.66,108,214.47
+,,Self Serve Rice (Small),124.02,0,0,0,0,0,-0.32,0,12.49,78,123.7
+,Self Serve,---,583.97,0,0,0,0,0,-1.25,0,---,293,582.72
+,Soup,Chowder,0,0,0,0,0,0,0,0,0,0,0
+,,Chowder (12oz),103.84,0,0,0,0,0,0,0,10.49,16,103.84
+,,Chowder (16oz),74.9,0,0,0,0,0,-0.25,0,7.54,10,74.65
+,,Chowder (8oz),60.39,0,0,0,0,0,-0.55,0,6.04,11,59.84
+,,Soup,0,0,0,0,0,0,0,0,0,0,0
+,,Soup (12oz),1269.88,0,0,0,0,0,-4.8,0,127.77,212,1265.08
+,,Soup (16oz),1055.49,0,0,0,0,0,-0.7,0,106.53,151,1054.79
+,,Soup (8oz),648.7,0,0,0,0,0,-1.5,0,65.37,130,647.2
+,Soup,---,3213.2,0,0,0,0,0,-7.8,0,---,530,3205.4
+Starters,---,---,3797.17,0,0,0,0,0,-9.05,0,---,823,3788.12
+Sundries Food,Produce,Fruit,0,0,0,0,0,0,0,0,0,0,0
+,Single Portion Condiments,PC Butter,8.7,0,0,0,0,0,0,0,0,58,8.7
+,,PC Cream Cheese,170,0,0,0,0,0,-0.1,0,0,340,169.9
+,,PC Jam,0,0,0,0,0,0,0,0,0,0,0
+,Single Portion Condiments,---,178.7,0,0,0,0,0,-0.1,0,---,398,178.6
+Sundries Food,---,---,178.7,0,0,0,0,0,-0.1,0,---,398,178.6
+Sweets,Candy,100 Grand Bar KS,11.8,0,0,0,0,0,0,0,0,4,11.8
+,,3 Musketeers KS,20.65,0,0,0,0,0,0,0,0,7,20.65
+,,Airheads Bites Fruit,26.46,0,0,0,0,0,0,0,0,14,26.46
+,,Almond Joy KS,26.55,0,0,0,0,0,0,0,0,9,26.55
+,,Almond Roca 3s,6.87,0,0,0,0,0,0,0,0,3,6.87
+,,Andes Mints,31.41,0,0,0,0,0,0,0,0,9,31.41
+,,Butterfinger,1.89,0,0,0,0,0,0,0,0,1,1.89
+,,Butterfinger KS,5.9,0,0,0,0,0,0,0,0,2,5.9
+,,Dots Original 6.5oz,16.11,0,0,0,0,0,0,0,0,9,16.11
+,,Eiwa Mshmllw Hello Kitty Mngo,25.74,0,0,0,0,0,0,0,0,6,25.74
+,,Eiwa Mshmllw Hello Kitty Pinap,8.58,0,0,0,0,0,0,0,0,2,8.58
+,,Eiwa Mshmllw Hello Kitty Stwby,21.45,0,0,0,0,0,0,0,0,5,21.45
+,,Ferrero Rocher 3pc,244.02,0,0,0,0,0,0,0,0,98,244.02
+,,Haribo Gold Bears 5oz,217.55,0,0,0,0,0,0,0,0,95,217.55
+,,Haribo Happy Cola 5oz,93.89,0,0,0,0,0,0,0,0,41,93.89
+,,Hersheys Bar Cookies Cream KS,79.65,0,0,0,0,0,0,0,0,27,79.65
+,,Hersheys Bar Milk Choc KS,14.75,0,0,0,0,0,0,0,0,5,14.75
+,,Hersheys Bar with Almonds,13.23,0,0,0,0,0,0,0,0,7,13.23
+,,Hersheys Bar with Almonds KS,20.65,0,0,0,0,0,-0.3,0,0,7,20.35
+,,Hi Chew Grape,60.48,0,0,0,0,0,0,0,0,32,60.48
+,,Hi Chew Green Apple,43.47,0,0,0,0,0,0,0,0,23,43.47
+,,Hi Chew Mango,39.69,0,0,0,0,0,0,0,0,21,39.69
+,,Hi Chew Strawberry,88.83,0,0,0,0,0,0,0,0,47,88.83
+,,Jelly Belly Sour HB,77.74,0,0,0,0,0,0,0,0,26,77.74
+,,Jelly Belly Tropical HB,56.81,0,0,0,0,0,0,0,0,19,56.81
+,,Junior Mints 3.5oz,28.35,0,0,0,0,0,0,0,0,15,28.35
+,,Kinder Joy Chocolate Toy Egg,104.91,0,0,0,0,0,0,0,0,39,104.91
+,,Kit Kat,71.82,0,0,0,0,0,0,0,0,38,71.82
+,,Kit Kat Big Kat KS,54.23,0,0,0,0,0,-0.32,0,0,17,53.91
+,,Kit Kat Dark Chocolate,17.01,0,0,0,0,0,-0.25,0,0,9,16.76
+,,Kit Kat Dark Chocolate KS,20.65,0,0,0,0,0,0,0,0,7,20.65
+,,Kit Kat White Chocolate,15.12,0,0,0,0,0,0,0,0,8,15.12
+,,Lindor Ball Caramel,27.72,0,0,0,0,0,-0.2,0,0,28,27.52
+,,Lindor Ball Dark Chocolate,60.39,0,0,0,0,0,0,0,0,61,60.39
+,,Lindor Ball Milk Chocolate,78.21,0,0,0,0,0,-0.1,0,0,79,78.11
+,,Lindor Ball White Chocolate,33.66,0,0,0,0,0,0,0,0,34,33.66
+,,Louchs Dark Choc Sesame Snaps,5.94,0,0,0,0,0,0,0,0,6,5.94
+,,Louchs Sesame Snaps 1.4oz,9.79,0,0,0,0,0,0,0,0,11,9.79
+,,Milky Way Bar KS,11.8,0,0,0,0,0,0,0,0,4,11.8
+,,MnM Caramel KS,2.95,0,0,0,0,0,0,0,0,1,2.95
+,,MnM Peanut Butter SUP 4.5oz,210.06,0,0,0,0,0,-1.17,0,0,54,208.89
+,,MnM Peanut SUP,199.5,0,0,0,0,0,-0.4,0,0,50,199.1
+,,MnM Peanut Stand 1.74oz,29.5,0,0,0,0,0,0,0,0,10,29.5
+,,MnM Plain Bag 1.69oz,37.8,0,0,0,0,0,0,0,0,20,37.8
+,,Morinaga Hi Chew Bag Mix,29.61,0,0,0,0,0,0,0,0,9,29.61
+,,Morinaga Hi Chew Bag Sweet n Sour 3.17oz,26.53,0,0,0,0,0,0,0,0,7,26.53
+,,Morinaga Hi Chew Bag Tropical,42.77,0,0,0,0,0,0,0,0,13,42.77
+,,Morinaga Hi Chew Berry Mix 3.17oz,22.74,0,0,0,0,0,0,0,0,6,22.74
+,,NW Delights Choc Malt Ball 10oz,49.95,0,0,0,0,0,-1,0,0,5,48.95
+,,NW Delights Jordan Almonds,29.97,0,0,0,0,0,0,0,0,3,29.97
+,,NW Delights Peach Gummy Rings,47.34,0,0,0,0,0,0,0,0,6,47.34
+,,Nerds Grape Strawberry 1.65oz,13.23,0,0,0,0,0,0,0,0,7,13.23
+,,Nerds Rope Rainbow 0.92z,29.85,0,0,0,0,0,0,0,0,15,29.85
+,,Nestle Crunch,11.34,0,0,0,0,0,0,0,0,6,11.34
+,,Nestle Crunch KS,44.25,0,0,0,0,0,-0.55,0,0,15,43.7
+,,PayDay Bar,3.78,0,0,0,0,0,0,0,0,2,3.78
+,,PayDay Bar KS,8.85,0,0,0,0,0,0,0,0,3,8.85
+,,Red Vines Original Tray 5oz,26.55,0,0,0,0,0,0,0,0,9,26.55
+,,Reeses Big Cup KS,20.65,0,0,0,0,0,0,0,0,7,20.65
+,,Reeses PB Cup White KS,2.95,0,0,0,0,0,0,0,0,1,2.95
+,,Reeses PB Cups Minis HB,207.27,0,0,0,0,0,0,0,0,63,207.27
+,,Reeses PB Cups Original 1.5oz,20.79,0,0,0,0,0,0,0,0,11,20.79
+,,Reeses PB Cups Original KS,44.25,0,0,0,0,0,0,0,0,15,44.25
+,,Reeses Pieces HB,105.03,0,0,0,0,0,0,0,0,27,105.03
+,,Reeses Sticks Bar,18.9,0,0,0,0,0,-0.19,0,0,10,18.71
+,,Skittles Original Bag 2.17oz,20.79,0,0,0,0,0,0,0,0,11,20.79
+,,Skittles Original HB,120.51,0,0,0,0,0,0,0,0,39,120.51
+,,Skittles Sour Box 3.3oz,31.84,0,0,0,0,0,0,0,0,16,31.84
+,,Skittles Tropical Bag 2.17oz,16.74,0,0,0,0,0,0,0,0,9,16.74
+,,Skittles Wild Berry Bag 2.17oz,11.34,0,0,0,0,0,0,0,0,6,11.34
+,,Snickers Bar KS,23.6,0,0,0,0,0,-0.3,0,0,8,23.3
+,,Snickers Minis HB,74.25,0,0,0,0,0,0,0,0,27,74.25
+,,Snickers Original Bar,32.13,0,0,0,0,0,0,0,0,17,32.13
+,,Sour Patch Kids 8oz HB,204.69,0,0,0,0,0.75,0,0,0,66,204.69
+,,Starburst Fave Reds,20.79,0,0,0,0,0,0,0,0,11,20.79
+,,Starburst Original,7.56,0,0,0,0,0,0,0,0,4,7.56
+,,Trolli Brite Crawlers,199.06,0,0,0,0,0,0,0,0,74,199.06
+,,Trolli Peachy-Os,188.3,0,0,0,0,0,0,0,0,70,188.3
+,,Trolli Sour Brite Crawler Verry Berry,104.91,0,0,0,0,0,0,0,0,39,104.91
+,,Twix,43.47,0,0,0,0,0,0,0,0,23,43.47
+,,Twix KS,103.25,0,0,0,0,0,0,0,0,35,103.25
+,,York Peppermint Patty,17.01,0,0,0,0,0,0,0,0,9,17.01
+,Candy,---,4300.42,0,0,0,0,0.75,-4.78,0,---,1714,4295.64
+,Gum,5 Cobalt 15pc,83.22,0,0,0,0,0,0,0,0,38,83.22
+,,5 Flood Sour Strawberry 15pc,59.75,0,0,0,0,0,0,0,0,25,59.75
+,,5 Rain 15pc,119.5,0,0,0,0,0,0,0,0,50,119.5
+,,5 React 15pc,74.09,0,0,0,0,0,0,0,0,31,74.09
+,,Extra Sweet Watermelon,25.35,0,0,0,0,0,0,0,0,15,25.35
+,,Glee Box Gum Peppermint 16pc,4.58,0,0,0,0,0,0,0,0,2,4.58
+,,Orbit Bubblemint,9.45,0,0,0,0,0,0,0,0,5,9.45
+,,Orbit Peppermint,37.8,0,0,0,0,0,0,0,0,20,37.8
+,,Orbit Spearmint,37.8,0,0,0,0,0,0,0,0,20,37.8
+,,Orbit Wintermint,39.69,0,0,0,0,0,0,0,0,21,39.69
+,,Trident Bubblegum 14pc,26.46,0,0,0,0,0,0,0,0,14,26.46
+,,Trident Orig Peppermint 14pc,83.16,0,0,0,0,0,0,0,0,44,83.16
+,,Trident Peppermint 14pc,13.23,0,0,0,0,0,0,0,0,7,13.23
+,,Trident Spearmint 14pc,85.05,0,0,0,0,0,0,0,0,45,85.05
+,,Trident Tropical Twist 14pc,51.03,0,0,0,0,0,0,0,0,27,51.03
+,,Trident Watermelon Twist 14pc,18.9,0,0,0,0,0,0,0,0,10,18.9
+,,Wrigley 5 RPM Mint 15pc,51.03,0,0,0,0,0,0,0,0,27,51.03
+,,Wrigley Juicy Fruit 15pc,13.23,0,0,0,0,0,0,0,0,7,13.23
+,,Wrigley Winterfresh 15pc,11.34,0,0,0,0,0,0,0,0,6,11.34
+,Gum,---,844.66,0,0,0,0,0,0,0,---,414,844.66
+,Mint,Altoids Artic Peppermint,35.85,0,0,0,0,0,0,0,0,15,35.85
+,,Altoids Peppermint,57.63,0,0,0,0,0,0,0,0,17,57.63
+,,Altoids Wintergreen,19.53,0,0,0,0,0,0,0,0,7,19.53
+,,Mentos Mint,13.23,0,0,0,0,0,0,0,0,7,13.23
+,,Mentos Mixed Fruit,17.01,0,0,0,0,0,0,0,0,9,17.01
+,,Tic Tac Freshmint 1oz,18.9,0,0,0,0,0,0,0,0,10,18.9
+,,Tic Tac Orange 1oz,17.01,0,0,0,0,0,0,0,0,9,17.01
+,,Tic Tac Wintergreen 1oz,15.12,0,0,0,0,0,0,0,0,8,15.12
+,Mint,---,194.28,0,0,0,0,0,0,0,---,82,194.28
+Sweets,---,---,5339.36,0,0,0,0,0.75,-4.78,0,---,2210,5334.58
+Grand Total,---,---,288278.38,1,6.49,0,0,1556.89,-401.55,-6064.19,---,63465,287870.34

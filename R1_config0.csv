@@ -1,0 +1,52 @@
+Item i,Group,Category,Menu Item,Net Qty,Net Sales,Refrigerator #,Rank t_i
+1,Grocery - Dairy,Cheese,Kraft String Cheese Twist,41,36.49,1,44
+2,,,Kraft String Ums,82,64.78,1,21
+3,,Dairy Other,Kraft Big Cheese Bar Colby Jack,4,10.71,1,156
+4,Grocery - Refrigerated,Eggs,Wilcox HB Egg 2Pk Cage Free,132,236.28,1,8
+5,,Packaged Grab and Go,Columbus Snack Tray Italian Dry Salami,40,239.6,1,48
+6,,,Hillshire SP Genoa Salame,22,87.78,1,92
+7,,,Hillshire SP Hot Calabrese,75,299,1,24
+8,,,Hillshire SP Ital Dry Salame,71,283.04,1,26
+9,,,Sabra Hummus Garlic and Pretzel,41,163.59,1,45
+10,,,Sabra Hummus Red Pepper,46,183.14,1,40
+11,,Perishable Other,Better Bean Hummus Cup 2oz,5,5.95,1,149
+12,Grocery Store Deli,Breakfast (Non-Weighed),Egg Hard Boiled Individual,1,0.89,1,174
+13,,Deli Case (Preweighed),BBQ Turkey Meatballs,138,794.24,1,5
+14,,,Chicken Potsticker Salad,111,572.98,1,13
+15,,,Corn Salad,39,190.21,1,51
+16,,,Pesto Tortellini,185,1166.52,1,4
+17,,,Quinoa Tabbolouleh,29,142.92,1,76
+18,,,Roasted Broccoli Salad,25,111.95,1,87
+19,,,Tropical Fruit Salad,124,694.07,1,10
+20,,,Teriyaki Beef Meal,136,1358.64,1,7
+21,,,Teriyaki Chicken Meal,128,1278.72,1,9
+22,,,Vegan Chana Masala,44,373.56,1,43
+23,Packaged,Breakfast,DM2Go Fresh Cut Fruit,138,805.92,1,6
+24,,Other,DM2Go Chia Pudding Strawberry,89,442.16,1,18
+25,,,DM2Go Fresh Crudite,87,477.08,1,19
+26,,,DM2Go Fresh Grapes,66,263.34,1,29
+27,,,DM2Go Moto Hawaiian Fried Rice,104,726.96,1,15
+28,,,DM2Go Chicken Kale Caesar Salad,200,1794.4,1,3
+29,,,DM2Go Farmers Market Salad,29,230.91,1,77
+30,,,DM2Go Greek Salad,23,125.72,1,89
+31,,Sandwich and Wrap,DM2Go Chicken Shawarma,111,975.69,1,14
+32,,,DM2Go Ham Havarti Croissant Sandwich,115,1031.8,1,12
+33,,,DM2Go Mediterranean Chickpea Sandwich,98,780.62,1,16
+34,,,DM2Go Peanut Butter and Jam Sandwich,64,319.36,1,31
+35,,,DM2Go Turkey and Cheddar Sandwich,320,2870.25,1,1
+36,Personal Care,Health Supplement,Goldthread Elderberry Defense Elixar,9,41.31,1,132
+37,,,Goldthread Green Minerals Elixar,3,13.77,1,162
+38,,,Goldthread Hawaiian Ginger Elixar,6,27.54,1,144
+39,,,Goldthread Honey Rose Elixar,8,36.72,1,139
+40,Retail Beverages,Enhanced Drink,Mamma Chia Raspberry Passion,18,77.22,1,104
+41,,,Mamma Chia Vitality Blackberry,16,63.84,1,110
+42,,RTD Coffee and Tea,KEVITA TART CHERRY 15.2OZ,36,160.56,1,56
+43,,,Kevita Kombucha Raspberry Lemon 15.2z,47,209.62,1,38
+44,,,Kevita MBK Ginger 15.2z,32,142.72,1,65
+45,,,Kevita MBK Pineapple Peach 15.2z,39,173.94,1,52
+46,,,Kevita Probiotic Lemonade,31,138.26,1,69
+47,,Water,Aquafina 20oz,267,584.73,1,2
+48,Snacks,Health Bars,G2G Bar Choc Banana,29,112.81,1,78
+49,,,G2G Bar Peanut Butter & Jelly,30,116.7,1,71
+,,,,,,,
+,,,_q_i=,3534,,,
